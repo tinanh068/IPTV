@@ -185,6 +185,8 @@ http://baochinh.ml/iptv-hplus.php?kenh=htvc-phimhd
 http://ott.realplaytv.net:12388/?header=hplus&name=htvc_phim&cdn=1
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.htvonline.com.vn/livetv/20042017/phim_48561492680416.png" group-title="PHIM TỔNG HỢP", HTVC Phim HD SV3
 http://live.cdn.mobifonetv.vn//motv/myhtvcphim_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="MobiTV" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_phim-hay_141217631093.png" group-title="PHIM TỔNG HỢP, Phim Hay HD
+http://live.cdn.mobifonetv.vn/motv3/phimhay_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/09/28/813147-htvc_dulich.cuocsong_.png" group-title="HTVC", HTVC Du Lịch SV1
 http://baochinh.ml/iptv-hplus.php?kenh=htvc-dulichhd
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/09/28/813147-htvc_dulich.cuocsong_.png" group-title="HTVC", HTVC Du Lịch SV2
@@ -394,6 +396,8 @@ http://kingproeu.com:8080/live/niacam/exchange50/22676.ts
 http://hanoitvlive.8ef55e0c.cdnviet.com/hanoi1.smil/chunklist_b3500000.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-hanoi-2_w150_h150.png" group-title="ĐỊA PHƯƠNG", Hà Nội 2 HD
 http://hanoitvlive.8ef55e0c.cdnviet.com/hanoi2.smil/chunklist_b3500000.m3u8
+#EXTINF:-1 group-title="MobiTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_mien-tay_141217633202.png" group-title="ĐỊA PHƯƠNG, Miền Tây
+http://live.cdn.mobifonetv.vn/motv2/mientay_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/KkIjWlG.png" group-title="ĐỊA PHƯƠNG", Ninh Thuận
 rtmp://203.113.166.233/live/NTV_VIDEO
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/5Ys78oI.png" group-title="ĐỊA PHƯƠNG", BẮC GIANG
@@ -840,6 +844,8 @@ http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225985/index.m3u8
 http://223.110.245.171/PLTV/3/224/3221225536/index.m3u8
 
 ~♥Kênh Tin Tức♥~
+#EXTINF:-1 group-title="MobiTV" tvg-logo="http://i.imgur.com/j7NsBwD.png" group-title="TIN TỨC, ANTG HD
+http://live.cdn.mobifonetv.vn/motv/antg_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/LNHvUHl.png" group-title="TIN TỨC", Nhân Dân HD
 http://27.118.16.98:1935/live/truyenhinhnhandan720/chunklist_w2006762604.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.56.158.185/tv_icon/ttxvn.png" group-title="TIN TỨC", TTXVN
