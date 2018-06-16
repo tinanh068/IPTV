@@ -549,9 +549,8 @@ http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226040/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226042/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/CwHvhmH.png" group-title="SPORT", IPTV5+
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000149?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/CwHvhmH.png" group-title="SPORT", SPORTS SV1
-http://203.162.235.41:17809
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/CwHvhmH.png" group-title="SPORT", SPORTS SV2
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/CwHvhmH.png" group-title="SPORT", SPORTS
 http://hls.mv.wa5.com/live/gssports1/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/CwHvhmH.png" group-title="SPORT", SPORTS SV3
 http://hls.mv.wa5.com/live/gssports1_900/playlist.m3u8
@@ -813,20 +812,10 @@ http://live.cdn.mobifonetv.vn/motv2/ttxvn_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.56.158.185/tv_icon/quoc-phong-vn.png" group-title="TIN TỨC", QPVN
 rtmp://125.212.132.219/standard/_definst_/mp4:standard_480p
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/xJq3NVu.png" group-title="TIN TỨC", Australia Plus
-http://baochinh.ml/iptv-hplus.php?kenh=australia-plus
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/tq13gJ0.png" group-title="TIN TỨC", TBS News Nhật
-http://203.162.235.41:17807
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/oAA7OiY.png" group-title="TIN TỨC", News 24 Nhật
-http://203.162.235.41:17805
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/9Eb0k7T.png" group-title="TIN TỨC", CNBC
-http://203.162.235.41:17819
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/hwhTjpi.png" group-title="TIN TỨC", BBC World News SV1
-http://203.162.235.41:17817
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/hwhTjpi.png" group-title="TIN TỨC", BBC World News SV2
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/hwhTjpi.png" group-title="TIN TỨC", BBC World News
 http://baochinh.ml/iptv-hplus.php?kenh=bbc-wn
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/MX0dYQ9.png" group-title="TIN TỨC", CNN SV1
-http://203.162.235.41:1781
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/MX0dYQ9.png" group-title="TIN TỨC", CNN SV2
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/MX0dYQ9.png" group-title="TIN TỨC", CNN 
 http://baochinh.ml/iptv-hplus.php?kenh=cnn
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/wnL4HXi.png" group-title="TIN TỨC", NHK World
 http://baochinh.ml/iptv-hplus.php?kenh=nhk
@@ -836,26 +825,6 @@ http://baochinh.ml/iptv-hplus.php?kenh=dw
 http://baochinh.ml/iptv-hplus.php?kenh=bloomberg
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Bsm36FU.png" group-title="TIN TỨC", Arise News
 http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TIN TỨC", BAL TV 1080P
-http://77.89.199.174:81/hls/live2.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TIN TỨC", KBVR-TV Orange Media Network (Oregon) 1080P
-http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TIN TỨC", Daystar 1080P
-https://bcsecurelivehls-i.akamaihd.net/hls/live/621275/1539097700001/master.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TIN TỨC", Newtv 1080P
-http://183.207.249.7/PLTV/3/224/3221225561/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TIN TỨC", DHTV 1080P
-http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TIN TỨC", TRT World 1080P
-https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TIN TỨC", Aljazeera-eng 1080P
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TIN TỨC", 24 1080P
-http://vid.techbee.pro:8080/crimea24/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TIN TỨC", MIR 1080P
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TIN TỨC", MSNBC 1080P
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
 
 ~♥Kênh Sinh Học♥~
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/KZHZBcq.png" group-title="SINH HỌC", S+1
