@@ -185,7 +185,7 @@ http://baochinh.ml/iptv-hplus.php?kenh=htvc-phimhd
 http://ott.realplaytv.net:12388/?header=hplus&name=htvc_phim&cdn=1
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.htvonline.com.vn/livetv/20042017/phim_48561492680416.png" group-title="PHIM TỔNG HỢP", HTVC Phim HD SV3
 http://live.cdn.mobifonetv.vn//motv/myhtvcphim_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="MobiTV" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_phim-hay_141217631093.png" group-title="PHIM TỔNG HỢP, Phim Hay HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_phim-hay_141217631093.png" group-title="PHIM TỔNG HỢP, Phim Hay HD
 http://live.cdn.mobifonetv.vn/motv3/phimhay_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/09/28/813147-htvc_dulich.cuocsong_.png" group-title="HTVC", HTVC Du Lịch SV1
 http://baochinh.ml/iptv-hplus.php?kenh=htvc-dulichhd
@@ -396,7 +396,7 @@ http://kingproeu.com:8080/live/niacam/exchange50/22676.ts
 http://hanoitvlive.8ef55e0c.cdnviet.com/hanoi1.smil/chunklist_b3500000.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-hanoi-2_w150_h150.png" group-title="ĐỊA PHƯƠNG", Hà Nội 2 HD
 http://hanoitvlive.8ef55e0c.cdnviet.com/hanoi2.smil/chunklist_b3500000.m3u8
-#EXTINF:-1 group-title="MobiTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_mien-tay_141217633202.png" group-title="ĐỊA PHƯƠNG, Miền Tây
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_mien-tay_141217633202.png" group-title="ĐỊA PHƯƠNG, Miền Tây
 http://live.cdn.mobifonetv.vn/motv2/mientay_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/KkIjWlG.png" group-title="ĐỊA PHƯƠNG", Ninh Thuận
 rtmp://203.113.166.233/live/NTV_VIDEO
@@ -792,59 +792,13 @@ http://cshms3.airtel.tv/wh7f454c46tw1200204061_952100745/PLTV/88888888/224/32212
 http://cshms3.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225805/01.m3u8
 
 ~♥Kênh TV NHẬT-HÀN-TÀU♥~
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ppGwMrb.png" group-title="TV NHẬT", WOWOW Nhật
-http://203.162.235.41:17816
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/YXKrDay.png" group-title="TV NHẬT", BS-TBS Nhật
-http://203.162.235.41:17813
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Xl751Jm.png" group-title="TV NHẬT", BS Nhật
-http://203.162.235.41:17811
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/jIAlqny.png" group-title="TV NHẬT", JAPAN 1
-http://203.162.235.41:17804
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/jIAlqny.png" group-title="TV NHẬT", JAPAN 2
-http://203.162.235.41:17812
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/jIAlqny.png" group-title="TV NHẬT", JAPAN 3
-http://203.162.235.41:17810
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/jIAlqny.png" group-title="TV NHẬT", JAPAN 4
-http://203.162.235.41:17808
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/jIAlqny.png" group-title="TV NHẬT", JAPAN 5
-http://203.162.235.41:17814
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/jIAlqny.png" group-title="TV NHẬT", JAPAN 6
-http://203.162.235.41:17806
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/5I6rNZE.png" group-title="TV NHẬT", NHK Nhật
-http://203.162.235.41:17801
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/RZTe78C.png" group-title="TV HÀN", KBS World
 http://baochinh.ml/iptv-hplus.php?kenh=kbs-world
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/BT66yZo.png" group-title="TV HÀN", ARIRANG
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV TÀU", CCTV-3 1080P
-http://223.110.243.150/PLTV/3/224/3221225588/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV TÀU", CCTV-4 1080P
-http://111.44.138.251:16416/contents40/live/CHANNEL4ff3d770b713424e9dafa96da0390915/HD_2013552811240083238/live.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV TÀU", CCTV-6 1080P
-http://223.110.245.172/PLTV/3/224/3221225548/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV TÀU", CCTV-8 1080P
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV TÀU", BesTV 1 1080P SV1
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226030/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV TÀU", BesTV 1 1080P SV2
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226035/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV TÀU", CHINA 1 1080P
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225989/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV TÀU", CHINA 2 1080P
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV TÀU", CHINA 3 1080P
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225988/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV TÀU", CHINA 4 1080P
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225501/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV TÀU", CHINA 5 1080P
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225985/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV TÀU", CHINA 6 1080P
-http://223.110.245.171/PLTV/3/224/3221225536/index.m3u8
-
 ~♥Kênh Tin Tức♥~
-#EXTINF:-1 group-title="MobiTV" tvg-logo="http://i.imgur.com/j7NsBwD.png" group-title="TIN TỨC, ANTG HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/j7NsBwD.png" group-title="TIN TỨC, ANTG HD
 http://live.cdn.mobifonetv.vn/motv/antg_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/LNHvUHl.png" group-title="TIN TỨC", Nhân Dân HD
 http://27.118.16.98:1935/live/truyenhinhnhandan720/chunklist_w2006762604.m3u8
@@ -897,46 +851,3 @@ http://vid.techbee.pro:8080/crimea24/index.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TIN TỨC", MSNBC 1080P
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="QUỐC TẾ 1080P", Kazakh TV 1080P
-http://kazakhtven.ultraiptv.com/live_en/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="QUỐC TẾ 1080P", Iryston TV 1080P
-http://now2.eaglecdn.com/stream/irystontv_irystontvstream/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="QUỐC TẾ 1080P", Igi TV 1080P
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="QUỐC TẾ 1080P", 78 ru 1080P
-http://78.gcdn.co/streams/877_13/1080n/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="QUỐC TẾ 1080P", Telesur TV 1080P
-http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="QUỐC TẾ 1080P", Sonnenklar TV 1080P SV1
-http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="QUỐC TẾ 1080P", Sonnenklar TV 1080P SV2
-http://cdn-europe.smartcast.de:1935/eotv/eotvhd/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="QUỐC TẾ 1080P", Alexlive TV 1080P
-http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/hasbahca.m3u8?bitrate=800
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="QUỐC TẾ 1080P", Sugsburg TV 1080P
-http://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="QUỐC TẾ 1080P", Donau TV 1080P
-http://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="QUỐC TẾ 1080P", Eo TV 1080P
-http://cdn-europe.smartcast.de:1935/eotv/eotvhd/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="QUỐC TẾ 1080P", Muenchen TV 1080P
-http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_1/playlist.m3u
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="QUỐC TẾ 1080P", Oberfranken TV
-1080P","playUrl":"http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="QUỐC TẾ 1080P", BLK TV 1080P
-http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="QUỐC TẾ 1080P", Ok-dessau 1080P
-http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/ok-dessau_high/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="QUỐC TẾ 1080P", Ok-magdeburg 1080P
-http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/ok-magdeburg_high/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="QUỐC TẾ 1080P", Ok-salzwedel 1080P
-http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/ok-salzwedel_high/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="QUỐC TẾ 1080P", Tvaktuellr TV 1080P
-http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/stream.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="QUỐC TẾ 1080P", Tirol TV 1080P
-http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="QUỐC TẾ 1080P", Adultswim 1080P
-http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="QUỐC TẾ 1080P", QVC 1080P
-http://qvclvp2.mmdlive.lldns.net/qvclvp2/cd5bfeab75a34ba18301490388fd4daa/manifest.m3u8
