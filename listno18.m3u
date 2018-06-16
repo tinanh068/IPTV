@@ -4,9 +4,9 @@
 http://baochinh.ml/iptv-thvli.php?id=vinhlong1hd
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/UNIF3e2.jpg" group-title="THVL", Vĩnh Long 1 HD SV2
 http://xemtivi24.000webhostapp.com/iptv-thvli.php?id=vinhlong1hd
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/UNIF3e2.jpg" group-title="THVL", Vĩnh Long 1 SD
-http://baochinh.ml/iptv-hplus.php?kenh=vinhlong1
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/UNIF3e2.jpg" group-title="THVL", Vĩnh Long 1 SV1
+http://baochinh.ml/iptv-hplus.php?kenh=vinhlong1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/UNIF3e2.jpg" group-title="THVL", Vĩnh Long 1 SV2
 http://ott.realplaytv.net:12388/?header=hplus&name=Vinh_Long_1&cdn=1
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/XdoRj6h.png" group-title="THVL", Vĩnh Long 2 HD SV1
 http://baochinh.ml/iptv-thvli.php?id=vinhlong2hd
@@ -25,8 +25,10 @@ http://baochinh.ml/iptv-hplus.php?kenh=vtv1hd
 https://cdn-livestream-live.vtvgiaitri.vn/vtv1.smil/chunklist_b2000000.m3u8 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv1_w150_h150.png" group-title="VTV", VTV1 HD SV4
 https://cdn-livestream-live.vtvgiaitri.vn/vtv1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/JW8VXef.png" group-title="VTV", VTV1 HD SV4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/JW8VXef.png" group-title="VTV", VTV1 HD SV5
 http://live.cdn.mobifonetv.vn/motv/vtv1hd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/JW8VXef.png" group-title="VTV", VTV1 HD SV6
+http://cdn-livestream-live.vtvgiaitri.vn/vtv1.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv1_w150_h150.png" group-title="VTV", VTV1
 http://ott.realplaytv.net:12388/?header=hplus&name=vtv1&cdn=1
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv2_w150_h150.png" group-title="VTV", VTV2 HD SV1
@@ -36,7 +38,7 @@ https://cdn-livestream-live.vtvgiaitri.vn/vtv2.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 tvg-id="VTV 2" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv2_w150_h150.png" group-title="VTV", VTV2 HD SV3
 https://cdn-livestream-live.vtvgiaitri.vn/vtv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="VTV 2" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv2_w150_h150.png" group-title="VTV", VTV2 HD SV4
-http://xemtivi24.000webhostapp.com/iptv-nexttv.php?kenh=vtv2
+http://cdn-livestream-live.vtvgiaitri.vn/vtv2.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv3_w150_h150.png" group-title="VTV", VTV3 HD SV1
 http://baochinh.gq/iptv-nexttv.php?kenh=vtv3
 #EXTINF:-1 tvg-id="VTV 3" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv3_w150_h150.png" group-title="VTV", VTV3 HD SV2
@@ -44,7 +46,7 @@ https://cdn-livestream-live.vtvgiaitri.vn/vtv3.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 tvg-id="VTV 3" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv3_w150_h150.png" group-title="VTV", VTV3 HD SV3
 https://cdn-livestream-live.vtvgiaitri.vn/vtv3.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="VTV 3" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv3_w150_h150.png" group-title="VTV", VTV3 HD SV4
-http://xemtivi24.000webhostapp.com/iptv-nexttv.php?kenh=vtv3
+http://cdn-livestream-live.vtvgiaitri.vn/vtv3.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv4_w150_h150.png" group-title="VTV", VTV4 HD SV1
 http://baochinh.ga/iptv-nexttv.php?kenh=vtv4
 #EXTINF:-1 tvg-id="VTV4" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv4_w150_h150.png" group-title="VTV", VTV4 HD SV2
@@ -52,6 +54,8 @@ https://cdn-livestream-live.vtvgiaitri.vn/vtv4.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 tvg-id="VTV4" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv4_w150_h150.png" group-title="VTV", VTV4 HD SV3
 https://cdn-livestream-live.vtvgiaitri.vn/vtv4.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="VTV4" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv4_w150_h150.png" group-title="VTV", VTV4 HD SV4
+http://cdn-livestream-live.vtvgiaitri.vn/vtv4.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-id="VTV4" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv4_w150_h150.png" group-title="VTV", VTV4 HD SV5
 http://xemtivi24.000webhostapp.com/iptv-nexttv.php?kenh=vtv4
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv5_w150_h150.png" group-title="VTV", VTV5 HD SV1
 http://baochinh.ml/iptv-nexttv.php?kenh=vtv5
@@ -60,6 +64,8 @@ https://cdn-livestream-live.vtvgiaitri.vn/vtv5.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 tvg-id="VTV5" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv5_w150_h150.png" group-title="VTV", VTV5 HD SV3
 https://cdn-livestream-live.vtvgiaitri.vn/vtv5.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="VTV5" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv5_w150_h150.png" group-title="VTV", VTV5 HD SV4
+http://cdn-livestream-live.vtvgiaitri.vn/vtv5.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-id="VTV5" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv5_w150_h150.png" group-title="VTV", VTV5 HD SV5
 http://xemtivi24.000webhostapp.com/iptv-nexttv.php?kenh=vtv5
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/keIENsc.png" group-title="VTV", VTV6 HD SV1
 http://baochinh.gq/iptv-nexttv.php?kenh=vtv6
@@ -68,9 +74,7 @@ https://cdn-livestream-live.vtvgiaitri.vn/vtv6.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 tvg-id="VTV 6" tvg-logo="http://i.imgur.com/keIENsc.png" group-title="VTV", VTV6 HD SV3
 https://cdn-livestream-live.vtvgiaitri.vn/vtv6.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="VTV 6" tvg-logo="http://i.imgur.com/keIENsc.png" group-title="VTV", VTV6 HD SV4
-http://xemtivi24.000webhostapp.com/iptv-nexttv.php?kenh=vtv6
-#EXTINF:-1 tvg-id="VTV6 HD" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv6_w150_h150.png" group-title="VTV", VTV6 HD SV5
-http://vnlivetv.tk/ducnt/v6hd
+http://cdn-livestream-live.vtvgiaitri.vn/vtv6.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7hC1wSG.jpg" group-title="VTV", VTV7 HD SV1
 http://baochinh.ga/iptv-nexttv.php?kenh=vtv7
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7hC1wSG.jpg" group-title="VTV", VTV7 HD SV2
@@ -80,9 +84,9 @@ https://cdn-livestream-live.vtvgiaitri.vn/vtv7.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7hC1wSG.jpg" group-title="VTV", VTV7 HD SV4
 https://cdn-livestream-live.vtvgiaitri.vn/vtv7.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7hC1wSG.jpg" group-title="VTV", VTV7 HD SV5
+http://cdn-livestream-live.vtvgiaitri.vn/vtv7.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7hC1wSG.jpg" group-title="VTV", VTV7 HD SV6
 http://xemtivi24.000webhostapp.com/iptv-nexttv.php?kenh=vtv7
-#EXTINF:-1 tvg-id="VTV7 HD" tvg-logo="https://i.imgur.com/7hC1wSG.jpg" group-title="VTV", VTV7 HD SV6
-http://vnlivetv.tk/ducnt/v7hd
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv8_w150_h150.png" group-title="VTV", VTV8 HD SV1
 http://baochinh.ml/iptv-nexttv.php?kenh=vtv8
 #EXTINF:-1 tvg-id="VTV8 HD" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv8_w150_h150.png" group-title="VTV", VTV8 HD SV2
@@ -92,6 +96,8 @@ https://cdn-livestream-live.vtvgiaitri.vn/vtv8.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 tvg-id="VTVDN" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv8_w150_h150.png" group-title="VTV", VTV8 HD SV4
 https://cdn-livestream-live.vtvgiaitri.vn/vtv8.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="VTVDN" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv8_w150_h150.png" group-title="VTV", VTV8 HD SV5
+http://cdn-livestream-live.vtvgiaitri.vn/vtv8.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-id="VTVDN" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv8_w150_h150.png" group-title="VTV", VTV8 HD SV6
 http://xemtivi24.000webhostapp.com/iptv-nexttv.php?kenh=vtv8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.kplus.vn/content/upload/1/root/logo-vtv9_w150_h150.png" group-title="VTV", VTV9 HD SV1
 http://baochinh.gq/iptv-nexttv.php?kenh=vtv9
@@ -101,10 +107,10 @@ http://baochinh.ml/iptv-hplus.php?kenh=vtv9hd
 https://cdn-livestream-live.vtvgiaitri.vn/vtv9.smil/chunklist_b2000000.m3u8 
 #EXTINF:-1 tvg-id="VTV9" tvg-logo="https://cdn.kplus.vn/content/upload/1/root/logo-vtv9_w150_h150.png" group-title="VTV", VTV9 HD SV4
 https://cdn-livestream-live.vtvgiaitri.vn/vtv9.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="VTV9" tvg-logo="https://cdn.kplus.vn/content/upload/1/root/logo-vtv9_w150_h150.png" group-title="VTV", VTV9 HD SV5
+#EXTINF:-1 tvg-id="VTV9" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv9_w150_h150.png" group-title="VTV", VTV9 HD SV5
+http://cdn-livestream-live.vtvgiaitri.vn/vtv9.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-id="VTV9" tvg-logo="https://cdn.kplus.vn/content/upload/1/root/logo-vtv9_w150_h150.png" group-title="VTV", VTV9 HD SV6
 http://xemtivi24.000webhostapp.com/iptv-nexttv.php?kenh=vtv9
-#EXTINF:-1 tvg-id="VTV9" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv9_w150_h150.png" group-title="VTV", VTV9 HD SV6
-http://vnlivetv.tk/ducnt/v9hd
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.htvonline.com.vn/livetv/14102016/htv1_51761476437549.png" group-title="HTV", HTV1 SV1
 http://live.cdn.mobifonetv.vn/motv/myhtv1_hls.smil/chunklist_b1200000.m3u8	
@@ -142,7 +148,6 @@ http://baochinh.ml/iptv-hplus.php?kenh=htv9hd
 http://live.cdn.mobifonetv.vn/motv/myhtv9_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.htvonline.com.vn/livetv/14102016/htv9-hd_54971476437480.png" group-title="HTV", HTV9 SV2
 http://ott.realplaytv.net:12388/?header=hplus&name=htv9&cdn=1
-
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Ao2TIpc.jpg" group-title="MUSIC", VTC Ca Nhạc
 http://118.107.68.10:1935/live/_definst_/VTC_CANHAC2017/playlist.m3u8
