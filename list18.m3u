@@ -1,252 +1,147 @@
 #EXTM3U
-#EXTINF:-1, ♥♥♥ List By Admin Tín Update 11/10/2018 ♥♥♥
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/UNIF3e2.jpg" group-title="THVL", Vĩnh Long 1 HD SV1
-http://baochinh.ml/iptv-thvli.php?id=vinhlong1hd
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/UNIF3e2.jpg" group-title="THVL", Vĩnh Long 1 HD SV2
+#EXTINF:-1, ♥♥♥ List By Admin Tín Update 3/7/2018 ♥♥♥
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/UNIF3e2.jpg" group-title="THVL", Vĩnh Long 1 HD
 http://xemtivi24.000webhostapp.com/iptv-thvli.php?id=vinhlong1hd
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/UNIF3e2.jpg" group-title="THVL", Vĩnh Long 1 SV1
-http://baochinh.ml/iptv-hplus.php?kenh=vinhlong1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/UNIF3e2.jpg" group-title="THVL", Vĩnh Long 1 SV2
-http://ott.realplaytv.net:12388/?header=hplus&name=Vinh_Long_1&cdn=1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/XdoRj6h.png" group-title="THVL", Vĩnh Long 2 HD SV1
-http://baochinh.ml/iptv-thvli.php?id=vinhlong2hd
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/XdoRj6h.png" group-title="THVL", Vĩnh Long 2 HD SV2
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/XdoRj6h.png" group-title="THVL", Vĩnh Long 2 HD 
 http://xemtivi24.000webhostapp.com/iptv-thvli.php?id=vinhlong2hd
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/XdoRj6h.png" group-title="THVL", Vĩnh Long 2 SV1
-http://baochinh.ml/iptv-hplus.php?kenh=vinhlong2
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/XdoRj6h.png" group-title="THVL", Vĩnh Long 2 SV1
-http://ott.realplaytv.net:12388/?header=hplus&name=Vinh_Long_2&cdn=1
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv1_w150_h150.png" group-title="VTV", VTV1 HD SV1
-http://baochinh.ga/iptv-nexttv.php?kenh=vtv1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv1_w150_h150.png" group-title="VTV", VTV1 HD SV2
-http://baochinh.ml/iptv-hplus.php?kenh=vtv1hd
-#EXTINF:-1 tvg-id="VTV 1" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv1_w150_h150.png" group-title="VTV", VTV1 HD SV3
+#EXTINF:-1 tvg-id="VTV 1" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv1_w150_h150.png" group-title="VTV", VTV1 HD SV1
 https://cdn-livestream-live.vtvgiaitri.vn/vtv1.smil/chunklist_b2000000.m3u8 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv1_w150_h150.png" group-title="VTV", VTV1 HD SV2
+http://live.cdn.mobifonetv.vn/motv/vtv1hd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv1_w150_h150.png" group-title="VTV", VTV1 HD SV3
+http://cdn-livestream-live.vtvgiaitri.vn/vtv1.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv1_w150_h150.png" group-title="VTV", VTV1 HD SV4
 https://cdn-livestream-live.vtvgiaitri.vn/vtv1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/JW8VXef.png" group-title="VTV", VTV1 HD SV5
-http://live.cdn.mobifonetv.vn/motv/vtv1hd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/JW8VXef.png" group-title="VTV", VTV1 HD SV6
-http://cdn-livestream-live.vtvgiaitri.vn/vtv1.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv1_w150_h150.png" group-title="VTV", VTV1
-http://ott.realplaytv.net:12388/?header=hplus&name=vtv1&cdn=1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv2_w150_h150.png" group-title="VTV", VTV2 HD SV1
-http://baochinh.ml/iptv-nexttv.php?kenh=vtv2
-#EXTINF:-1 tvg-id="VTV 2" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv2_w150_h150.png" group-title="VTV", VTV2 HD SV2
+#EXTINF:-1 tvg-id="VTV 2" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv2_w150_h150.png" group-title="VTV", VTV2 HD SV1
 https://cdn-livestream-live.vtvgiaitri.vn/vtv2.smil/chunklist_b2000000.m3u8 
+#EXTINF:-1 tvg-id="VTV 2" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv2_w150_h150.png" group-title="VTV", VTV2 HD SV2
+http://cdn-livestream-live.vtvgiaitri.vn/vtv2.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-id="VTV 2" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv2_w150_h150.png" group-title="VTV", VTV2 HD SV3
 https://cdn-livestream-live.vtvgiaitri.vn/vtv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="VTV 2" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv2_w150_h150.png" group-title="VTV", VTV2 HD SV4
-http://cdn-livestream-live.vtvgiaitri.vn/vtv2.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv3_w150_h150.png" group-title="VTV", VTV3 HD FPT
 https://livecdn.fptplay.net/hdevent/vtv3hd_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv3_w150_h150.png" group-title="VTV", VTV3 HD SV1
-http://baochinh.gq/iptv-nexttv.php?kenh=vtv3
-#EXTINF:-1 tvg-id="VTV 3" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv3_w150_h150.png" group-title="VTV", VTV3 HD SV2
+#EXTINF:-1 tvg-id="VTV 3" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv3_w150_h150.png" group-title="VTV", VTV3 HD SV1
 https://cdn-livestream-live.vtvgiaitri.vn/vtv3.smil/chunklist_b2000000.m3u8 
+#EXTINF:-1 tvg-id="VTV 3" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv3_w150_h150.png" group-title="VTV", VTV3 HD SV2
+http://cdn-livestream-live.vtvgiaitri.vn/vtv3.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-id="VTV 3" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv3_w150_h150.png" group-title="VTV", VTV3 HD SV3
 https://cdn-livestream-live.vtvgiaitri.vn/vtv3.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="VTV 3" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv3_w150_h150.png" group-title="VTV", VTV3 HD SV4
-http://cdn-livestream-live.vtvgiaitri.vn/vtv3.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv4_w150_h150.png" group-title="VTV", VTV4 HD SV1
-http://baochinh.ga/iptv-nexttv.php?kenh=vtv4
-#EXTINF:-1 tvg-id="VTV4" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv4_w150_h150.png" group-title="VTV", VTV4 HD SV2
+#EXTINF:-1 tvg-id="VTV4" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv4_w150_h150.png" group-title="VTV", VTV4 HD SV1
 https://cdn-livestream-live.vtvgiaitri.vn/vtv4.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 tvg-id="VTV4" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv4_w150_h150.png" group-title="VTV", VTV4 HD SV2
+http://cdn-livestream-live.vtvgiaitri.vn/vtv4.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-id="VTV4" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv4_w150_h150.png" group-title="VTV", VTV4 HD SV3
 https://cdn-livestream-live.vtvgiaitri.vn/vtv4.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="VTV4" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv4_w150_h150.png" group-title="VTV", VTV4 HD SV4
-http://cdn-livestream-live.vtvgiaitri.vn/vtv4.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-id="VTV4" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv4_w150_h150.png" group-title="VTV", VTV4 HD SV5
 http://xemtivi24.000webhostapp.com/iptv-nexttv.php?kenh=vtv4
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv5_w150_h150.png" group-title="VTV", VTV5 HD SV1
-http://baochinh.ml/iptv-nexttv.php?kenh=vtv5
-#EXTINF:-1 tvg-id="VTV5" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv5_w150_h150.png" group-title="VTV", VTV5 HD SV2
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv4_w150_h150.png" group-title="VTV", VTV4 HD SV5
+http://baochinh.ga/iptv-nexttv.php?kenh=vtv4
+#EXTINF:-1 tvg-id="VTV5" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv5_w150_h150.png" group-title="VTV", VTV5 HD SV1
 https://cdn-livestream-live.vtvgiaitri.vn/vtv5.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 tvg-id="VTV5" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv5_w150_h150.png" group-title="VTV", VTV5 HD SV2
+http://cdn-livestream-live.vtvgiaitri.vn/vtv5.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-id="VTV5" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv5_w150_h150.png" group-title="VTV", VTV5 HD SV3
 https://cdn-livestream-live.vtvgiaitri.vn/vtv5.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="VTV5" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv5_w150_h150.png" group-title="VTV", VTV5 HD SV4
-http://cdn-livestream-live.vtvgiaitri.vn/vtv5.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-id="VTV5" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv5_w150_h150.png" group-title="VTV", VTV5 HD SV5
 http://xemtivi24.000webhostapp.com/iptv-nexttv.php?kenh=vtv5
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/keIENsc.png" group-title="VTV", VTV6 HD FPT
 http://livecdn.fptplay.net/hdevent/vtv6hd_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/keIENsc.png" group-title="VTV", VTV6 HD SV1
-http://baochinh.gq/iptv-nexttv.php?kenh=vtv6
-#EXTINF:-1 tvg-id="VTV 6" tvg-logo="http://i.imgur.com/keIENsc.png" group-title="VTV", VTV6 HD SV2
+#EXTINF:-1 tvg-id="VTV 6" tvg-logo="http://i.imgur.com/keIENsc.png" group-title="VTV", VTV6 HD SV1
 https://cdn-livestream-live.vtvgiaitri.vn/vtv6.smil/chunklist_b2000000.m3u8 
+#EXTINF:-1 tvg-id="VTV 6" tvg-logo="http://i.imgur.com/keIENsc.png" group-title="VTV", VTV6 HD SV2
+http://cdn-livestream-live.vtvgiaitri.vn/vtv6.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-id="VTV 6" tvg-logo="http://i.imgur.com/keIENsc.png" group-title="VTV", VTV6 HD SV3
 https://cdn-livestream-live.vtvgiaitri.vn/vtv6.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="VTV 6" tvg-logo="http://i.imgur.com/keIENsc.png" group-title="VTV", VTV6 HD SV4
-http://cdn-livestream-live.vtvgiaitri.vn/vtv6.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7hC1wSG.jpg" group-title="VTV", VTV7 HD SV1
-http://baochinh.ga/iptv-nexttv.php?kenh=vtv7
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7hC1wSG.jpg" group-title="VTV", VTV7 HD SV2
-http://baochinh.ml/iptv-hplus.php?kenh=vtv7hd
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7hC1wSG.jpg" group-title="VTV", VTV7 HD SV3
 https://cdn-livestream-live.vtvgiaitri.vn/vtv7.smil/chunklist_b2000000.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7hC1wSG.jpg" group-title="VTV", VTV7 HD SV4
-https://cdn-livestream-live.vtvgiaitri.vn/vtv7.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7hC1wSG.jpg" group-title="VTV", VTV7 HD SV5
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7hC1wSG.jpg" group-title="VTV", VTV7 HD SV2
 http://cdn-livestream-live.vtvgiaitri.vn/vtv7.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7hC1wSG.jpg" group-title="VTV", VTV7 HD SV6
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7hC1wSG.jpg" group-title="VTV", VTV7 HD SV3
+https://cdn-livestream-live.vtvgiaitri.vn/vtv7.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7hC1wSG.jpg" group-title="VTV", VTV7 HD SV4
 http://xemtivi24.000webhostapp.com/iptv-nexttv.php?kenh=vtv7
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv8_w150_h150.png" group-title="VTV", VTV8 HD SV1
-http://baochinh.ml/iptv-nexttv.php?kenh=vtv8
-#EXTINF:-1 tvg-id="VTV8 HD" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv8_w150_h150.png" group-title="VTV", VTV8 HD SV2
-http://baochinh.ml/iptv-hplus.php?kenh=vtv8hd
-#EXTINF:-1 tvg-id="VTV8 HD" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv8_w150_h150.png" group-title="VTV", VTV8 HD SV3
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7hC1wSG.jpg" group-title="VTV", VTV7 HD SV5
+http://baochinh.ga/iptv-nexttv.php?kenh=vtv7
+#EXTINF:-1 tvg-id="VTV8 HD" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv8_w150_h150.png" group-title="VTV", VTV8 HD SV1
 https://cdn-livestream-live.vtvgiaitri.vn/vtv8.smil/chunklist_b2000000.m3u8
-#EXTINF:-1 tvg-id="VTVDN" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv8_w150_h150.png" group-title="VTV", VTV8 HD SV4
-https://cdn-livestream-live.vtvgiaitri.vn/vtv8.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="VTVDN" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv8_w150_h150.png" group-title="VTV", VTV8 HD SV5
+#EXTINF:-1 tvg-id="VTVDN" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv8_w150_h150.png" group-title="VTV", VTV8 HD SV2
 http://cdn-livestream-live.vtvgiaitri.vn/vtv8.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-id="VTVDN" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv8_w150_h150.png" group-title="VTV", VTV8 HD SV6
+#EXTINF:-1 tvg-id="VTVDN" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv8_w150_h150.png" group-title="VTV", VTV8 HD SV3
+https://cdn-livestream-live.vtvgiaitri.vn/vtv8.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="VTVDN" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv8_w150_h150.png" group-title="VTV", VTV8 HD SV4
 http://xemtivi24.000webhostapp.com/iptv-nexttv.php?kenh=vtv8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.kplus.vn/content/upload/1/root/logo-vtv9_w150_h150.png" group-title="VTV", VTV9 HD SV1
-http://baochinh.gq/iptv-nexttv.php?kenh=vtv9
-#EXTINF:-1 tvg-id="VTV9" tvg-logo="https://cdn.kplus.vn/content/upload/1/root/logo-vtv9_w150_h150.png" group-title="VTV", VTV9 HD SV2
-http://baochinh.ml/iptv-hplus.php?kenh=vtv9hd
-#EXTINF:-1 tvg-id="VTV9" tvg-logo="https://cdn.kplus.vn/content/upload/1/root/logo-vtv9_w150_h150.png" group-title="VTV", VTV9 HD SV3
+#EXTINF:-1 tvg-id="VTV9" tvg-logo="https://cdn.kplus.vn/content/upload/1/root/logo-vtv9_w150_h150.png" group-title="VTV", VTV9 HD SV1
 https://cdn-livestream-live.vtvgiaitri.vn/vtv9.smil/chunklist_b2000000.m3u8 
-#EXTINF:-1 tvg-id="VTV9" tvg-logo="https://cdn.kplus.vn/content/upload/1/root/logo-vtv9_w150_h150.png" group-title="VTV", VTV9 HD SV4
-https://cdn-livestream-live.vtvgiaitri.vn/vtv9.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="VTV9" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv9_w150_h150.png" group-title="VTV", VTV9 HD SV5
+#EXTINF:-1 tvg-id="VTV9" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv9_w150_h150.png" group-title="VTV", VTV9 HD SV2
 http://cdn-livestream-live.vtvgiaitri.vn/vtv9.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-id="VTV9" tvg-logo="https://cdn.kplus.vn/content/upload/1/root/logo-vtv9_w150_h150.png" group-title="VTV", VTV9 HD SV6
+#EXTINF:-1 tvg-id="VTV9" tvg-logo="https://cdn.kplus.vn/content/upload/1/root/logo-vtv9_w150_h150.png" group-title="VTV", VTV9 HD SV3
+https://cdn-livestream-live.vtvgiaitri.vn/vtv9.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="VTV9" tvg-logo="https://cdn.kplus.vn/content/upload/1/root/logo-vtv9_w150_h150.png" group-title="VTV", VTV9 HD SV4
 http://xemtivi24.000webhostapp.com/iptv-nexttv.php?kenh=vtv9
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.htvonline.com.vn/livetv/14102016/htv1_51761476437549.png" group-title="HTV", HTV1 SV1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.kplus.vn/content/upload/1/root/logo-vtv9_w150_h150.png" group-title="VTV", VTV9 HD SV5
+http://baochinh.gq/iptv-nexttv.php?kenh=vtv9
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv1_w150_h150.png" group-title="VTV WEB", VTV1 HD 
+http://play.vtv.vn/?v=dnR2MQ==&t=1528356637343
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv2_w150_h150.png" group-title="VTV WEB", VTV2 HD 
+http://play.vtv.vn/?v=dnR2Mg==&t=1528356963323
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv3_w150_h150.png" group-title="VTV WEB", VTV3 HD 
+http://play.vtv.vn/?v=dnR2Mw==&t=1528357706136
+#EXTINF:-1 tvg-id="VTV4" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv4_w150_h150.png" group-title="VTV WEB", VTV4 HD 
+http://play.vtv.vn/?v=dnR2NA==&t=1528357922464
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv5_w150_h150.png" group-title="VTV WEB", VTV5 HD 
+http://play.vtv.vn/?v=dnR2NQ==&t=1528358046628
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv5_w150_h150.png" group-title="VTV WEB", VTV5 Tây Nguyên
+http://play.vtv.vn/?v=dnR2NXRu&t=1528358183372
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv5_w150_h150.png" group-title="VTV WEB", VTV5 Tây Nam Bộ
+http://play.vtv.vn/?v=dnR2NWtt&t=1528358307381
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/keIENsc.png" group-title="VTV WEB", VTV6 HD 
+http://play.vtv.vn/?v=dnR2Ng==&t=1528358800027
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7hC1wSG.jpg" group-title="VTV WEB", VTV7  HD
+http://play.vtv.vn/?v=dnR2Nw==&t=1528358932575
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv8_w150_h150.png" group-title="VTV WEB", VTV8 HD 
+http://play.vtv.vn/?v=dnR2OA==&t=1528359015350
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.kplus.vn/content/upload/1/root/logo-vtv9_w150_h150.png" group-title="VTV WEB", VTV9 HD 
+http://play.vtv.vn/?v=dnR2OQ==&t=1528359172663
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.htvonline.com.vn/livetv/14102016/htv1_51761476437549.png" group-title="HTV", HTV1 
 http://live.cdn.mobifonetv.vn/motv/myhtv1_hls.smil/chunklist_b1200000.m3u8	
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.htvonline.com.vn/livetv/14102016/htv1_51761476437549.png" group-title="HTV", HTV1 SV2
-http://baochinh.ml/iptv-hplus.php?kenh=htv1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.htvonline.com.vn/livetv/14102016/htv1_51761476437549.png" group-title="HTV", HTV1 SV3
-http://ott.realplaytv.net:12388/?header=hplus&name=htv1&cdn=1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/996898-htv2hd.png" group-title="HTV", HTV2 SV1 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/996898-htv2hd.png" group-title="HTV", HTV2
 http://live.cdn.mobifonetv.vn/motv/myhtv2_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/996898-htv2hd.png" group-title="HTV", HTV2 SV2
-http://ott.realplaytv.net:12388/?header=hplus&name=htv2&cdn=1	
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/996898-htv2hd.png" group-title="HTV", HTV2 SV3
-http://baochinh.ml/iptv-hplus.php?kenh=htv2hd
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.htvonline.com.vn/livetv/14102016/htv3_42031476437556.png" group-title="HTV", HTV3 SV1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.htvonline.com.vn/livetv/14102016/htv3_42031476437556.png" group-title="HTV", HTV3 
 http://live.cdn.mobifonetv.vn/motv/myhtv3_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.htvonline.com.vn/livetv/14102016/htv3_42031476437556.png" group-title="HTV", HTV3 SV2
-http://ott.realplaytv.net:12388/?header=hplus&name=htv3&cdn=1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.htvonline.com.vn/livetv/14102016/htv3_42031476437556.png" group-title="HTV", HTV3 SV3
-http://baochinh.ml/iptv-hplus.php?kenh=htv3
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.htvonline.com.vn/livetv/14102016/htv4_39331476437563.png" group-title="HTV", HTV4 SV1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.htvonline.com.vn/livetv/14102016/htv4_39331476437563.png" group-title="HTV", HTV4 
 http://live.cdn.mobifonetv.vn/motv/myhtv4_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.htvonline.com.vn/livetv/14102016/htv4_39331476437563.png" group-title="HTV", HTV4 SV2
-http://ott.realplaytv.net:12388/?header=hplus&name=htv4&cdn=1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.htvonline.com.vn/livetv/14102016/htv4_39331476437563.png" group-title="HTV", HTV4 SV3
-http://baochinh.ml/iptv-hplus.php?kenh=htv4
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.htvonline.com.vn/livetv/16082017/htv7-hd-new_20261502855715.png" group-title="HTV", HTV7 HD 
-http://baochinh.ml/iptv-hplus.php?kenh=htv7hd
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.htvonline.com.vn/livetv/16082017/htv7-hd-new_20261502855715.png" group-title="HTV", HTV7 SV1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.htvonline.com.vn/livetv/16082017/htv7-hd-new_20261502855715.png" group-title="HTV", HTV7
 http://live.cdn.mobifonetv.vn/motv/myhtv7_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.htvonline.com.vn/livetv/16082017/htv7-hd-new_20261502855715.png" group-title="HTV", HTV7 SV2
-http://ott.realplaytv.net:12388/?header=hplus&name=htv7&cdn=1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.htvonline.com.vn/livetv/14102016/htv9-hd_54971476437480.png" group-title="HTV", HTV9 HD 
-http://baochinh.ml/iptv-hplus.php?kenh=htv9hd
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.htvonline.com.vn/livetv/14102016/htv9-hd_54971476437480.png" group-title="HTV", HTV9 SV1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.htvonline.com.vn/livetv/14102016/htv9-hd_54971476437480.png" group-title="HTV", HTV9
 http://live.cdn.mobifonetv.vn/motv/myhtv9_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.htvonline.com.vn/livetv/14102016/htv9-hd_54971476437480.png" group-title="HTV", HTV9 SV2
-http://ott.realplaytv.net:12388/?header=hplus&name=htv9&cdn=1
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Ao2TIpc.jpg" group-title="MUSIC", VTC Ca Nhạc
 http://118.107.68.10:1935/live/_definst_/VTC_CANHAC2017/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/DdAPkSm.png" group-title="VTC", VTC1 HD SV1
-http://ott.realplaytv.net:12388/?header=hplus&name=vtc1&cdn=1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/DdAPkSm.png" group-title="VTC", VTC1 HD SV2
-http://baochinh.ml/iptv-hplus.php?kenh=vtc1hd
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/DdAPkSm.png" group-title="VTC", VTC1 HD SV3
 http://118.107.68.10:1935/live/smil:VTC1HD_ad86cb2e3c70f5e1.smil/chunklist_w156696500_b1296000_slVI.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/DdAPkSm.png" group-title="VTC", VTC1 HD SV4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/DdAPkSm.png" group-title="VTC", VTC1 HD SV2
 http://118.107.68.10:1935/live/smil:VTC1HD_ad86cb2e3c70f5e1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/DdAPkSm.png" group-title="VTC", VTC1 HD SV5
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/DdAPkSm.png" group-title="VTC", VTC1 HD SV3
 http://antv.xemtvhd.com:1935/live/smil:VTC1HD_ad86cb2e3c70f5e1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/2AyM2Mr.png" group-title="VTC", VTC3 HD
-http://baochinh.ml/iptv-hplus.php?kenh=vtc3hd
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/UjmS4eU.png" group-title="VTC", VTC4 
-http://ott.realplaytv.net:12388/?header=hplus&name=vtc4&cdn=1
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/3QYpmSw.png" group-title="VTC", VTC5-tvBlue 
 http://vtsstr4.sctv.vn:1935/testlive1/vtc5_SD.smil/chunklist_w1539000199_b2292000_19851.m3u8
-#EXTINF:-1 tvg-id="VTC7" tvg-logo="https://i.imgur.com/VYm0bOc.png" group-title="VTC", VTC7-Today HD
-http://ott.realplaytv.net:12388/?header=hplus&name=vtc7&cdn=1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/gKHVSKn.png" group-title="VTC", VTC8 
-http://ott.realplaytv.net:12388/?header=hplus&name=vtc8&cdn=1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ZI3ixiG.png" group-title="VTC", VTC10-Nét Việt
-http://ott.realplaytv.net:12388/?header=hplus&name=vtc10&cdn=1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/pHCYy1S.png" group-title="VTC", VTC11-Kids
-http://ott.realplaytv.net:12388/?header=hplus&name=vtc11&cdn=1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/9kg8J1o.jpg" group-title="VTC", VTC13
-http://baochinh.ml/iptv-hplus.php?kenh=vtc13hd
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/IkgCDdW.jpg" group-title="VTC", VTC14 HD SV1
-http://baochinh.ml/iptv-hplus.php?kenh=vtc14hd
-#EXTINF:-1 tvg-id="VTC14" tvg-logo="https://i.imgur.com/IkgCDdW.jpg" group-title="VTC", VTC14 HD SV2
-http://ott.realplaytv.net:12388/?header=hplus&name=vtc14&cdn=1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/b7JMTz4.png" group-title="VTC", VTC16 
-http://ott.realplaytv.net:12388/?header=hplus&name=vtc16&cdn=1
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.htvonline.com.vn/livetv/20042017/phim_48561492680416.png" group-title="HTVC", HTVC Phim HD SV1
-http://baochinh.ml/iptv-hplus.php?kenh=htvc-phimhd
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.htvonline.com.vn/livetv/20042017/phim_48561492680416.png" group-title="HTVC", HTVC Phim HD SV2
-http://ott.realplaytv.net:12388/?header=hplus&name=htvc_phim&cdn=1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.htvonline.com.vn/livetv/20042017/phim_48561492680416.png" group-title="PHIM TỔNG HỢP", HTVC Phim HD SV3
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.htvonline.com.vn/livetv/20042017/phim_48561492680416.png" group-title="PHIM TỔNG HỢP", HTVC Phim HD
 http://live.cdn.mobifonetv.vn//motv/myhtvcphim_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_phim-hay_141217631093.png" group-title="PHIM TỔNG HỢP", Phim Hay HD
 http://live.cdn.mobifonetv.vn/motv3/phimhay_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/09/28/813147-htvc_dulich.cuocsong_.png" group-title="HTVC", HTVC Du Lịch SV1
-http://baochinh.ml/iptv-hplus.php?kenh=htvc-dulichhd
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/09/28/813147-htvc_dulich.cuocsong_.png" group-title="HTVC", HTVC Du Lịch SV2
-http://ott.realplaytv.net:12388/?header=hplus&name=htvc_du_lich&cdn=1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/09/28/813147-htvc_dulich.cuocsong_.png" group-title="DU LỊCH & KHÁM PHÁ", HTVC Du Lịch SV3
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/09/28/813147-htvc_dulich.cuocsong_.png" group-title="DU LỊCH & KHÁM PHÁ", HTVC Du Lịch 
 http://live.cdn.mobifonetv.vn/motv/myhtvcdulich_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/04/20/593179-Canhac_FullHD.png" group-title="HTVC", HTVC Ca Nhạc SV1
-http://baochinh.ml/iptv-hplus.php?kenh=htvc-canhachd
-#EXTINF:-1 tvg-id="Dummy" tvg-logo=""http://img.hplus.com.vn/355x200/poster/2017/04/20/593179-Canhac_FullHD.png" group-title="HTVC", HTVC Ca Nhạc SV2
-http://ott.realplaytv.net:12388/?header=hplus&name=htvc_ca_nhac&cdn=1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo=""http://img.hplus.com.vn/355x200/poster/2017/04/20/593179-Canhac_FullHD.png" group-title="MUSIC", HTVC Ca Nhạc SV3
+#EXTINF:-1 tvg-id="Dummy" tvg-logo=""http://img.hplus.com.vn/355x200/poster/2017/04/20/593179-Canhac_FullHD.png" group-title="MUSIC", HTVC Ca Nhạc 
 http://live.cdn.mobifonetv.vn/motv/myhtvccanhac_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/09/28/371877-htvc_gia_dinh.png" group-title="HTVC", HTVC Gia Đình SV1
-http://baochinh.ml/iptv-hplus.php?kenh=htvc-giadinhhd
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/09/28/371877-htvc_gia_dinh.png" group-title="HTVC", HTVC Gia Đình SV2
-http://ott.realplaytv.net:12388/?header=hplus&name=htvc_gia_dinh&cdn=1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/09/28/371877-htvc_gia_dinh.png" group-title="PHIM TỔNG HỢP", HTVC Gia Đình SV3
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/09/28/371877-htvc_gia_dinh.png" group-title="PHIM TỔNG HỢP", HTVC Gia Đình 
 http://live.cdn.mobifonetv.vn/motv/myhtvcgiadinh_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/20/162111-phu_nu_hd.png" group-title="HTVC", HTVC Phụ Nữ SV1
-http://baochinh.ml/iptv-hplus.php?kenh=htvc-phunuhd
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/20/162111-phu_nu_hd.png" group-title="HTVC", HTVC Phụ Nữ SV2
-http://ott.realplaytv.net:12388/?header=hplus&name=HTVC16&cdn=1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/20/162111-phu_nu_hd.png" group-title="PHIM TỔNG HỢP", HTVC Phụ Nữ SV3
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/20/162111-phu_nu_hd.png" group-title="PHIM TỔNG HỢP", HTVC Phụ Nữ 
 http://live.cdn.mobifonetv.vn/motv/myhtvcphunu_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/07/01/423779-THUANVIETHD-NEW_1.png" group-title="HTVC", HTVC Thuần Việt HD SV1
-http://baochinh.ml/iptv-hplus.php?kenh=htvc-thuanviethd
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/07/01/423779-THUANVIETHD-NEW_1.png" group-title="PHIM TỔNG HỢP", HTVC Thuần Việt HD SV2
-http://baochinh.ml/iptv-hplus.php?kenh=htvc-thuanviethd
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/07/01/423779-THUANVIETHD-NEW_1.png" group-title="HTVC", HTVC Thuần Việt SV1
-http://ott.realplaytv.net:12388/?header=hplus&name=htvc_thuan_viet&cdn=1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/07/01/423779-THUANVIETHD-NEW_1.png" group-title="PHIM TỔNG HỢP", HTVC Thuần Việt SV2
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/07/01/423779-THUANVIETHD-NEW_1.png" group-title="PHIM TỔNG HỢP", HTVC Thuần Việt 
 http://live.cdn.mobifonetv.vn/motv/myhtvcthuanviet_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/402957-htvtthd.png" group-title="HTVC", HTVC Thể Thao HD SV1
-http://baochinh.ml/iptv-hplus.php?kenh=htvc-thethaohd
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/402957-htvtthd.png" group-title="SPORT", HTVC Thể Thao HD SV2
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/402957-htvtthd.png" group-title="SPORT", HTVC Thể Thao HD
 http://live.cdn.mobifonetv.vn/motv/myhtvcthethao_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.htvonline.com.vn/livetv/24072017/htvc_plus_33191500861714.png" group-title="PHIM TỔNG HỢP", HTVC Plus SV1
-http://baochinh.ml/iptv-hplus.php?kenh=htvc-plushd
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.htvonline.com.vn/livetv/24072017/htvc_plus_33191500861714.png" group-title="HTVC", HTVC Plus SV2
-http://ott.realplaytv.net:12388/?header=hplus&name=htvc_fbnc&cdn=1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/banner/2015/02/26/661481-FBNC.png" group-title="HTVC", HTVC FBNC
-http://baochinh.ml/iptv-hplus.php?kenh=htvc-fbnchd
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.htvonline.com.vn/livetv/20042017/shopping_38991492680357.png" group-title="HTVC", HTVC Shopping SV1	
-http://baochinh.ml/iptv-hplus.php?kenh=htvc-muasam	
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.htvonline.com.vn/livetv/20042017/shopping_38991492680357.png" group-title="SHOP", HTVC Shopping SV2
-http://ott.realplaytv.net:12388/?header=hplus&name=htvc_shopping&cdn=1
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/QCkBtJY.jpg" group-title="SCTV", SCTV4 LET'VIET SV1
-http://ott.realplaytv.net:12388/?header=hplus&name=vtc9&cdn=1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/QCkBtJY.jpg" group-title="SCTV", SCTV4 LET'VIET SV2
-http://baochinh.ga/iptv-hplus.php?kenh=sctv4-letviet
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.sctv.com.vn/Media/ShortCut/channel/sctv5.png" group-title="SHOP", SCTV5-SCJ SV1	
 http://vtsstr4.sctv.vn:1935/testlive/SCTV5_SD.smil/chunklist_w411708802_b2292000.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.sctv.com.vn/Media/ShortCut/channel/sctv5.png" group-title="SCTV", SCTV5-SCJ SV2
@@ -258,30 +153,14 @@ http://kenhitv.vn/ITV_Stream/itv_web_500k.stream.mp4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/XeEo4RY.jpg" group-title="MUSIC", Nhạc Country
 http://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/index_150_av-b.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/2qtlyEv.jpg" group-title="MUSIC", MTV T.Việt
-http://baochinh.ml/iptv-hplus.php?kenh=mtv
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/4EDKXz5.jpg" group-title="MUSIC", Vietteen
 http://live.cdn.mobifonetv.vn/motv/vietteen_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://vip.img.cdn.keeng.vn/web_v3/images/logo_keeng.png" group-title="MUSIC", KEENG MUSIC
 http://125.235.29.16/livetv/keeng.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/mm/mtv_dance_uk.png" group-title="MUSIC", MTV Dance
-http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/228/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/mm/mtv_live_hd_us.png" group-title="MUSIC", MTV Live HD
-http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/26/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/bb/bridge_tv_ru.png" group-title="MUSIC", Bridge TV HD
-http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/115/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/num/1_hd_ru.png" group-title="MUSIC", 1HD Music 
-http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/158/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/bb/bridge_tv_ru.png" group-title="MUSIC", Bridge TV
-http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/140/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/kk/karusel_international.png" group-title="MUSIC", Karusel International
-http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/426/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="MUSIC", Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/uYEvE4q.png" group-title="MUSIC", Capital TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/M8Bw2XL.jpg" group-title="MUSIC", Channel V HD
-http://baochinh.ml/iptv-hplus.php?kenh=channelv-hd
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/DT3DICU.png" group-title="MUSIC", California Music Channel
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="MUSIC", Music Choice
@@ -292,113 +171,12 @@ http://rtmp.one.by:1300
 http://rtmp.one.by:2300
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="MUSIC", O 1080P
 http://77.232.128.68/bks.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="MUSIC", BG | CITY MUSIC
-http://kingproeu.com:8080/live/niacam/exchange50/22443.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="MUSIC", PL- DISCO POLO MUSIC
-http://kingproeu.com:8080/live/niacam/exchange50/20777.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="MUSIC", PL- Eska Party TV HD 
-http://kingproeu.com:8080/live/niacam/exchange50/20778.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="MUSIC", PL- Eska Best Music HD
-http://kingproeu.com:8080/live/niacam/exchange50/20779.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="MUSIC", PT: MTV DANCE
-http://kingproeu.com:8080/live/niacam/exchange50/17511.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="MUSIC", PT: MTV HITS
-http://kingproeu.com:8080/live/niacam/exchange50/17510.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="MUSIC", MTV HD
-http://kingproeu.com:8080/live/niacam/exchange50/20198.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="MUSIC", MTV +1
-http://kingproeu.com:8080/live/niacam/exchange50/18219.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="MUSIC", MTV Music
-http://kingproeu.com:8080/live/niacam/exchange50/22049.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="MUSIC", MTV Dance
-http://kingproeu.com:8080/live/niacam/exchange50/18581.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="MUSIC", MTV Base
-http://kingproeu.com:8080/live/niacam/exchange50/18579.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="MUSIC", MTV Live HD
-http://kingproeu.com:8080/live/niacam/exchange50/18583.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="MUSIC", MTV Hits
-http://kingproeu.com:8080/live/niacam/exchange50/18210.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="MUSIC", Kiss
-http://kingproeu.com:8080/live/niacam/exchange50/22062.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="MUSIC", VH1
-http://kingproeu.com:8080/live/niacam/exchange50/18578.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="MUSIC", 4Music
-http://kingproeu.com:8080/live/niacam/exchange50/22090.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="MUSIC", Kerrang! TV
-http://kingproeu.com:8080/live/niacam/exchange50/22096.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="MUSIC", Chart Show Hits
-http://kingproeu.com:8080/live/niacam/exchange50/22104.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="MUSIC", Channel AKA
-http://kingproeu.com:8080/live/niacam/exchange50/22103.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="MUSIC", Virgin Radio TV
-http://kingproeu.com:8080/live/niacam/exchange50/26044.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="MUSIC", Box Hits
-http://kingproeu.com:8080/live/niacam/exchange50/26042.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="MUSIC", MC Play
-http://kingproeu.com:8080/live/niacam/exchange50/27452.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="MUSIC", Iconcerts HD
-http://kingproeu.com:8080/live/niacam/exchange50/28319.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/5KrE9kR.png" group-title="THỜI TRANG", Fashion TV Russia
-http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/298/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/pfBxAXD.jpg" group-title="GAME", Game Show
-http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/317/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ruJi6FN.jpg" group-title="BTV", BTV10-NCM
 http://live.cdn.mobifonetv.vn/motv/ncm_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/HLfQYGW.png" group-title="BTV", BTV11-SAM
 http://live.cdn.mobifonetv.vn/motv/sam_hls.smil/chunklist_b1200000.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/UxXKdf0.png" group-title="SHOP", AZ Shop
-http://baochinh.ml/iptv-hplus.php?kenh=azshop
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/dXRd4m5.png" group-title="KID", Boomerang T.Việt
-http://baochinh.ml/iptv-hplus.php?kenh=boomerang
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/dXRd4m5.png" group-title="KID", Boomerang Central
-http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/242/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/cc/cartoon_network_global.png" group-title="KID", Cartoon Network T.Việt 
-http://baochinh.ml/iptv-hplus.php?kenh=cartoon
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/cc/cartoon_network_global.png" group-title="KID", Cartoon Network Russia
-http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/215/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/W4wWt9J.jpg" group-title="KID", Gulli Girl
-http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/144/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/GTArIp1.png" group-title="KID", O!
-http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/226/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/05/25/866934-babyfirst.png" group-title="KID", Baby First
-http://baochinh.ml/iptv-hplus.php?kenh=baby-first
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="KID", The Pink Panther
-http://kingproeu.com:8080/live/niacam/exchange50/27449.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="KID", Songs To Put A Baby To Sleep
-http://kingproeu.com:8080/live/niacam/exchange50/27448.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="KID", Kids Special
-http://kingproeu.com:8080/live/niacam/exchange50/27447.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="KID", SpongeBob SquarePants
-http://kingproeu.com:8080/live/niacam/exchange50/27446.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="KID", Oscar's Oasis HD
-http://kingproeu.com:8080/live/niacam/exchange50/27445.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="KID", Mr Bean Best Cartoons HD
-http://kingproeu.com:8080/live/niacam/exchange50/27444.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="KID", Disney's Cartoon Classics HD
-http://kingproeu.com:8080/live/niacam/exchange50/27442.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="KID", Kids Classic Cartoons
-http://kingproeu.com:8080/live/niacam/exchange50/27441.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="KID", The Simpsons
-http://kingproeu.com:8080/live/niacam/exchange50/27439.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="KID", Kids Animation Movies
-http://kingproeu.com:8080/live/niacam/exchange50/27440.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="KID", KIDS BOX OFFICE MOVIES
-http://kingproeu.com:8080/live/niacam/exchange50/27443.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="KID", PT: Canal Panda 
-http://kingproeu.com:8080/live/niacam/exchange50/17561.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="KID", Kids Tom And Jerry
-http://kingproeu.com:8080/live/niacam/exchange50/26092.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="KID", Looney Tunes
-http://kingproeu.com:8080/live/niacam/exchange50/25272.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="KID", Peppa
-http://kingproeu.com:8080/live/niacam/exchange50/22677.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="KID", South Park
-http://kingproeu.com:8080/live/niacam/exchange50/22676.ts
 
 ~♥Kênh Địa Phương♥~
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-hanoi-1_w150_h150.png" group-title="ĐỊA PHƯƠNG", Hà Nội 1 HD
@@ -409,60 +187,12 @@ http://hanoitvlive.8ef55e0c.cdnviet.com/hanoi2.smil/chunklist_b3500000.m3u8
 http://live.cdn.mobifonetv.vn/motv2/mientay_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/KkIjWlG.png" group-title="ĐỊA PHƯƠNG", Ninh Thuận
 rtmp://203.113.166.233/live/NTV_VIDEO
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/5Ys78oI.png" group-title="ĐỊA PHƯƠNG", BẮC GIANG
-http://ott.realplaytv.net:12388/?header=hplus&name=Bac_Giang&cdn=1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/J3uXeSb.png" group-title="ĐỊA PHƯƠNG", BÌNH PHƯỚC 1
-http://ott.realplaytv.net:12388/?header=hplus&name=Binh_Phuoc_1&cdn=1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/IwgNYbI.jpg" group-title="ĐỊA PHƯƠNG", BẠC LIÊU
-http://ott.realplaytv.net:12388/?header=hplus&name=Bac_Lieu&cdn=1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/KkGdk6M.png" group-title="ĐỊA PHƯƠNG", BÌNH ĐỊNH
-http://ott.realplaytv.net:12388/?header=hplus&name=Binh_Dinh&cdn=1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/v1AVx04.png" group-title="ĐỊA PHƯƠNG", BÌNH DƯƠNG 1
-http://ott.realplaytv.net:12388/?header=hplus&name=Binh_Duong_1&cdn=1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ivnlf5e.png" group-title="ĐỊA PHƯƠNG", BÌNH DƯƠNG FM
-http://ott.realplaytv.net:12388/?header=hplus&name=Binh_Duong_FM&cdn=1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/OniDxoh.png" group-title="ĐỊA PHƯƠNG", ĐỒNG NAI 3
-http://baochinh.ml/iptv-hplus.php?kenh=dongnai3
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/jO8gjRR.png" group-title="ĐỊA PHƯƠNG", BẾN TRE
-http://ott.realplaytv.net:12388/?header=hplus&name=Ben_Tre&cdn=1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/sNdqPRs.png" group-title="ĐỊA PHƯƠNG", CẦN THƠ
-http://ott.realplaytv.net:12388/?header=hplus&name=Can_Tho&cdn=1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/XrdXnRz.png" group-title="ĐỊA PHƯƠNG", ĐÀ NẴNG 1 SV1
-http://ott.realplaytv.net:12388/?header=hplus&name=Da_Nang_1&cdn=1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/XrdXnRz.png" group-title="ĐỊA PHƯƠNG", ĐÀ NẴNG 1 SV2
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/XrdXnRz.png" group-title="ĐỊA PHƯƠNG", ĐÀ NẴNG 1
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7yJ23L7.png" group-title="ĐỊA PHƯƠNG", ĐÀ NẴNG 2 SV1
-http://ott.realplaytv.net:12388/?header=hplus&name=Da_Nang_2&cdn=1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7yJ23L7.png" group-title="ĐỊA PHƯƠNG", ĐÀ NẴNG 2 SV2
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7yJ23L7.png" group-title="ĐỊA PHƯƠNG", ĐÀ NẴNG 2 
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/lbqh1di.png" group-title="ĐỊA PHƯƠNG", HẢI DƯƠNG 
-http://ott.realplaytv.net:12388/?header=hplus&name=Hai_Duong&cdn=1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/q47WFaS.png" group-title="ĐỊA PHƯƠNG", HÀ TĨNH
-http://ott.realplaytv.net:12388/?header=hplus&name=Ha_Tinh&cdn=1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/npib8q2.png" group-title="ĐỊA PHƯƠNG", HUẾ
-http://ott.realplaytv.net:12388/?header=hplus&name=Hue&cdn=1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8Z9aMiF.png" group-title="ĐỊA PHƯƠNG", KIÊN GIANG
-http://ott.realplaytv.net:12388/?header=hplus&name=Kien_Giang_1&cdn=1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/G83cWHf.png" group-title="ĐỊA PHƯƠNG", KHÁNH HÒA
-http://ott.realplaytv.net:12388/?header=hplus&name=Khanh_Hoa&cdn=1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/oMZ2qsd.jpg" group-title="ĐỊA PHƯƠNG", LONG AN
-http://ott.realplaytv.net:12388/?header=hplus&name=Long_An_34&cdn=1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/xpOom3G.png" group-title="ĐỊA PHƯƠNG", LẠNG SƠN
-http://ott.realplaytv.net:12388/?header=hplus&name=Lang_Son&cdn=1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/qoXJvSM.png" group-title="ĐỊA PHƯƠNG", LÂM ĐỒNG
-http://ott.realplaytv.net:12388/?header=hplus&name=Lam_Dong&cdn=1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/o5admia.jpg" group-title="ĐỊA PHƯƠNG", HÀ NAM
-http://ott.realplaytv.net:12388/?header=hplus&name=Nam_Dinh&cdn=1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/A4ienJg.png" group-title="ĐỊA PHƯƠNG", QUẢNG NAM
-http://ott.realplaytv.net:12388/?header=hplus&name=Quang_Nam&cdn=1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/k42ygoS.jpg" group-title="ĐỊA PHƯƠNG", SÓC TRĂNG
-http://ott.realplaytv.net:12388/?header=hplus&name=Soc_Trang&cdn=1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/BAlaTCo.jpg" group-title="ĐỊA PHƯƠNG", TRÀ VINH SV1
-http://ott.realplaytv.net:12388/?header=hplus&name=Tra_Vinh&cdn=1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/BAlaTCo.jpg" group-title="ĐỊA PHƯƠNG", TRÀ VINH SV2
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/BAlaTCo.jpg" group-title="ĐỊA PHƯƠNG", TRÀ VINH 
 http://123.30.191.202/hls/travinh.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/73jkW8n.jpg" group-title="ĐỊA PHƯƠNG", TÂY NINH
-http://ott.realplaytv.net:12388/?header=hplus&name=Tay_Ninh&cdn=1
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/d9E6d5n.png" group-title="ĐỊA PHƯƠNG", HGTV HD - HẬU GIANG
 http://123.30.110.170:1939/thhg/thhg/chunklist_w1148607924.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/BYfwQMS.jpg" group-title="ĐỊA PHƯƠNG", THP+
@@ -479,233 +209,23 @@ rtmp://123.29.68.44/hctv/vstv021
 rtmp://117.6.162.63/live/thvp
 
 ~♥Kênh Phim Quốc Tế♥~
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/zjHPpt7.png" group-title="PHIM QUỐC TẾ", Fox Movies HD T.Việt
-http://baochinh.ml/iptv-hplus.php?kenh=foxmovies-hd
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/YDYWnRm.png" group-title="PHIM QUỐC TẾ", Fox Life HD T.Việt
-http://baochinh.ml/iptv-hplus.php?kenh=foxlife-hd
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/fBrbKBm.png" group-title="PHIM QUỐC TẾ", Fox HD Tiếng Việt
-http://baochinh.ml/iptv-hplus.php?kenh=foxhd
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/2eTPQ1V.png" group-title="PHIM QUỐC TẾ", Max By HBO T.Việt
-http://baochinh.ml/iptv-hplus.php?kenh=maxbyhbo
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/1rVPBME.png" group-title="PHIM QUỐC TẾ", Red By HBO T.Việt
-http://baochinh.ml/iptv-hplus.php?kenh=redbyhbo
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/NywNFd7.jpg" group-title="PHIM QUỐC TẾ", Cinema World T.Việt
-http://baochinh.ml/iptv-hplus.php?kenh=cinema-world
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/04naoBg.jpg" group-title="PHIM QUỐC TẾ", WarnerTV T.Việt
-http://baochinh.ml/iptv-hplus.php?kenh=warner-tv
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/oxZCMGs.png" group-title="PHIM QUỐC TẾ", Zee TV T.Việt
-http://baochinh.ml/iptv-hplus.php?kenh=zeetv
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/eOlZFJA.png" group-title="PHIM QUỐC TẾ", Fox Family Movies T.Việt
-http://baochinh.ml/iptv-hplus.php?kenh=foxfamilymovies
+
 
 ~♥Kênh Thể Thao♥~
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/llM4bHG.jpg" group-title="SPORT", BeIN SPORTS News HD
-http://kingproeu.com:8080/live/niacam/exchange50/16450.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/llM4bHG.jpg" group-title="SPORT", BeIN SPORTS Global HD
-http://kingproeu.com:8080/live/niacam/exchange50/16449.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/llM4bHG.jpg" group-title="SPORT", VIP | BeIN Sports 1 HD
-http://kingproeu.com:8080/live/niacam/exchange50/20858.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/llM4bHG.jpg" group-title="SPORT", VIP | BeIN Sports 2 HD
-http://kingproeu.com:8080/live/niacam/exchange50/20857.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/llM4bHG.jpg" group-title="SPORT", VIP | BeIN Sports 3 HD
-http://kingproeu.com:8080/live/niacam/exchange50/20856.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/llM4bHG.jpg" group-title="SPORT", VIP | BeIN Sports 4 HD
-http://kingproeu.com:8080/live/niacam/exchange50/20855.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/llM4bHG.jpg" group-title="SPORT", VIP | BeIN Sports 5 HD
-http://kingproeu.com:8080/live/niacam/exchange50/20854.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/llM4bHG.jpg" group-title="SPORT", VIP | BeIN Sports 6 HD
-http://kingproeu.com:8080/live/niacam/exchange50/20853.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/llM4bHG.jpg" group-title="SPORT", VIP | BeIN Sports 7 HD
-http://kingproeu.com:8080/live/niacam/exchange50/20852.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/llM4bHG.jpg" group-title="SPORT", VIP | BeIN Sports 8 HD
-http://kingproeu.com:8080/live/niacam/exchange50/20851.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/llM4bHG.jpg" group-title="SPORT", VIP | BeIN Sports 9 HD
-http://kingproeu.com:8080/live/niacam/exchange50/20850.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/llM4bHG.jpg" group-title="SPORT", VIP | BeIN Sports 10 HD
-http://kingproeu.com:8080/live/niacam/exchange50/20849.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/llM4bHG.jpg" group-title="SPORT", VIP | BeIN Sports 11 HD
-http://kingproeu.com:8080/live/niacam/exchange50/20848.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/llM4bHG.jpg" group-title="SPORT", VIP | BeIN Sports 12 HD
-http://kingproeu.com:8080/live/niacam/exchange50/20847.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/llM4bHG.jpg" group-title="SPORT", US: |VIP| Bein Sports USA HD
-http://kingproeu.com:8080/live/niacam/exchange50/20846.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png" group-title="SPORT", K+ Bóng Đá 1
 http://persik.by/stream/3903/293564/346.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png" group-title="SPORT", K+ Bóng Đá 2
 http://persik.by/stream/3903/293564/10217.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png" group-title="SPORT", K+ Bóng Đá 3
 http://persik.by/stream/3903/293564/10218.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/YzEliGx.jpg" group-title="SPORT", SuperSports 1 HD
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226019/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/YzEliGx.jpg" group-title="SPORT", SuperSports 2 HD
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226020/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/YzEliGx.jpg" group-title="SPORT", SuperSports 3 HD
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226023/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/YzEliGx.jpg" group-title="SPORT", SuperSports 4 HD
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226024/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/YzEliGx.jpg" group-title="SPORT", SuperSports 5 HD
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226027/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/YzEliGx.jpg" group-title="SPORT", SuperSports 6 HD
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226031/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/YzEliGx.jpg" group-title="SPORT", SuperSports 7 HD
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226040/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/YzEliGx.jpg" group-title="SPORT", SuperSports 8 HD
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226042/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/CwHvhmH.png" group-title="SPORT", IPTV5+
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000149?AuthInfo=xxx&userid=
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/CwHvhmH.png" group-title="SPORT", SPORTS
 http://hls.mv.wa5.com/live/gssports1/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/CwHvhmH.png" group-title="SPORT", SPORTS SV3
 http://hls.mv.wa5.com/live/gssports1_900/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/NR1ij5I.png" group-title="SPORT", Fox Sports HD
-http://baochinh.ml/iptv-hplus.php?kenh=foxsport-1hd
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/aeP9NGm.png" group-title="SPORT", FOX Sports 2 SV1
-http://baochinh.ml/iptv-mytvnet.php?id=foxsport-2
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/gIje2LB.jpg" group-title="SPORT", WWE NETWORK
-http://kingproeu.com:8080/live/niacam/exchange50/16221.ts
 
 ~♥Kênh Thể Thao 1080P♥~
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Sport 1 HD Germany (18+) SV1
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/453/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Sport 1 HD Germany (18+) SV2
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/774/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Match! Planeta
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/258/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Match! Arena HD
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/289/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Match! Arena
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/1/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Match! Boets
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/2/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Match! Igra HD
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/287/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Match! Igra
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/3/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Match! Nash sport
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/4/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Match! Football 1
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/5/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Match! Football 2
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/6/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Match! Football 3
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/7/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Nash Football
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/13/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",KHL HD
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/291/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",KHL 
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/17/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Match! Football 2 HD
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/23/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Match! Football 3 HD
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/24/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Nash Football HD
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/25/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Match! Football 1 HD
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/29/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Viasat Sport East
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/44/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Viasat Sport
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/45/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Extreme Sports SV1
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/46/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Extreme Sports SV2
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/47/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Tocka Otruva
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/48/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Viasat Golf
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/59/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Viasat Sport HD SV1
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/75/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Viasat Sport HD SV2
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/76/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Eurosport 1 HD SV1
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/159/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Eurosport 1 HD SV2
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/160/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Eurosport 1 SV1
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/174/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Eurosport 1 SV2
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/175/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Eurosport 2 HD SV1
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/77/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Eurosport 2 HD SV2
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/78/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Eurosport 2 HD SV3
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/471/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Eurosport 2 HD SV4
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/472/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Konniy Mir HD
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/112/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Match HD SV1
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/113/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Match HD SV2
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/200/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Avto 24
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/172/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Auto Plus ĐUA XE F1
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/248/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Box TV
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/316/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Sky Sport News Deutschland
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/460/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Sky Sport Austria HD
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/475/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Sky Sport Austria
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/746/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",GoldBet 2
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/504/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Rai Sport
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/528/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Movistar+ Golf HD
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/569/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Movistar+ Futbol
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/575/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",beIN LaLiga HD
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/574/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",LaLiga TV Bar HD
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/581/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Italian Fishing TV
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/587/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Movistar+ F1
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/612/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT",Movistar+ Moto GP
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/613/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Automoto TV
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/635/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Super Tennis HD
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/670/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT",Eurosport1 Deutschland HD
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/704/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Eurosport1 Deutschland
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/682/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Sport1+ HD
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/701/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",SKY SPORT 1
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/724/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Sky Sport Bundesliga 1
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/725/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Sky Sport 2 HD Deutschland
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/733/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",M4 Sport HD Europa SV1
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/864/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",M4 Sport HD Europa SV2
-http://185.231.163.17/1042/1/index.m3u8?k=1c09e8cf780a0b28bd1c948632900ec7578d8a0403a661f67fa7900929935799a8a34eb4e823c0e0a1e841b82414f77dfeefea04b2a8888c7ebe042ca57984040913fab44f00ca389a49eb9285df58eb235b2f4319257676012b8ff03a7b9e6d55d4fe5b3fba11fe5b422ffe4219f081
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Gametoon HD
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/865/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Eurosport 1 HD Polska
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/891/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Eurosport 1 Polska SV1
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/895/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Eurosport 1 Polska SV2
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/896/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",FightBox HD Đấu Võ SV1
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/900/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",FightBox HD Đấu Võ SV2
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/901/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",Sport Klub Polska HD
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/902/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",BT Sport 1 HD
 http://62.210.214.28/live?channelId=141&uid=171&deviceUser=seanmccarr&devicePass=120817
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT 1080P",BT Sport 2 HD
@@ -732,8 +252,6 @@ http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
 http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/myjP9FW.png" group-title="SPORT 1080P",PAC 12 Washington 1080P
 http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kVAFki4.jpg" group-title="SPORT 1080P",Sport 1 (18+) HD Deutschland
-http://185.231.163.17/461/1/index.m3u8?k=d97d3df36543746038929037af0a51c0c1c946e2481c501ea77f15b0172bacfbd00603e176677a34fe73bcb528b894fe492213b0d5bd6773434533a1ca294be62ee1631ffd200c0c4faa54ffec0b2ed0df3f4659083fcdbb35dd90d59a5b3e8c252842a461f5004317bbb4bd44517261
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/agv3mu0.jpg" group-title="SPORT 1080P",olympic channel 1 1080P
 https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/agv3mu0.jpg" group-title="SPORT 1080P",olympic channel 2 1080P
@@ -758,12 +276,6 @@ http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/01.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/R2iI2Ac.png" group-title="DU LỊCH & KHÁM PHÁ", Animal Planet
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225872/01.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/buGBTGW.jpg" group-title="DU LỊCH & KHÁM PHÁ", National Geographic HD Tiếng Việt
-http://baochinh.ml/iptv-hplus.php?kenh=ngc-hd
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/fAfx6PE.jpg" group-title="DU LỊCH & KHÁM PHÁ", BBC Earth Tiếng Việt
-http://baochinh.ml/iptv-hplus.php?kenh=bbc-e
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ezmA7U3.png" group-title="DU LỊCH & KHÁM PHÁ", BBC Lifestyle
-http://baochinh.ml/iptv-hplus.php?kenh=bbc-ls
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/BmHt6Uh.png" group-title="DU LỊCH & KHÁM PHÁ", SONY BBC EARTH HD
 http://mhms8.airtel.tv/wh7f454c46tw133991019_1870526460/PLTV/88888888/224/3221226280/03.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/BmHt6Uh.png" group-title="DU LỊCH & KHÁM PHÁ", SONY BBC EARTH
@@ -773,15 +285,7 @@ http://cshms3.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221
 http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226485/04.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/PYtVYWB.png" group-title="TEEN", AXN SD
 http://cshms3.airtel.tv/wh7f454c46tw501677772_1439149542/PLTV/88888888/224/3221226443/04.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TEEN", PT: 24 KITCHEN HD 
-http://kingproeu.com:8080/live/niacam/exchange50/17534.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TEEN", 24 Kitchen NL 
-http://kingproeu.com:8080/live/niacam/exchange50/23011.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8YiK5OH.png" group-title="TV SONY", SONY TEN1 HD
-http://cshms3.airtel.tv/wh7f454c46tw2224230268_1388919955/PLTV/88888888/224/3221225875/01.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/inTmlht.png" group-title="TV SONY", SONY TEN2 HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/oX6etQa.png" group-title="TV SONY", SONY TEN3 HD
 http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226330/04.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/AYb7W7W.jpg" group-title="TV SONY", SONY TEN1 SD
@@ -794,16 +298,70 @@ http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/32212
 http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/01.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/tTJuJFi.png" group-title="TV SONY", SONY SIX SD
 http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225827/01.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/yjzTYTc.jpg" group-title="TV SONY", SONY ESPN HD
-http://cshms3.airtel.tv/wh7f454c46tw1200204061_952100745/PLTV/88888888/224/3221226076/01.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/bzm3BMR.png" group-title="TV SONY", SONY ESPN
-http://cshms3.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225805/01.m3u8
 
 ~♥Kênh TV NHẬT-HÀN-TÀU♥~
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/RZTe78C.png" group-title="TV HÀN", KBS World
-http://baochinh.ml/iptv-hplus.php?kenh=kbs-world
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/BT66yZo.png" group-title="TV HÀN", ARIRANG
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV HÀN", M Net Countdown 
+http://d1cdshhn0sj9xt.cloudfront.net/529/QualityLevels(2628000,as=video)/Fragments(video=i,format=hls).m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV HÀN", Kênh A
+http://lgedge1.everyon.tv/lgetv1/phd1158/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV HÀN", Kênh A Plus
+http://lgedge1.everyon.tv/lgetv1/phd1143/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV HÀN", KBSN PLUS
+http://edge1.everyon.tv:1935/etv1/phd1327/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV HÀN", KBS 1
+rtmp://112.175.138.137:1935/1tv/_definst_/1tv_5.stream
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV HÀN", KBS 2
+rtmp://112.175.138.137:1935/2tv/_definst_/2tv_5.stream
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV HÀN", KBS JOY
+rtmp://175.158.11.60:1935/kbsn_joy/_definst_/kbsn_joy_5.stream
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV HÀN", KBS KIDS
+rtmp://112.175.138.137:1935/kbsn_kids/_definst_/kbsn_kids_5.stream
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV HÀN", KBS DRAMA
+rtmp://112.175.138.137:1935/kbsn_drama/_definst_/kbsn_drama_5.stream
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV HÀN", KBS W
+rtmp://112.175.138.137:1935/kbsn_wtv/_definst_/kbsn_wtv_5.stream
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV HÀN", KBS 24
+rtmp://112.175.138.137:1935/news24/_definst_/news24_800.stream
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV HÀN", KBS N LIFE
+rtmp://112.175.138.137:1935/kbsn_prime/_definst_/kbsn_prime_5.stream
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV HÀN", KBS SPORTS
+rtmp://112.175.138.137:1935/kbsn_sports/_definst_/kbsn_sports_5.stream
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV HÀN", KBS WORLD
+rtmp://175.158.11.60:1935/kbs_worldtv/_definst_/kbs_worldtv_4.stream
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV HÀN", YTN
+http://lgedge1.everyon.tv/lgetv1/phd1110/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV HÀN", YTN Life
+http://lgedge1.everyon.tv/lgetv1/phd1129/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV HÀN", MBC
+http://edge2.everyon.tv/etv2/phd847/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV HÀN", C TIME
+http://edge2.everyon.tv:1935/etv2/phd21/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV HÀN", SBS G1
+rtmp://smart.igtb.co.kr/live/stream.sdp
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV HÀN", MBN
+http://lgedge1.everyon.tv/lgetv1/phd1108/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV HÀN", ESB1
+http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV HÀN", ESB2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV HÀN", EBS+2
+rtmp://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV HÀN", ESBe
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV HÀN", EBSi
+rtmp://ebsonair.ebs.co.kr/plus1familypc/familypc1m
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV HÀN", ESB Kids
+rtmp://ebsonair.ebs.co.kr:1935/ebsufamilypc/familypc1m
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV HÀN", ONT
+http://lgedge1.everyon.tv/lgetv1/phd1161/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV HÀN", OBS
+http://lgedge1.everyon.tv/lgetv1/phd1113/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV HÀN", TRENDY
+http://edge2.everyon.tv/etv2sb/phd753/chunklist_w881820644.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV HÀN", CMC Family Entertainment
+rtmp://edge1.everyon.tv:1935/etv1sb/phd1
 
 ~♥Kênh Tin Tức♥~
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/j7NsBwD.png" group-title="TIN TỨC", ANTG HD
@@ -812,31 +370,12 @@ http://live.cdn.mobifonetv.vn/motv/antg_hls.smil/chunklist_b1200000.m3u8
 http://27.118.16.98:1935/live/truyenhinhnhandan720/chunklist_w2006762604.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.56.158.185/tv_icon/ttxvn.png" group-title="TIN TỨC", TTXVN
 http://live.cdn.mobifonetv.vn/motv2/ttxvn_hls.smil/chunklist_b1200000.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.56.158.185/tv_icon/quoc-phong-vn.png" group-title="TIN TỨC", QPVN
 rtmp://125.212.132.219/standard/_definst_/mp4:standard_480p
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/xJq3NVu.png" group-title="TIN TỨC", Australia Plus
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/hwhTjpi.png" group-title="TIN TỨC", BBC World News
-http://baochinh.ml/iptv-hplus.php?kenh=bbc-wn
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/MX0dYQ9.png" group-title="TIN TỨC", CNN 
-http://baochinh.ml/iptv-hplus.php?kenh=cnn
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/wnL4HXi.png" group-title="TIN TỨC", NHK World
-http://baochinh.ml/iptv-hplus.php?kenh=nhk
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/cKVFCAM.jpg" group-title="TIN TỨC", DW Đức Tiếng Việt
-http://baochinh.ml/iptv-hplus.php?kenh=dw
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/GCVYoNT.png" group-title="TIN TỨC", Bloomberg
-http://baochinh.ml/iptv-hplus.php?kenh=bloomberg
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Bsm36FU.png" group-title="TIN TỨC", Arise News
 http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
 
 ~♥Kênh Sinh Học♥~
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/KZHZBcq.png" group-title="SINH HỌC", S+1
-http://172.104.114.178/vod/live/2/2.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/KZHZBcq.png" group-title="SINH HỌC", S+2
-http://172.104.114.178/vod/live/1/1.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/KZHZBcq.png" group-title="SINH HỌC", S+3
-http://172.104.114.178/vod/live/3/3.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC", ADULT 1 - ADULT 1
 http://163.172.105.230:9001/live?channelId=259&uid=6917&deviceMac=00:1A:79:3C:CA:3F
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC", ADULT 2 - ADULT 2
@@ -881,13 +420,10 @@ http://163.172.105.230:9001/live?channelId=278&uid=6917&deviceMac=00:1A:79:3C:CA
 http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/KZHZBcq.png" group-title="SINH HỌC", BS 24 LIVE
 http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/EBVPJeN.png" group-title="SINH HỌC", FRENCHLOVER TV SV1
-http://81.177.254.23:9996/play/FRENCHLOVER/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/gpJjutf.jpg" group-title="SINH HỌC", HUSTLER HD SV3
-http://81.177.254.23:9996/play/Hustler_HD/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/V1e7Piy.jpg" group-title="SINH HỌC", Jasmin Channel 720P
 http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8?MWINFO
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/V1e7Piy.jpg" group-title="SINH HỌC", Jasmin TV SV1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/V1e7Piy.jpg" group-title="SINH HỌC", Jasmin TV 
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/GdCbov5.jpg" group-title="SINH HỌC", Miami TV (Mexico)
 http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/playlist.m3u8
@@ -895,18 +431,8 @@ http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/playlist.m3u8
 http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/GdCbov5.jpg" group-title="SINH HỌC", Miami TV (USA)
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/GdCbov5.jpg" group-title="SINH HỌC", Miami TV SV1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/GdCbov5.jpg" group-title="SINH HỌC", Miami TV
 http://mexicoserver.miamitvchannel.com/miamitv/smil%3amiamitvmexico/master.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7qQF2fd.jpg" group-title="SINH HỌC", O-la-la
-http://81.177.254.23:9996/play/O-la-la/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/MjFUHQ5.jpg" group-title="SINH HỌC", PLAYBOY TV BLACK SV2
-http://81.177.254.23:9996/play/Playboy/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/1oZyL7k.jpg" group-title="SINH HỌC", Private TV SV2
-http://81.177.254.23:9996/play/Private/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/TJ5LflZ.jpg" group-title="SINH HỌC", REDLIGHT HD SV5
-http://81.177.254.23:9996/play/Redlight_HD/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8LpXJva.png" group-title="SINH HỌC", RUSSKAYA NOCH SV2
-http://81.177.254.23:9996/play/Russkaya_noch/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ysWttE6.jpg" group-title="SINH HỌC", VISIT-X TV 720P
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8?MWINFO
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/I9zOp3q.jpg" group-title="SINH HỌC", STUDIO 66 TV 1
@@ -919,121 +445,115 @@ http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel31/pl
 http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel41/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/DT00k1K.jpg" group-title="SINH HỌC", Trans
 https://www.ast.tv/stream/1/master.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/t4DFiRj.jpg" group-title="SINH HỌC", Passion X
-http://81.177.254.23:9996/play/Passion_X/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/N6sP4TO.png" group-title="SINH HỌC", Brazzers TV
-http://81.177.254.23:9996/play/Brazzers_TV/index.m3u8
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",All Day Ass (Anal ) Movies
-http://kingproeu.com:8080/live/niacam/exchange50/32428.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",Best Vixen Movies
-http://kingproeu.com:8080/live/niacam/exchange50/32435.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",Young And Old Lesbians Movies
-http://kingproeu.com:8080/live/niacam/exchange50/32434.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",Love & Sex Movies
-http://kingproeu.com:8080/live/niacam/exchange50/32433.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",Threesome Hot Sex Movies
-http://kingproeu.com:8080/live/niacam/exchange50/32432.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",Best 69 Movies
-http://kingproeu.com:8080/live/niacam/exchange50/32431.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",XXX Center Movies
-http://kingproeu.com:8080/live/niacam/exchange50/32430.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",Kamasutra(Desi) Movies
-http://kingproeu.com:8080/live/niacam/exchange50/32429.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",PINK EROTIC 1
-http://kingproeu.com:8080/live/niacam/exchange50/24972.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",PINK EROTIC 2
-http://kingproeu.com:8080/live/niacam/exchange50/24971.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",PINK EROTIC 3
-http://kingproeu.com:8080/live/niacam/exchange50/24970.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",PINK EROTIC 4
-http://kingproeu.com:8080/live/niacam/exchange50/24969.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",PINK EROTIC 5
-http://kingproeu.com:8080/live/niacam/exchange50/24968.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",PINK EROTIC 6
-http://kingproeu.com:8080/live/niacam/exchange50/24967.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",PINK EROTIC 7
-http://kingproeu.com:8080/live/niacam/exchange50/24966.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",PINK EROTIC 8
-http://kingproeu.com:8080/live/niacam/exchange50/24965.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",XXX 1
-http://kingproeu.com:8080/live/niacam/exchange50/20225.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",XXX 2
-http://kingproeu.com:8080/live/niacam/exchange50/20224.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",XXX 3
-http://kingproeu.com:8080/live/niacam/exchange50/20223.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",XXX 4
-http://kingproeu.com:8080/live/niacam/exchange50/20222.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",XXX 5
-http://kingproeu.com:8080/live/niacam/exchange50/20221.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",XXX 6
-http://kingproeu.com:8080/live/niacam/exchange50/20220.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",XXX 7
-http://kingproeu.com:8080/live/niacam/exchange50/20219.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",XXX 8
-http://kingproeu.com:8080/live/niacam/exchange50/20218.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",XXX 9
-http://kingproeu.com:8080/live/niacam/exchange50/20217.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",XXX 10
-http://kingproeu.com:8080/live/niacam/exchange50/16813.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",XXX 11
-http://kingproeu.com:8080/live/niacam/exchange50/16819.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",XXX 12
-http://kingproeu.com:8080/live/niacam/exchange50/16818.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",XXX 13
-http://kingproeu.com:8080/live/niacam/exchange50/16817.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",XXX 14
-http://kingproeu.com:8080/live/niacam/exchange50/16816.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",XXX 15
-http://kingproeu.com:8080/live/niacam/exchange50/16815.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",XXX 16
-http://kingproeu.com:8080/live/niacam/exchange50/16814.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",XXX 17
-http://kingproeu.com:8080/live/niacam/exchange50/16822.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",XXX 18
-http://kingproeu.com:8080/live/niacam/exchange50/16823.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",XXX 19
-http://kingproeu.com:8080/live/niacam/exchange50/16824.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",XXX 20
-http://kingproeu.com:8080/live/niacam/exchange50/16574.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",XXX 21
-http://kingproeu.com:8080/live/niacam/exchange50/16573.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",XXX 22
-http://kingproeu.com:8080/live/niacam/exchange50/16820.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",XXX 23
-http://kingproeu.com:8080/live/niacam/exchange50/16821.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",XXX 24
-http://kingproeu.com:8080/live/niacam/exchange50/16570.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",XXX 25
-http://kingproeu.com:8080/live/niacam/exchange50/16605.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",XXX 26
-http://kingproeu.com:8080/live/niacam/exchange50/16611.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",XXX 27
-http://kingproeu.com:8080/live/niacam/exchange50/16601.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",XXX 28
-http://kingproeu.com:8080/live/niacam/exchange50/16613.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",XXX 29
-http://kingproeu.com:8080/live/niacam/exchange50/16610.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",XXX 30
-http://kingproeu.com:8080/live/niacam/exchange50/17204.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",XXX 31
-http://kingproeu.com:8080/live/niacam/exchange50/17200.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",XXX 32
-http://kingproeu.com:8080/live/niacam/exchange50/17198.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",XXX 33
-http://kingproeu.com:8080/live/niacam/exchange50/17207.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",XXX 34
-http://kingproeu.com:8080/live/niacam/exchange50/17199.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",XXX 35
-http://kingproeu.com:8080/live/niacam/exchange50/17201.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",XXX 36
-http://kingproeu.com:8080/live/niacam/exchange50/17206.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",XXX 37
-http://kingproeu.com:8080/live/niacam/exchange50/17205.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",XXX 38
-http://kingproeu.com:8080/live/niacam/exchange50/17203.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",XXX 39
-http://kingproeu.com:8080/live/niacam/exchange50/17202.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",XXX 40
-http://kingproeu.com:8080/live/niacam/exchange50/18920.ts
-#EXTINF:-1 tvg-id="Dummy"group-title="SINH HỌC",XXX 41
-http://kingproeu.com:8080/live/niacam/exchange50/19279.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hotclub 1
+http://145.239.1.103:8000/live/Dogan4/Dogan4/912.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hotclub 2
+http://145.239.1.103:8000/live/Dogan4/Dogan4/913.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hotclub 3
+http://145.239.1.103:8000/live/Dogan4/Dogan4/914.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hotclub 4
+http://145.239.1.103:8000/live/Dogan4/Dogan4/915.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hotclub 5
+http://145.239.1.103:8000/live/Dogan4/Dogan4/916.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hotclub 6
+http://145.239.1.103:8000/live/Dogan4/Dogan4/917.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hotclub 7
+http://145.239.1.103:8000/live/Dogan4/Dogan4/918.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hotclub 8
+http://145.239.1.103:8000/live/Dogan4/Dogan4/919.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hotclub 9
+http://145.239.1.103:8000/live/Dogan4/Dogan4/920.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hotclub 10
+http://145.239.1.103:8000/live/Dogan4/Dogan4/921.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hotclub 11
+http://145.239.1.103:8000/live/Dogan4/Dogan4/783.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hotclub 12
+http://145.239.1.103:8000/live/Dogan4/Dogan4/784.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hotclub 13
+http://145.239.1.103:8000/live/Dogan4/Dogan4/785.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hotclub 14
+http://145.239.1.103:8000/live/Dogan4/Dogan4/791.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hotclub 15
+http://145.239.1.103:8000/live/Dogan4/Dogan4/792.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hotclub 16
+http://145.239.1.103:8000/live/Dogan4/Dogan4/793.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hotclub 17
+http://145.239.1.103:8000/live/Dogan4/Dogan4/796.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hotclub 18
+http://145.239.1.103:8000/live/Dogan4/Dogan4/797.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hotclub 19
+http://145.239.1.103:8000/live/Dogan4/Dogan4/800.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hotclub 20
+http://145.239.1.103:8000/live/Dogan4/Dogan4/804.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hotclub 21
+http://145.239.1.103:8000/live/Dogan4/Dogan4/790.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hotclub 22
+http://145.239.1.103:8000/live/Dogan4/Dogan4/786.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hotclub 23
+http://145.239.1.103:8000/live/Dogan4/Dogan4/799.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hotclub 24
+http://145.239.1.103:8000/live/Dogan4/Dogan4/803.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7qQF2fd.jpg" group-title="SINH HỌC", O-la-la
+http://164.138.94.239:81/udp/239.191.254.161:15285
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Dorcel TV
+http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/114.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Evil Angel TV
+http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/117.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hot
+http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/112.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Playboy TV
+http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/113.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Venus
+http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/111.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", SCT HD
+http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/219.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", REDLIGHT HD
+http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/218.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", SEXTREME
+http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/217.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", HUSTLER HD
+http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/216.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", PINK O TV
+http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/215.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hot 1
+http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/220.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hot 2
+http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/229.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hot 3
+http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/230.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hot 4
+http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/231.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hot 5
+http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/232.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hot 6
+http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/233.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hot 7
+http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/234.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hot 8
+http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/235.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hot 9
+http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/236.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hot 10
+http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/221.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hot 11
+http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/222.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hot 12
+http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/223.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hot 13
+http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/224.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hot 14
+http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/225.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hot 15
+http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/226.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hot 16
+http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/227.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hot 17
+http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/228.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Brazzers Europe TV
+http://81.200.50.4/hls/Brazzers_nejtv_portable_low.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Eroxxx TV HD
+http://81.200.50.4/hls/Eroxx_nejtv_portable_low.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Erox TV HD
+http://81.200.50.4/hls/Erox_nejtv_portable_low.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hustler TV +18
+http://81.200.50.4/hls/Hustler_nejtv_portable_low.m3u8
