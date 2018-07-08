@@ -162,7 +162,7 @@ http://live.cdn.mobifonetv.vn/motv/myhtvcphunu_hls.smil/chunklist_b1200000.m3u8
 http://ott.realplaytv.net:12388/?header=hplus&name=htvc_thuan_viet&cdn=1
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/07/01/423779-THUANVIETHD-NEW_1.png" group-title="PHIM TỔNG HỢP", HTVC Thuần Việt  SV2
 http://live.cdn.mobifonetv.vn/motv/myhtvcthuanviet_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.htvonline.com.vn/livetv/24072017/htvc_plus_33191500861714.png" group-title="HTVC", HTVC FBNC
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/banner/2015/02/26/661481-FBNC.png" group-title="HTVC", HTVC FBNC
 http://ott.realplaytv.net:12388/?header=hplus&name=htvc_fbnc&cdn=1
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/402957-htvtthd.png" group-title="SPORT", HTVC Thể Thao HD
 http://live.cdn.mobifonetv.vn/motv/myhtvcthethao_hls.smil/chunklist_b1200000.m3u8
@@ -217,7 +217,9 @@ rtmp://203.113.166.233/live/NTV_VIDEO
 http://ott.realplaytv.net:12388/?header=hplus&name=Da_Nang_1&cdn=1
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/XrdXnRz.png" group-title="ĐỊA PHƯƠNG", ĐÀ NẴNG 1 SV2
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7yJ23L7.png" group-title="ĐỊA PHƯƠNG", ĐÀ NẴNG 2 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7yJ23L7.png" group-title="ĐỊA PHƯƠNG", ĐÀ NẴNG 2 SV1
+http://ott.realplaytv.net:12388/?header=hplus&name=Da_Nang_2&cdn=1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7yJ23L7.png" group-title="ĐỊA PHƯƠNG", ĐÀ NẴNG 2 SV2
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/BAlaTCo.jpg" group-title="ĐỊA PHƯƠNG", TRÀ VINH 
 http://123.30.191.202/hls/travinh.m3u8
