@@ -1,9 +1,13 @@
 #EXTM3U
-#EXTINF:-1, ♥♥♥ List By Admin Tín Update 3/7/2018 ♥♥♥
+#EXTINF:-1, ♥♥♥ List By Admin Tín Update 8/7/2018 ♥♥♥
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/UNIF3e2.jpg" group-title="THVL", Vĩnh Long 1 HD
 http://xemtivi24.000webhostapp.com/iptv-thvli.php?id=vinhlong1hd
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/UNIF3e2.jpg" group-title="THVL", Vĩnh Long 1 
+http://ott.realplaytv.net:12388/?header=hplus&name=Vinh_Long_1&cdn=1
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/XdoRj6h.png" group-title="THVL", Vĩnh Long 2 HD 
 http://xemtivi24.000webhostapp.com/iptv-thvli.php?id=vinhlong2hd
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/XdoRj6h.png" group-title="THVL", Vĩnh Long 2 
+http://ott.realplaytv.net:12388/?header=hplus&name=Vinh_Long_2&cdn=1
 
 #EXTINF:-1 tvg-id="VTV 1" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv1_w150_h150.png" group-title="VTV", VTV1 HD SV1
 https://cdn-livestream-live.vtvgiaitri.vn/vtv1.smil/chunklist_b2000000.m3u8 
@@ -105,9 +109,13 @@ http://play.vtv.vn/?v=dnR2OA==&t=1528359015350
 http://play.vtv.vn/?v=dnR2OQ==&t=1528359172663
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.htvonline.com.vn/livetv/14102016/htv1_51761476437549.png" group-title="HTV", HTV1 
 http://live.cdn.mobifonetv.vn/motv/myhtv1_hls.smil/chunklist_b1200000.m3u8	
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/996898-htv2hd.png" group-title="HTV", HTV2
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/996898-htv2hd.png" group-title="HTV", HTV2 SV1
+http://ott.realplaytv.net:12388/?header=hplus&name=htv2&cdn=1	
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/996898-htv2hd.png" group-title="HTV", HTV2 SV2
 http://live.cdn.mobifonetv.vn/motv/myhtv2_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.htvonline.com.vn/livetv/14102016/htv3_42031476437556.png" group-title="HTV", HTV3 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.htvonline.com.vn/livetv/14102016/htv3_42031476437556.png" group-title="HTV", HTV3 SV1
+http://ott.realplaytv.net:12388/?header=hplus&name=htv3&cdn=1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.htvonline.com.vn/livetv/14102016/htv3_42031476437556.png" group-title="HTV", HTV3 SV2
 http://live.cdn.mobifonetv.vn/motv/myhtv3_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.htvonline.com.vn/livetv/14102016/htv4_39331476437563.png" group-title="HTV", HTV4 
 http://live.cdn.mobifonetv.vn/motv/myhtv4_hls.smil/chunklist_b1200000.m3u8
@@ -126,22 +134,40 @@ http://118.107.68.10:1935/live/smil:VTC1HD_ad86cb2e3c70f5e1.smil/playlist.m3u8
 http://antv.xemtvhd.com:1935/live/smil:VTC1HD_ad86cb2e3c70f5e1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/3QYpmSw.png" group-title="VTC", VTC5-tvBlue 
 http://vtsstr4.sctv.vn:1935/testlive1/vtc5_SD.smil/chunklist_w1539000199_b2292000_19851.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.htvonline.com.vn/livetv/20042017/phim_48561492680416.png" group-title="PHIM TỔNG HỢP", HTVC Phim HD
+#EXTINF:-1 tvg-id="VTC7" tvg-logo="https://i.imgur.com/VYm0bOc.png" group-title="VTC", VTC7-Today HD
+http://ott.realplaytv.net:12388/?header=hplus&name=vtc7&cdn=1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.htvonline.com.vn/livetv/20042017/phim_48561492680416.png" group-title="HTVC", HTVC Phim HD SV1
+http://ott.realplaytv.net:12388/?header=hplus&name=htvc_phim&cdn=1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.htvonline.com.vn/livetv/20042017/phim_48561492680416.png" group-title="PHIM TỔNG HỢP", HTVC Phim HD SV2
 http://live.cdn.mobifonetv.vn//motv/myhtvcphim_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_phim-hay_141217631093.png" group-title="PHIM TỔNG HỢP", Phim Hay HD
 http://live.cdn.mobifonetv.vn/motv3/phimhay_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/09/28/813147-htvc_dulich.cuocsong_.png" group-title="DU LỊCH & KHÁM PHÁ", HTVC Du Lịch 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/09/28/813147-htvc_dulich.cuocsong_.png" group-title="HTVC", HTVC Du Lịch SV1
+http://ott.realplaytv.net:12388/?header=hplus&name=htvc_du_lich&cdn=1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/09/28/813147-htvc_dulich.cuocsong_.png" group-title="DU LỊCH & KHÁM PHÁ", HTVC Du Lịch SV2
 http://live.cdn.mobifonetv.vn/motv/myhtvcdulich_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo=""http://img.hplus.com.vn/355x200/poster/2017/04/20/593179-Canhac_FullHD.png" group-title="MUSIC", HTVC Ca Nhạc 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo=""http://img.hplus.com.vn/355x200/poster/2017/04/20/593179-Canhac_FullHD.png" group-title="HTVC", HTVC Ca Nhạc SV1
+http://ott.realplaytv.net:12388/?header=hplus&name=htvc_ca_nhac&cdn=1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo=""http://img.hplus.com.vn/355x200/poster/2017/04/20/593179-Canhac_FullHD.png" group-title="MUSIC", HTVC Ca Nhạc  SV2
 http://live.cdn.mobifonetv.vn/motv/myhtvccanhac_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/09/28/371877-htvc_gia_dinh.png" group-title="PHIM TỔNG HỢP", HTVC Gia Đình 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/09/28/371877-htvc_gia_dinh.png" group-title="HTVC", HTVC Gia Đình SV1
+http://ott.realplaytv.net:12388/?header=hplus&name=htvc_gia_dinh&cdn=1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/09/28/371877-htvc_gia_dinh.png" group-title="PHIM TỔNG HỢP", HTVC Gia Đình SV2
 http://live.cdn.mobifonetv.vn/motv/myhtvcgiadinh_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/20/162111-phu_nu_hd.png" group-title="PHIM TỔNG HỢP", HTVC Phụ Nữ 
+EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/20/162111-phu_nu_hd.png" group-title="HTVC", HTVC Phụ Nữ SV1
+http://ott.realplaytv.net:12388/?header=hplus&name=htvc_phu_nu&cdn=1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/20/162111-phu_nu_hd.png" group-title="PHIM TỔNG HỢP", HTVC Phụ Nữ SV2
 http://live.cdn.mobifonetv.vn/motv/myhtvcphunu_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/07/01/423779-THUANVIETHD-NEW_1.png" group-title="PHIM TỔNG HỢP", HTVC Thuần Việt 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/07/01/423779-THUANVIETHD-NEW_1.png" group-title="HTVC", HTVC Thuần Việt SV1
+http://ott.realplaytv.net:12388/?header=hplus&name=htvc_thuan_viet&cdn=1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/07/01/423779-THUANVIETHD-NEW_1.png" group-title="PHIM TỔNG HỢP", HTVC Thuần Việt  SV2
 http://live.cdn.mobifonetv.vn/motv/myhtvcthuanviet_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.htvonline.com.vn/livetv/24072017/htvc_plus_33191500861714.png" group-title="HTVC", HTVC FBNC
+http://ott.realplaytv.net:12388/?header=hplus&name=htvc_fbnc&cdn=1
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/402957-htvtthd.png" group-title="SPORT", HTVC Thể Thao HD
 http://live.cdn.mobifonetv.vn/motv/myhtvcthethao_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.htvonline.com.vn/livetv/20042017/shopping_38991492680357.png" group-title="SHOP", HTVC Shopping 
+http://ott.realplaytv.net:12388/?header=hplus&name=htvc_shopping&cdn=1
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.sctv.com.vn/Media/ShortCut/channel/sctv5.png" group-title="SHOP", SCTV5-SCJ SV1	
 http://vtsstr4.sctv.vn:1935/testlive/SCTV5_SD.smil/chunklist_w411708802_b2292000.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.sctv.com.vn/Media/ShortCut/channel/sctv5.png" group-title="SCTV", SCTV5-SCJ SV2
@@ -187,7 +213,9 @@ http://hanoitvlive.8ef55e0c.cdnviet.com/hanoi2.smil/chunklist_b3500000.m3u8
 http://live.cdn.mobifonetv.vn/motv2/mientay_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/KkIjWlG.png" group-title="ĐỊA PHƯƠNG", Ninh Thuận
 rtmp://203.113.166.233/live/NTV_VIDEO
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/XrdXnRz.png" group-title="ĐỊA PHƯƠNG", ĐÀ NẴNG 1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/XrdXnRz.png" group-title="ĐỊA PHƯƠNG", ĐÀ NẴNG 1 SV1
+http://ott.realplaytv.net:12388/?header=hplus&name=Da_Nang_1&cdn=1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/XrdXnRz.png" group-title="ĐỊA PHƯƠNG", ĐÀ NẴNG 1 SV2
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7yJ23L7.png" group-title="ĐỊA PHƯƠNG", ĐÀ NẴNG 2 
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
@@ -207,9 +235,18 @@ rtmp://123.29.68.44/hctv/vstv020
 rtmp://123.29.68.44/hctv/vstv021
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/HXNdhdT.jpg" group-title="ĐỊA PHƯƠNG", VP-VĨNH PHÚC
 rtmp://117.6.162.63/live/thvp
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/5Ys78oI.png" group-title="ĐỊA PHƯƠNG", BẮC GIANG
+http://ott.realplaytv.net:12388/?header=hplus&name=Bac_Giang&cdn=1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/v1AVx04.png" group-title="ĐỊA PHƯƠNG", BÌNH DƯƠNG 1
+http://ott.realplaytv.net:12388/?header=hplus&name=Binh_Duong_1&cdn=1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/npib8q2.png" group-title="ĐỊA PHƯƠNG", HUẾ
+http://ott.realplaytv.net:12388/?header=hplus&name=Hue&cdn=1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/qoXJvSM.png" group-title="ĐỊA PHƯƠNG", LÂM ĐỒNG
+http://ott.realplaytv.net:12388/?header=hplus&name=Lam_Dong&cdn=1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/A4ienJg.png" group-title="ĐỊA PHƯƠNG", QUẢNG NAM
+http://ott.realplaytv.net:12388/?header=hplus&name=Quang_Nam&cdn=1
 
 ~♥Kênh Phim Quốc Tế♥~
-
 
 ~♥Kênh Thể Thao♥~
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png" group-title="SPORT", K+ Bóng Đá 1
@@ -308,6 +345,7 @@ http://d1cdshhn0sj9xt.cloudfront.net/529/QualityLevels(2628000,as=video)/Fragmen
 http://lgedge1.everyon.tv/lgetv1/phd1158/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV HÀN", Kênh A Plus
 http://lgedge1.everyon.tv/lgetv1/phd1143/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV HÀN", KBSN PLUS
 http://edge1.everyon.tv:1935/etv1/phd1327/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="TV HÀN", KBS 1
@@ -420,7 +458,6 @@ http://163.172.105.230:9001/live?channelId=278&uid=6917&deviceMac=00:1A:79:3C:CA
 http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/KZHZBcq.png" group-title="SINH HỌC", BS 24 LIVE
 http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/V1e7Piy.jpg" group-title="SINH HỌC", Jasmin Channel 720P
 http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8?MWINFO
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/V1e7Piy.jpg" group-title="SINH HỌC", Jasmin TV 
@@ -495,65 +532,173 @@ http://145.239.1.103:8000/live/Dogan4/Dogan4/799.ts
 http://145.239.1.103:8000/live/Dogan4/Dogan4/803.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7qQF2fd.jpg" group-title="SINH HỌC", O-la-la
 http://164.138.94.239:81/udp/239.191.254.161:15285
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Dorcel TV
-http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/114.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Evil Angel TV
-http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/117.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hot
-http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/112.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Playboy TV
-http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/113.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Venus
-http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/111.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", SCT HD
-http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/219.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", REDLIGHT HD
-http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/218.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", SEXTREME
-http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/217.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", HUSTLER HD
-http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/216.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", PINK O TV
-http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/215.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hot 1
-http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/220.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hot 2
-http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/229.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hot 3
-http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/230.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hot 4
-http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/231.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hot 5
-http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/232.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hot 6
-http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/233.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hot 7
-http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/234.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hot 8
-http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/235.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hot 9
-http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/236.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hot 10
-http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/221.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hot 11
-http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/222.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hot 12
-http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/223.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hot 13
-http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/224.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hot 14
-http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/225.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hot 15
-http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/226.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hot 16
-http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/227.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hot 17
-http://iptv.skymaster.org:26001/live/Alberto25/qAIuoIz7Mg/228.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Brazzers Europe TV
 http://81.200.50.4/hls/Brazzers_nejtv_portable_low.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Eroxxx TV HD
 http://81.200.50.4/hls/Eroxx_nejtv_portable_low.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Erox TV HD
 http://81.200.50.4/hls/Erox_nejtv_portable_low.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hustler TV +18
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="`" group-title="SINH HỌC", Hustler TV +18
 http://81.200.50.4/hls/Hustler_nejtv_portable_low.m3u8
+
+~♥Update 8/7/2017♥~
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Brazzers TV
+http://m3u.iptvstreaming.org:25461/live/98cri@tiscali.it/8cvdxtj4lo0swjoepnzv/282.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hustler HD
+http://m3u.iptvstreaming.org:25461/live/98cri@tiscali.it/8cvdxtj4lo0swjoepnzv/119.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hustler SD
+http://m3u.iptvstreaming.org:25461/live/98cri@tiscali.it/8cvdxtj4lo0swjoepnzv/167.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Evil Angel TV
+http://m3u.iptvstreaming.org:25461/live/98cri@tiscali.it/8cvdxtj4lo0swjoepnzv/131.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", CentoXCento
+http://m3u.iptvstreaming.org:25461/live/98cri@tiscali.it/8cvdxtj4lo0swjoepnzv/145.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", DP
+http://m3u.iptvstreaming.org:25461/live/98cri@tiscali.it/8cvdxtj4lo0swjoepnzv/283.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Dusk
+http://m3u.iptvstreaming.org:25461/live/98cri@tiscali.it/8cvdxtj4lo0swjoepnzv/21.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", PassieXXX
+http://m3u.iptvstreaming.org:25461/live/98cri@tiscali.it/8cvdxtj4lo0swjoepnzv/1234.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Pinko TV
+http://m3u.iptvstreaming.org:25461/live/98cri@tiscali.it/8cvdxtj4lo0swjoepnzv/97.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/pp/playboy_tv_us.png" group-title="SINH HỌC", Playboy TV
+http://m3u.iptvstreaming.org:25461/live/98cri@tiscali.it/8cvdxtj4lo0swjoepnzv/17.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", SCT
+http://m3u.iptvstreaming.org:25461/live/98cri@tiscali.it/8cvdxtj4lo0swjoepnzv/59.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", sextosenso
+http://m3u.iptvstreaming.org:25461/live/98cri@tiscali.it/8cvdxtj4lo0swjoepnzv/58.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Sex Zone
+http://m3u.iptvstreaming.org:25461/live/98cri@tiscali.it/8cvdxtj4lo0swjoepnzv/285.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/ss/super_one_hd.png" group-title="SINH HỌC", Super One HD
+http://m3u.iptvstreaming.org:25461/live/98cri@tiscali.it/8cvdxtj4lo0swjoepnzv/1235.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Visit-x Live
+http://m3u.iptvstreaming.org:25461/live/98cri@tiscali.it/8cvdxtj4lo0swjoepnzv/284.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", XXX: Hot Club1 HD
+http://izgemma.ddns.net:8000/live/carl/carl/199.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", XXX: Hot Club 3 HD SV1
+http://izgemma.ddns.net:8000/live/carl/carl/198.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", XXX: Hot Club 3 HD SV2
+http://izgemma.ddns.net:8000/live/pedro/pedro/198.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", XXX: Hot Club6 HD
+http://izgemma.ddns.net:8000/live/carl/carl/200.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", XXX: Hot Club 7 HD
+http://izgemma.ddns.net:8000/live/carl/carl/193.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", XXX: SCT
+http://izgemma.ddns.net:8000/live/carl/carl/169.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", XXX: HOT 1
+http://izgemma.ddns.net:8000/live/carl/carl/13448.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", XXX: HOT 4
+http://izgemma.ddns.net:8000/live/carl/carl/13451.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", XXX: HOT 6
+http://izgemma.ddns.net:8000/live/carl/carl/13453.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", XXX: HOT 7
+http://izgemma.ddns.net:8000/live/carl/carl/13454.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", xxx: HOT 8
+http://izgemma.ddns.net:8000/live/carl/carl/13455.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", [ADULT] HOTCLUB 1 HD [18]
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1695.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", [ADULT] HOTCLUB 2 HD [18]
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1696.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", [ADULT] HOTCLUB 3 HD [18]
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1697.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", [ADULT] HOTCLUB 4 HD [18]
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1698.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", [ADULT] HOTCLUB 5 HD [18]
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1699.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", [ADULT] HOTCLUB 6 HD [18]
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1700.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", [ADULT] HOTCLUB 7 HD [18]
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1701.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", [ADULT] HOTCLUB 9 HD [18]
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1703.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", [ADULT] HOTCLUB 10 HD [18]
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1704.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", [ADULT] HOTCLUB 11 HD [18]
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1705.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", [ADULT] HOTCLUB 12 HD [18]
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1706.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", [ADULT] HOTCLUB 13 HD [18]
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1707.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", [ADULT] HOTCLUB 14 HD [18]
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1708.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", [ADULT] HOTCLUB 15 HD [18]
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1709.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", [ADULT] HOTCLUB 16 HD [18]
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1710.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", [ADULT] HOTCLUB 17 HD [18]
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1711.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", [ADULT] HOTCLUB 18 HD [18]
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1712.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", [ADULT] HOTCLUB 19 HD [18]
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1713.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", [ADULT] HOTCLUB 20 HD [18]
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1714.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", [ADULT] HOTCLUB 21 HD [18]
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1715.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", [ADULT] HOTCLUB 22 HD [18]
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1716.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", [ADULT] HOTCLUB 23 HD [18]
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1717.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", [ADULT] HOTCLUB 24 HD [18]
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1718.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Penthouse
+http://trexiptv.pointto.us:8000/live/spiderbox/c7eornHc3w/1922.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Brazzers
+http://trexiptv.pointto.us:8000/live/spiderbox/c7eornHc3w/4440.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Passie XXX
+http://trexiptv.pointto.us:8000/live/spiderbox/c7eornHc3w/1514.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Dorcel HD
+http://trexiptv.pointto.us:8000/live/spiderbox/c7eornHc3w/4439.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", DUSK! DeLuxe
+http://trexiptv.pointto.us:8000/live/spiderbox/c7eornHc3w/1028.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Evil Angel
+http://trexiptv.pointto.us:8000/live/spiderbox/c7eornHc3w/1515.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Exotica TV
+http://trexiptv.pointto.us:8000/live/spiderbox/c7eornHc3w/4438.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Hustler HD
+http://trexiptv.pointto.us:8000/live/spiderbox/c7eornHc3w/4437.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", MvH Hard
+http://trexiptv.pointto.us:8000/live/spiderbox/c7eornHc3w/1021.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", PlayBoy
+http://trexiptv.pointto.us:8000/live/spiderbox/c7eornHc3w/4435.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", XX:BRAZZERS
+http://4tv.vdns.info:8000/live/sero170/gokhanoz/430.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", XX:HOT CLUP 1 HD
+http://4tv.vdns.info:8000/live/sero170/gokhanoz/1093.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", XX:HOT CLUP 2 HD
+http://4tv.vdns.info:8000/live/sero170/gokhanoz/1094.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", XX:HOT CLUP 3 HD
+http://4tv.vdns.info:8000/live/sero170/gokhanoz/1095.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", XX:HOT CLUP 4 HD
+http://4tv.vdns.info:8000/live/sero170/gokhanoz/1096.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", XX:HOT CLUP 5 HD
+http://4tv.vdns.info:8000/live/sero170/gokhanoz/1097.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", XX:HOT CLUP 6 HD
+http://4tv.vdns.info:8000/live/sero170/gokhanoz/1098.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", XX:HOT CLUP 7 HD
+http://4tv.vdns.info:8000/live/sero170/gokhanoz/1099.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Venus
+http://142.44.139.236:25461/live/adriano10/adriano10/6081.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Sextreme
+http://142.44.139.236:25461/live/adriano10/adriano10/4330.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Playboy HD
+http://142.44.139.236:25461/live/adriano10/adriano10/10358.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Sexy Hot
+http://142.44.139.236:25461/live/adriano10/adriano10/4329.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Playboy TV
+http://142.44.139.236:25461/live/adriano10/adriano10/4342.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Jasmin TV
+http://142.44.139.236:25461/live/adriano10/adriano10/6201.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC",Hot Club 3 HD
+http://izgemma.ddns.net:8000/live/carl/carl/198.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC",Hot Club 7 HD
+http://izgemma.ddns.net:8000/live/carl/carl/193.ts
+#EXTINF:-1tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC",Hot Club1 HD
+http://izgemma.ddns.net:8000/live/carl/carl/199.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC",Hot Club6 HD
+http://izgemma.ddns.net:8000/live/carl/carl/200.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Balkan Erotic
+http://51.15.199.82:25461/live/euroiptv/euroiptv/375.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Private
+http://51.15.199.82:25461/live/euroiptv/euroiptv/376.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SINH HỌC", Babestation
+http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
