@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/UNIF3e2.jpg" group-title="THVL", Vĩnh Long 1 HD
-http://113.23.3.148:4022/udp/225.1.1.155:30120
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/XdoRj6h.png" group-title="THVL", Vĩnh Long 2 HD
-http://113.23.3.148:4022/udp/225.1.1.154:30120
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv1_w150_h150.png" group-title="VTV", VTV1 HD 
 http://113.23.3.148:4022/udp/225.1.2.248:30120
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv2_w150_h150.png" group-title="VTV", VTV2 FPT HD 
@@ -103,6 +98,10 @@ http://113.23.3.148:4022/udp/225.1.1.30:30120
 http://113.23.3.148:4022/udp/225.1.1.225:30120
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/HLfQYGW.png" group-title="BTV", SAM-BTV11
 http://113.23.3.148:4022/udp/225.1.1.224:30120
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/UNIF3e2.jpg" group-title="THVL", Vĩnh Long 1 HD
+http://113.23.3.148:4022/udp/225.1.1.155:30120
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/XdoRj6h.png" group-title="THVL", Vĩnh Long 2 HD
+http://113.23.3.148:4022/udp/225.1.1.154:30120
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/geUecgI.jpg" group-title="HANOI CAB", HiTV-Hanoicab1
 http://113.23.3.148:4022/udp/225.1.1.209:30120
