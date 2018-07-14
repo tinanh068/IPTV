@@ -238,7 +238,7 @@ http://118.107.68.10:1935/live/smil:Haiphongplus.smil/playlist.m3u8
 http://118.107.68.10:1935/live/smil:Haiphong1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/nWMRy2q.jpg" group-title="ĐỊA PHƯƠNG", TTV-THANH HÓA
 http://123.30.191.202/hls/ttv.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/pyFJcMq.jpg" group-title="ĐỊA PHƯƠNG", QTV1-QUẢNG NINH
+#EXTINF:-1 tvg-id=p"Dummy" tvg-logo="https://i.imgur.com/pyFJcMq.jpg" group-title="ĐỊA PHƯƠNG", QTV1-QUẢNG NINH
 rtmp://123.29.68.44/hctv/vstv020
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/1uht36Q.jpg" group-title="ĐỊA PHƯƠNG", QTV3-QUẢNG NINH
 rtmp://123.29.68.44/hctv/vstv021
@@ -257,25 +257,25 @@ http://ott.realplaytv.net:12388/?header=hplus&name=Quang_Nam&cdn=1
 
 ~♥Kênh Phim Quốc Tế♥~
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/keaY5V6.png" group-title="PHIM QUỐC TẾ", HBO T.Việt
-http://113.172.147.168:4022/rtp/232.84.1.19:8088
+http://113.174.170.133:4022/rtp/232.84.1.19:8088
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/zjHPpt7.png" group-title="PHIM QUỐC TẾ", Fox Movies HD T.Việt
-http://113.172.147.168:4022/rtp/232.84.1.77:8436
+http://113.174.170.133:4022/rtp/232.84.1.77:8436
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/zjHPpt7.png" group-title="PHIM QUỐC TẾ", Fox Movies T.Việt
-http://113.172.147.168:4022/rtp/232.84.1.10:8034
+http://113.174.170.133:4022/rtp/232.84.1.10:8034
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/YDYWnRm.png" group-title="PHIM QUỐC TẾ", Fox Life HD T.Việt
-http://113.172.147.168:4022/rtp/232.84.1.78:8442
+http://113.174.170.133:4022/rtp/232.84.1.78:8442
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/YDYWnRm.png" group-title="PHIM QUỐC TẾ", Fox Life T.Việt
-http://113.172.147.168:4022/rtp/232.84.2.119:8382
+http://113.174.170.133:4022/rtp/232.84.2.119:8382
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/2eTPQ1V.png" group-title="PHIM QUỐC TẾ", Max By HBO HD T.Việt
-http://113.172.147.168:4022/rtp/232.84.1.20:8094
+http://113.174.170.133:4022/rtp/232.84.1.20:8094
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/1rVPBME.png" group-title="PHIM QUỐC TẾ", Red By HBO HD T.Việt
-http://113.172.147.168:4022/rtp/232.84.1.9:8028
+http://113.174.170.133:4022/rtp/232.84.1.9:8028
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/1rVPBME.png" group-title="PHIM QUỐC TẾ", Red By HBO T.Việt
-http://113.172.147.168:4022/rtp/232.84.1.44:8244
+http://113.174.170.133:4022/rtp/232.84.1.44:8244
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/04naoBg.jpg" group-title="PHIM QUỐC TẾ", WarnerTV HD T.Việt
-http://113.172.147.168:4022/rtp/232.84.2.51:10516
+http://113.174.170.133:4022/rtp/232.84.2.51:10516
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/04naoBg.jpg" group-title="PHIM QUỐC TẾ", WarnerTV HD T.Việt
-http://113.172.147.168:4022/rtp/232.84.2.50:10510
+http://113.174.170.133:4022/rtp/232.84.2.50:10510
 
 ~♥Kênh Thể Thao♥~
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png" group-title="SPORT", K+ Bóng Đá 1
