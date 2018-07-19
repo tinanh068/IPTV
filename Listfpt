@@ -85,7 +85,7 @@ http://1.52.183.130:4022/udp/225.1.2.190:30120
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/fC1vx4U.png" group-title="SCTV", SCTV4-Let's Viet
 http://1.52.183.130:4022/udp/225.1.2.187:30120
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.sctv.com.vn/Media/ShortCut/channel/sctv5.png" group-title="SCTV", SCTV5-SCJ
+#EXTINF:-1 tvg-id="Dummy" tvg-lo0go="http://www.sctv.com.vn/Media/ShortCut/channel/sctv5.png" group-title="SCTV", SCTV5-SCJ
 http://1.52.183.130:4022/udp/225.1.1.134:30120
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/g9akx9k.png" group-title="SCTV", SCTV10-SaoNamShopping
 http://1.52.183.130:4022/udp/225.1.2.205:30120
@@ -94,6 +94,8 @@ http://1.52.183.130:4022/udp/225.1.2.205:30120
 http://1.52.183.130:4022/udp/225.1.1.223:30120
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/5LyGCso.jpg" group-title="BTV", iMOVIE TV HD-BTV4 HD
 http://1.52.183.130:4022/udp/225.1.1.30:30120
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/b24w0fD.png" group-title="BTV", An Viên HD-BTV9
+http://1.52.183.130:4022/udp/225.1.2.189:30120
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/6OJSj2G.jpg" group-title="BTV", NCM-BTV10
 http://1.52.183.130:4022/udp/225.1.1.225:30120
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/HLfQYGW.png" group-title="BTV", SAM-BTV11
@@ -364,6 +366,3 @@ http://1.52.183.130:4022/udp/225.1.1.39:30120
 http://1.52.183.130:4022/udp/225.1.2.226:30120
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VUYiLHY.png" group-title="FASHION", Fashion TV 4K
 http://1.52.183.130:4022/udp/225.1.1.20:30120
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/b24w0fD.png" group-title="PHẬT GIÁO", An Viên HD
-http://1.52.183.130:4022/udp/225.1.2.189:30120
