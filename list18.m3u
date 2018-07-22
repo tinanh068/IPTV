@@ -203,7 +203,7 @@ http://fpttv.tk/iptv/tv24.php?id=sctv8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static-stage.tv24.vn/channel/8/s9.png" group-title="SCTV", SCTV9 HD
 http://fpttv.tk/iptv/tv24.php?id=sctv9
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static-stage.tv24.vn/channel/115/s10.png" group-title="SCTV", SCTV10
-http://fpttv.tk/iptv/tv24.php?id=sctv10
+rtmp://vtsstr4.sctv.vn:1935/testlive1/sctv10_SD_3
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static-stage.sctv.vn/channel/106/s11.png" group-title="SCTV", SCTV11 HD
 http://fpttv.tk/iptv/tv24.php?id=sctv11
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static-stage.sctv.vn/channel/103/S12.png" group-title="SCTV", SCTV12 HD SV1
