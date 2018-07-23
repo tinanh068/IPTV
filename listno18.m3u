@@ -578,8 +578,6 @@ http://vapi.vaders.tv/play/79284.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3
 http://vapi.vaders.tv/play/79285.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", PTV Sports
 http://vapi.vaders.tv/play/79288.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/CwHvhmH.png" group-title="SPORT", IPTV5+
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000149?AuthInfo=xxx&userid=
 
 ~♥Kênh Du Lịch & Khám Phá♥~
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/buGBTGW.jpg" group-title="DU LỊCH & KHÁM PHÁ", National Geographic HD T.Việt
