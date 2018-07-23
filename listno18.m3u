@@ -297,7 +297,7 @@ rtmp://123.29.68.44/hctv/vstv021
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/HXNdhdT.jpg" group-title="ĐỊA PHƯƠNG", VP-VĨNH PHÚC
 rtmp://117.6.162.63/live/thvp
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_khanh-hoa_145672791198.jpg" group-title="ĐỊA PHƯƠNG", KTV-Khánh Hòa
-http://210.245.20.94/ktv.m3u8
+http://210.245.20.94/hls/ktv1.m3u8
 
 ~♥Kênh Phim Quốc Tế♥~
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/3nlQCqX.jpg" group-title="PHIM QUỐC TẾ", HBO  
