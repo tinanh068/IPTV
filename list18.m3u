@@ -129,15 +129,12 @@ http://live.cdn.mobifonetv.vn/motv/myhtv9_hls.smil/chunklist_b1200000.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Ao2TIpc.jpg" group-title="MUSIC", VTC Ca Nhạc
 http://118.107.68.10:1935/live/_definst_/VTC_CANHAC2017/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/DdAPkSm.png" group-title="VTC", VTC1 HD SV1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/DdAPkSm.png" group-title="VTC", VTC1 HD
 http://118.107.68.10:1935/live/smil:VTC1HD_ad86cb2e3c70f5e1.smil/chunklist_w156696500_b1296000_slVI.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/DdAPkSm.png" group-title="VTC", VTC1 HD SV2
-http://antv.xemtvhd.com:1935/live/smil:VTC1HD_ad86cb2e3c70f5e1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/3QYpmSw.png" group-title="VTC", VTC5-tvBlue 
 http://vtsstr4.sctv.vn:1935/testlive1/vtc5_SD.smil/chunklist_w1539000199_b2292000_19851.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://res.cloudinary.com/videa-prod/image/upload/v1518165900/833910d0-0d75-11e8-82bb-c53004caf2c1.png" group-title="VTC", VTC14
 http://vtsstr4.sctv.vn:1935/testlive1/vtc14_SD.smil/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.htvonline.com.vn/livetv/20042017/phim_48561492680416.png" group-title="HTVC", HTVC Phim HD SV1
 http://fpttv.tk/iptv/hplus.php?id=htvc-phimhd
