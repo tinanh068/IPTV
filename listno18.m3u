@@ -265,7 +265,8 @@ http://rtmp.one.by:1300
 http://rtmp.one.by:2300
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="MUSIC", O 1080P
 http://77.232.128.68/bks.m3u8
-
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/wXAwGnA.jpg" group-title="MUSIC", Nhạc Bolero
+http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/vbolero/playlist.m3u8
 
 ~♥Kênh Địa Phương♥~
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-hanoi-1_w150_h150.png" group-title="ĐỊA PHƯƠNG", Hà Nội 1 HD
