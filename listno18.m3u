@@ -300,7 +300,7 @@ http://cdn-01.bonus-tv.ru:8080/1HDmusic/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/1e1SYvo.jpg" group-title="MUSIC", MUSIC BOX
 http://live-musicbox.cdnvideo.ru/musicbox2/musicbox.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/EpvZdjB.png" group-title="MUSIC", VIBEE TV HD
-http://139.59.166.48:8081/live/live3/chunklist.m3u8
+http://139.59.166.48:8081/live/live3/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/wXAwGnA.jpg" group-title="MUSIC", Nhạc Bolero
 http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/vbolero/chunklist.m3u8
 
