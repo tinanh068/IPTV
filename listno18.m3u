@@ -389,7 +389,7 @@ http://ott.realplaytv.net:12388/?header=hplus&name=Kien_Giang_1&cdn=1
 http://live.cdn.mobifonetv.vn/motv/mykiengiang_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/3hmxZnW.jpg" group-title="ĐỊA PHƯƠNG", KIÊN GIANG S3
 http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Zm3u8c9un.png" group-title="ĐỊA PHƯƠNG", KIÊN GIANG 1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/3hmxZnW.jpg" group-title="ĐỊA PHƯƠNG", KIÊN GIANG 1
 http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/nbA7YYX.jpg" group-title="ĐỊA PHƯƠNG", LONG AN S1
 http://ott.realplaytv.net:12388/?header=hplus&name=Long_An_34&cdn=1
@@ -406,7 +406,7 @@ http://118.107.68.10:1935/live/smil:Lamdongtv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/o5admia.jpg" group-title="ĐỊA PHƯƠNG", HÀ NAM S1
 http://ott.realplaytv.net:12388/?header=hplus&name=Nam_Dinh&cdn=1
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/o5admia.jpg" group-title="ĐỊA PHƯƠNG", HÀ NAM S2
-http://113.160.198.111/Medias/HaNam/720P/chunklist.m3u8
+http://113.160.198.111/Medias/HaNam/720P/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/o5W5PwO.jpg" group-title="ĐỊA PHƯƠNG", QUẢNG NAM S1
 http://ott.realplaytv.net:12388/?header=hplus&name=Quang_Nam&cdn=1
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/o5W5PwO.jpg" group-title="ĐỊA PHƯƠNG", QUẢNG NAM S2
@@ -431,7 +431,7 @@ http://live.cdn.mobifonetv.vn/motv/mybrt_hls.smil/chunklist_b1200000.m3u8
 http://live.cdn.mobifonetv.vn/motv2/mythdt_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Hvvq6ST.png" group-title="ĐỊA PHƯƠNG", BẮC KẠN
 http://118.107.68.10:1935/live/_definst_/BK_live/chunklist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Hvvq6ST.png" group-title="ĐỊA PHƯƠNG", Bắc Ninh HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/pP5Y2My.png" group-title="ĐỊA PHƯƠNG", Bắc Ninh HD 
 http://118.107.68.10:1935/live/_definst_/BTVHD_12806b51bdf7ac364126%20/chunklist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/WdbXh5z.png" group-title="ĐỊA PHƯƠNG", BÌNH THUẬN
 rtmp://222.255.123.4:1939/thbttv/bttv
