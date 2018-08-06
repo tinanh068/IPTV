@@ -838,7 +838,7 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 http://fpttv.tk/iptv/mytvnet.php?id=arirang
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/arirang-tv" group-title="TV HÀN", ARIRANG S2
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="http://gg.gg/kbs-w" group-title="TV HÀN", KBS World
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/kbs-w" group-title="TV HÀN", KBS World
 http://fpttv.tk/iptv/hplus.php?id=kbs-world
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", ALL THE K-POP
 https://stream-02.nyc.dailymotion.com/01/dm/3/x4kzk1v/live-3.m3u8
