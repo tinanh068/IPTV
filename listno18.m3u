@@ -129,9 +129,9 @@ http://live.cdn.mobifonetv.vn/motv2/myvtc3_hls.smil/chunklist_b1200000.m3u8
 http://ott.realplaytv.net:12388/?header=hplus&name=vtc4&cdn=1
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-4" group-title="VTC", VTC4 S2
 http://m.huuvinh.ooo/nexttv1.php?id=vtc4
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-5-1" group-title="VTC", VTC5 S1
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://bit.ly/vtc-5" group-title="VTC", VTC5 S1
 http://vtsstr4.sctv.vn:1935/testlive1/vtc5_SD.smil/chunklist_b2292000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-5-1" group-title="VTC", VTC5 S2
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://bit.ly/vtc-5" group-title="VTC", VTC5 S2
 http://m.huuvinh.ooo/nexttv1.php?id=vtc5
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-6" group-title="VTC", VTC6
 http://m.huuvinh.ooo/nexttv1.php?id=vtc6
