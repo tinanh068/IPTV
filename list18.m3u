@@ -129,9 +129,9 @@ http://live.cdn.mobifonetv.vn/motv2/myvtc3_hls.smil/chunklist_b1200000.m3u8
 http://ott.realplaytv.net:12388/?header=hplus&name=vtc4&cdn=1
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-4" group-title="VTC", VTC4 S2
 http://m.huuvinh.ooo/nexttv1.php?id=vtc4
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-5" group-title="VTC", VTC5 S1
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://bit.ly/vtc-5" group-title="VTC", VTC5 S1
 http://vtsstr4.sctv.vn:1935/testlive1/vtc5_SD.smil/chunklist_b2292000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-5" group-title="VTC", VTC5 S2
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://bit.ly/vtc-5" group-title="VTC", VTC5 S2
 http://m.huuvinh.ooo/nexttv1.php?id=vtc5
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-6" group-title="VTC", VTC6
 http://m.huuvinh.ooo/nexttv1.php?id=vtc6
@@ -838,7 +838,7 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 http://fpttv.tk/iptv/mytvnet.php?id=arirang
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/arirang-tv" group-title="TV HÀN", ARIRANG S2
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="http://gg.gg/kbs-w" group-title="TV HÀN", KBS World
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://bit.ly/kbs-w" group-title="TV HÀN", KBS World
 http://fpttv.tk/iptv/hplus.php?id=kbs-world
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", ALL THE K-POP
 https://stream-02.nyc.dailymotion.com/01/dm/3/x4kzk1v/live-3.m3u8
@@ -910,9 +910,9 @@ http://live.cdn.mobifonetv.vn/motv/antg_hls.smil/chunklist_b1200000.m3u8
 http://27.118.16.98:1935/live/truyenhinhnhandan720/chunklist_w2006762604.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/nhandan" group-title="TIN TỨC", Nhân Dân HD S2
 https://5952e4052a2e8.streamlock.net/live/_definst_/smil:thienviet.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ttxvn" group-title="TIN TỨC", TTXVN S1
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://bit.ly/ttx-vn" group-title="TIN TỨC", TTXVN S1
 http://live.cdn.mobifonetv.vn/motv2/ttxvn_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ttxvn" group-title="TIN TỨC", TTXVN S2
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://bit.ly/ttx-vn" group-title="TIN TỨC", TTXVN S2
 http://live.vnanet.vn/VnewsLive_Layer1.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/antv-hd" group-title="TIN TỨC", An Ninh TV HD S1
 http://antvlive.ab5c6921.cdnviet.com/antvmobile/chunklist.m3u8
