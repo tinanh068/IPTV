@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ecmin", ♥♥♥ List By Admin Tín Update 5/8/2018 ♥♥♥
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ecmin", ♥♥♥ List By Admin Tín Update 8/8/2018 ♥♥♥
 https://gg.gg/ecmin
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/thvl-1" group-title="THVL", Vĩnh Long 1 HD S1
 http://fpttv.tk/iptv/thvli.php?id=vinhlong1hd
@@ -254,6 +254,8 @@ http://fpttv.tk/iptv/tv24.php?id=sctv20
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gg.gg/sctv-20" group-title="SCTV", SCTV20 HD-iTV S2
 http://kenhitv.vn/ITV_Stream/itv_web_500k.stream.mp4/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/btv-3" group-title="BTV", BTV3 HD
+http://vtsstr4.sctv.vn:1935/testlive/btv3_SD.smil/chunklist_b2292000.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/btv-10" group-title="BTV", BTV10-NCM
 http://live.cdn.mobifonetv.vn/motv/ncm_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/btv-11" group-title="BTV", BTV11-SAM
@@ -517,6 +519,8 @@ http://fpttv.tk/iptv/hplus.php?id=boomerang
 http://fpttv.tk/iptv/mytvnet.php?id=disney
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/davici" group-title="KID", Da Vinci Learning HD 
 http://fpttv.tk/iptv/mytvnet.php?id=davinci
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/discovery-kid" group-title="KID", DISCOVERY KID
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225775/04.m3u8
 
 ~♥Kênh Thể Thao♥~
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/tt-tv" group-title="SPORT", Thể Thao TV HD
@@ -557,6 +561,8 @@ http://fpttv.tk/iptv/mytvnet.php?id=foxsports2
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", AD Sport 2 HD 
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", DSPORT HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/04.m3u8 
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/real-tv" group-title="SPORT", Realmadrid TV 
 https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/mu-tv" group-title="SPORT", MU TV HD
@@ -787,22 +793,18 @@ http://fpttv.tk/iptv/hplus.php?id=ngc-hd
 http://fpttv.tk/iptv/hplus.php?id=bbc-e
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/bbc-ls" group-title="DU LỊCH & KHÁM PHÁ", BBC Lifestyle
 http://fpttv.tk/iptv/hplus.php?id=bbc-ls
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/discovery-tv" group-title="DU LỊCH & KHÁM PHÁ", Discovery
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225874/01.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/discovery-tv" group-title="DU LỊCH & KHÁM PHÁ", Discovery HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/04.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/discovery-tb" group-title="DU LỊCH & KHÁM PHÁ", Discovery TURBO
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225782/01.m3u8
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225782/04.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/discovery-sl" group-title="DU LỊCH & KHÁM PHÁ", Discovery Science
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225778/01.m3u8
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225778/04.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/discovery-w" group-title="DU LỊCH & KHÁM PHÁ", Discovery WORLD HD
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/04.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/animal-p" group-title="DU LỊCH & KHÁM PHÁ", Animal Planet HD
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/01.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/animal-p" group-title="DU LỊCH & KHÁM PHÁ", Animal Planet
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225872/01.m3u8
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/04.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sonybbc-e" group-title="DU LỊCH & KHÁM PHÁ", SONY BBC EARTH HD
-http://mhms8.airtel.tv/wh7f454c46tw133991019_1870526460/PLTV/88888888/224/3221226280/03.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sonybbc-e" group-title="DU LỊCH & KHÁM PHÁ", SONY BBC EARTH
-http://cshms3.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226068/03.m3u8
+http://mhms8.airtel.tv/wh7f454c46tw133991019_1870526460/PLTV/88888888/224/3221226280/04.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/tlc-tv" group-title="DU LỊCH & KHÁM PHÁ", TLC HD
 http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/04.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/tlc-tv" group-title="DU LỊCH & KHÁM PHÁ", TLC 
@@ -811,24 +813,30 @@ http://fpttv.tk/iptv/mytvnet.php?id=tlc
 ~♥Kênh TV SONY♥~
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ten1hd" group-title="TV SONY", SONY TEN1 FHD
 http://cshms4.airtel.tv/wh7f454c46tw1071703244_1357289440/PLTV/88888888/224/3221225875/05.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ten1hd" group-title="TV SONY", SONY TEN1 HD
-http://cshms4.airtel.tv/wh7f454c46tw1071703244_1357289440/PLTV/88888888/224/3221225875/04.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ten2hd" group-title="TV SONY", SONY TEN2 FHD
 http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/05.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ten2hd" group-title="TV SONY", SONY TEN2 HD
-http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/04.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ten3hd" group-title="TV SONY", SONY TEN3 HD
 http://mhms6.airtel.tv/wh7f454c46tw2828204960_1272463506/PLTV/88888888/224/3221226330/04.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sixhd" group-title="TV SONY", SONY SIX FHD
 http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/05.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sixhd" group-title="TV SONY", SONY SIX HD
-http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/04.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sony-espn" group-title="TV SONY",  SONY ESPN FHD
 http://cshms4.airtel.tv/wh7f454c46tw3044125113_1979135345/PLTV/88888888/224/3221226076/05.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sony-espn" group-title="TV SONY",  SONY ESPN HD
-http://cshms4.airtel.tv/wh7f454c46tw3044125113_1979135345/PLTV/88888888/224/3221226076/04.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sonymax" group-title="TV SONY", SONY MAX FHD
+http://cshms4.airtel.tv/wh7f454c46tw288508750_687813938/PLTV/88888888/224/3221225776/05.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sonysab" group-title="TV SONY", SONY SAB FHD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226078/05.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sonyjeet" group-title="TV SONY", SONY JEET HD
+http://cshms1.airtel.tv/wh7f454c46tw1565302381_1163892044/PLTV/88888888/224/3221226479/04.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sonyplex" group-title="TV SONY", SONY LE PLEX HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226446/04.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sonypix" group-title="TV SONY", SONY PIX HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sonyrox" group-title="TV SONY", SONY ROX MUSIC HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226204/04.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sony-tv" group-title="TV SONY", SONY TV HD
+http://cshms2.airtel.tv/wh7f454c46tw2308406466_821284247/PLTV/88888888/224/3221225772/04.m3u8
 
-♥Kênh TV NHẬT-HÀN-TÀU♥~
+~♥Kênh TV NHẬT-HÀN-TÀU♥~
 ~♥Kênh TV HÀN♥~
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/arirang-tv" group-title="TV HÀN", ARIRANG S1
 http://fpttv.tk/iptv/mytvnet.php?id=arirang
