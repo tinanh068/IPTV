@@ -988,7 +988,7 @@ http://172.104.114.178/vod/live/2/live.m3u8?key=71b7gqtnc2mtqld1vu4pf0kg43
 http://172.104.114.178/vod/live/3/live.m3u8?key=71b7gqtnc2mtqld1vu4pf0kg43
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ecmin" group-title="SINH HỌC", S+4
 http://172.104.114.178/vod/live/4/live.m3u8?key=71b7gqtnc2mtqld1vu4pf0kg43
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ecmin" group-title="SINH HỌC", PlayBoy Asia(Kor)
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ecmin" group-title="SINH HỌC", PlayBoy VIP TH (Kor)
 http://14.63.194.48:1935/playboy/playboy.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ecmin" group-title="SINH HỌC", NONAME
 http://59.124.220.46:554/live/tv284198321.stream/index.m3u8
