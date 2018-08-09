@@ -21,43 +21,27 @@ http://live.cdn.mobifonetv.vn/motv/mythvl2_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-1" group-title="VTV", VTV1 HD S1
 https://cdn-livestream-live.vtvgiaitri.vn/vtv1.smil/chunklist_b2000000.m3u8 
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-1" group-title="VTV", VTV1 HD S2
-http://live.cdn.mobifonetv.vn/motv/vtv1hd_hls.smil/chunklist_b1200000.m3u8
+http://vtsstr4.sctv.vn:1935/testlive1/VTV1_HD.smil/chunklist_b2692000.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-1" group-title="VTV", VTV1 HD S3
-http://cdn-livestream-live.vtvgiaitri.vn/vtv1.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-1" group-title="VTV", VTV1 HD S4
 http://118.107.68.10:1935/live/_definst_/VTV1_H_6374560ab1atyu33dfee617ce3516ca502d/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-2" group-title="VTV", VTV2 HD S1
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-2" group-title="VTV", VTV2 HD 
 https://cdn-livestream-live.vtvgiaitri.vn/vtv2.smil/chunklist_b2000000.m3u8 
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-2" group-title="VTV", VTV2 HD S2
-http://cdn-livestream-live.vtvgiaitri.vn/vtv2.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-3" group-title="VTV", VTV3 HD S1
 https://cdn-livestream-live.vtvgiaitri.vn/vtv3.smil/chunklist_b2000000.m3u8 
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-3" group-title="VTV", VTV3 HD S2
-http://cdn-livestream-live.vtvgiaitri.vn/vtv3.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-4" group-title="VTV", VTV4 HD S1
+http://vtsstr4.sctv.vn:1935/testlive1/VTV3_HD.smil/chunklist_b2692000.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-4" group-title="VTV", VTV4 HD 
 https://cdn-livestream-live.vtvgiaitri.vn/vtv4.smil/chunklist_b2000000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-4" group-title="VTV", VTV4 HD S2
-http://cdn-livestream-live.vtvgiaitri.vn/vtv4.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-5" group-title="VTV", VTV5 HD S1
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-5" group-title="VTV", VTV5 HD 
 https://cdn-livestream-live.vtvgiaitri.vn/vtv5.smil/chunklist_b2000000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-5" group-title="VTV", VTV5 HD S2
-http://cdn-livestream-live.vtvgiaitri.vn/vtv5.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-6" group-title="VTV", VTV6 HD S1
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-6" group-title="VTV", VTV6 HD 
 https://cdn-livestream-live.vtvgiaitri.vn/vtv6.smil/chunklist_b2000000.m3u8 
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-6" group-title="VTV", VTV6 HD S2
-http://cdn-livestream-live.vtvgiaitri.vn/vtv6.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-7" group-title="VTV", VTV7 HD S1
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-7" group-title="VTV", VTV7 HD 
 https://cdn-livestream-live.vtvgiaitri.vn/vtv7.smil/chunklist_b2000000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-7" group-title="VTV", VTV7 HD S2
-http://cdn-livestream-live.vtvgiaitri.vn/vtv7.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-8" group-title="VTV", VTV8 HD S1
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-8" group-title="VTV", VTV8 HD 
 https://cdn-livestream-live.vtvgiaitri.vn/vtv8.smil/chunklist_b2000000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-8" group-title="VTV", VTV8 HD S2
-http://cdn-livestream-live.vtvgiaitri.vn/vtv8.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-9" group-title="VTV", VTV9 HD S1
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-9" group-title="VTV", VTV9 HD 
 https://cdn-livestream-live.vtvgiaitri.vn/vtv9.smil/chunklist_b2000000.m3u8 
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-9" group-title="VTV", VTV9 HD S2
-http://cdn-livestream-live.vtvgiaitri.vn/vtv9.smil/chunklist_b1500000.m3u8
 
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtv-1" group-title="VTV WEB", VTV1 HD 
 http://play.vtv.vn/?v=dnR2MQ==&t=1528356637343
@@ -89,11 +73,11 @@ http://live.cdn.mobifonetv.vn/motv/myhtv1_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htv-1" group-title="HTV", HTV1 S3
 http://ott.realplaytv.net:12388/?header=hplus&name=htv1&cdn=1	
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htv-2" group-title="HTV", HTV2 S1
-http://live.cdn.mobifonetv.vn/motv/myhtv2_hls.smil/chunklist_b1200000.m3u8
+http://vtsstr4.sctv.vn:1935/testlive/HTV2_SD.smil/chunklist_b2692000.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htv-2" group-title="HTV", HTV2 S2
 http://ott.realplaytv.net:12388/?header=hplus&name=htv2&cdn=1	
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htv-3" group-title="HTV", HTV3 S1
-http://live.cdn.mobifonetv.vn/motv/myhtv3_hls.smil/chunklist_b1200000.m3u8
+http://vtsstr4.sctv.vn:1935/testlive/HTV3_SD.smil/chunklist_b2292000.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htv-3" group-title="HTV", HTV3 S2
 http://ott.realplaytv.net:12388/?header=hplus&name=htv3&cdn=1	
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htv-4" group-title="HTV", HTV4 S1
@@ -102,14 +86,14 @@ http://fpttv.tk/iptv/hplus.php?id=htv4
 http://live.cdn.mobifonetv.vn/motv/myhtv4_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htv-4" group-title="HTV", HTV4 S3
 http://ott.realplaytv.net:12388/?header=hplus&name=htv4&cdn=1	
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htv-7" group-title="HTV", HTV7 S1
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htv-7" group-title="HTV", HTV7 HD S1
 http://fpttv.tk/iptv/hplus.php?id=htv7hd
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htv-7" group-title="HTV", HTV7 S2
-http://live.cdn.mobifonetv.vn/motv/myhtv7_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htv-9" group-title="HTV", HTV9 S1
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htv-7" group-title="HTV", HTV7 HD S2
+http://vtsstr4.sctv.vn:1935/testlive/HTV7_HD.smil/chunklist_b2692000.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htv-9" group-title="HTV", HTV9 HD S1
 http://fpttv.tk/iptv/hplus.php?id=htv9hd
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htv-9" group-title="HTV", HTV9 S2
-http://live.cdn.mobifonetv.vn/motv/myhtv9_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htv-9" group-title="HTV", HTV9 HD S2
+http://vtsstr4.sctv.vn:1935/testlive1/HTV9_HD.smil/chunklist_b2692000.m3u8
 
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-ms" group-title="MUSIC", VTC Ca Nhạc
 http://118.107.68.10:1935/live/_definst_/VTC_CANHAC2017/chunklist.m3u8
@@ -211,47 +195,47 @@ http://fpttv.tk/iptv/hplus.php?id=htvc-fbnchd
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htvc-vgs" group-title="SHOP", HTVC Shopping-VGS Shop
 http://ott.realplaytv.net:12388/?header=hplus&name=htvc_shopping&cdn=1
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gg.gg/sctv-1" group-title="SCTV", SCTV1 HD
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-1" group-title="SCTV", SCTV1 HD-HÀI
 http://fpttv.tk/iptv/tv24.php?id=sctv1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gg.gg/sctv-2" group-title="SCTV", SCTV2 HD 
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-2" group-title="SCTV", SCTV2 HD 
 http://fpttv.tk/iptv/tv24.php?id=sctv2
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gg.gg/sctv-3" group-title="SCTV", SCTV3 HD-THIẾU NHI
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-3" group-title="SCTV", SCTV3 HD-THIẾU NHI
 http://fpttv.tk/iptv/tv24.php?id=sctv3
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gg.gg/sctv-4" group-title="SCTV", SCTV4-LET'S VIET
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-4" group-title="SCTV", SCTV4-LET'S VIET
 http://fpttv.tk/iptv/tv24.php?id=sctv4
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gg.gg/sctv-5" group-title="SCTV", SCTV5 HD-SCJ 	
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-5" group-title="SCTV", SCTV5 HD-SCJ 	
 http://fpttv.tk/iptv/tv24.php?id=sctv5
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gg.gg/sctv-6" group-title="SCTV", SCTV6 HD
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-6" group-title="SCTV", SCTV6 HD
 http://fpttv.tk/iptv/tv24.php?id=sctv6
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gg.gg/sctv-7" group-title="SCTV", SCTV7 HD-SÂN KHẤU
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-7" group-title="SCTV", SCTV7 HD-SÂN KHẤU
 http://fpttv.tk/iptv/tv24.php?id=sctv7
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gg.gg/sctv-8" group-title="SCTV", SCTV8 HD
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-8" group-title="SCTV", SCTV8 HD
 http://fpttv.tk/iptv/tv24.php?id=sctv8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gg.gg/sctv-9" group-title="SCTV", SCTV9 HD-PHIM CHÂU Á
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-9" group-title="SCTV", SCTV9 HD-PHIM CHÂU Á
 http://fpttv.tk/iptv/tv24.php?id=sctv9
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gg.gg/sctv-10" group-title="SCTV", SCTV10 HD-SaoNamShopping
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-10" group-title="SCTV", SCTV10 HD-SaoNamShopping
 rtmp://vtsstr4.sctv.vn:1935/testlive1/sctv10_SD_3
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gg.gg/sctv-11" group-title="SCTV", SCTV11 HD
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-11" group-title="SCTV", SCTV11 HD
 http://fpttv.tk/iptv/tv24.php?id=sctv11
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gg.gg/sctv-12" group-title="SCTV", SCTV12 HD 
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-12" group-title="SCTV", SCTV12 HD 
 http://fpttv.tk/iptv/tv24.php?id=sctv12
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gg.gg/sctv-13" group-title="SCTV", SCTV13 HD
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-13" group-title="SCTV", SCTV13 HD
 http://fpttv.tk/iptv/tv24.php?id=sctv13
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gg.gg/sctv-14" group-title="SCTV", SCTV14 HD-PHIM VIỆT 
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-14" group-title="SCTV", SCTV14 HD-PHIM VIỆT 
 http://fpttv.tk/iptv/tv24.php?id=sctv14
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gg.gg/sctv-15" group-title="SCTV", SCTV15 HD-SSPORT2
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-15" group-title="SCTV", SCTV15 HD-SSPORT2
 http://fpttv.tk/iptv/tv24.php?id=sctv15
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gg.gg/sctv-16" group-title="SCTV", SCTV16 HD-PHIM NƯỚC NGOÀI
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-16" group-title="SCTV", SCTV16 HD-PHIM NƯỚC NGOÀI
 http://fpttv.tk/iptv/tv24.php?id=sctv16
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gg.gg/sctv-17" group-title="SCTV", SCTV17 HD-SSPORT1
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-17" group-title="SCTV", SCTV17 HD-SSPORT1
 http://fpttv.tk/iptv/tv24.php?id=sctv17
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gg.gg/sctv-18" group-title="SCTV", SCTV18 HD
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-18" group-title="SCTV", SCTV18 HD
 http://fpttv.tk/iptv/tv24.php?id=sctv18
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gg.gg/sctv-19" group-title="SCTV", SCTV19 HD-[T]CHANNEL
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-19" group-title="SCTV", SCTV19 HD-(T)CHANNEL
 http://fpttv.tk/iptv/tv24.php?id=sctv19
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gg.gg/sctv-20" group-title="SCTV", SCTV20 HD-iTV S1
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-20" group-title="SCTV", SCTV20 HD-iTV S1
 http://fpttv.tk/iptv/tv24.php?id=sctv20
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gg.gg/sctv-20" group-title="SCTV", SCTV20 HD-iTV S2
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-20" group-title="SCTV", SCTV20 HD-iTV S2
 http://kenhitv.vn/ITV_Stream/itv_web_500k.stream.mp4/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/btv-3" group-title="BTV", BTV3 HD
@@ -473,6 +457,8 @@ rtmp://123.30.141.4/live/thtg
 rtmp://210.245.89.40:1935/live/livestream
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/yenbai" group-title="ĐỊA PHƯƠNG", YÊN BÁI
 rtmp://103.48.83.44/oflaDemo/livestream
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ninhbinh" group-title="ĐỊA PHƯƠNG", NINH BÌNH 
+http://vtsstr4.sctv.vn:1935/testlive/ninhbinh_SD.smil/chunklist_b2292000.m3u8
 
 ~♥Kênh Phim Quốc Tế♥~
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/hbo-ad" group-title="PHIM QUỐC TẾ", HBO S1
@@ -924,6 +910,8 @@ http://antvlive.ab5c6921.cdnviet.com/antvmobile/chunklist.m3u8
 http://live.cdn.mobifonetv.vn/motv3/antv_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/newsasia" group-title="TIN TỨC", Channel News Asia
 https://d2ko4czujk9652.cloudfront.net/hls/cnaspcweb/prog_index.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/qh-vn" group-title="TIN TỨC", Quốc Hội HD 
+http://vtsstr4.sctv.vn:1935/testlive/THQH_SD.smil/chunklist_b2292000.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/qpvn-tv" group-title="TIN TỨC", QPVN
 rtmp://125.212.132.219/standard/_definst_/mp4:standard_480p
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/dw-tv" group-title="TIN TỨC", DW 
