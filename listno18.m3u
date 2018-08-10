@@ -581,18 +581,6 @@ http://vapi.vaders.tv/play/2487.m3u8?token=eyJ1c2VybmFtZSI6Im1pc2VyeWJjIiwicGFzc
 http://vapi.vaders.tv/play/2488.m3u8?token=eyJ1c2VybmFtZSI6Im1pc2VyeWJjIiwicGFzc3dvcmQiOiJtaXNlcnk2MDkxIn0=
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", BT Sport 3 HD
 http://vapi.vaders.tv/play/2489.m3u8?token=eyJ1c2VybmFtZSI6Im1pc2VyeWJjIiwicGFzc3dvcmQiOiJtaXNlcnk2MDkxIn0=
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sony Six
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225827/index.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sony ESPN HD
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Dsport
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226484/index.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", NEO Sports
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225791/index.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Astro Arena
-http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", TVRI Sports
-http://210.210.155.35/session/c2b1cc2c-7d85-11e8-916f-b82a72d63267/qwr9ew/s/s48/index1.m3u8 
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sports Golf Channel
 http://vapi.vaders.tv/play/2561.m3u8?token=eyJ1c2VybmFtZSI6Im1pc2VyeWJjIiwicGFzc3dvcmQiOiJtaXNlcnk2MDkxIn0=
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", NBC Sports Network HD
