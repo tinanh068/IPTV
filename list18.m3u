@@ -966,112 +966,109 @@ http://172.104.114.178/vod/live/4/live.m3u8?key=71b7gqtnc2mtqld1vu4pf0kg43
 http://14.63.194.48:1935/playboy/playboy.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ecmin" group-title="SINH HỌC", NONAME
 http://59.124.220.46:554/live/tv284198321.stream/index.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/adult-tv" group-title="SINH HỌC", ADULT 1 - ADULT 1
-http://163.172.105.230:9001/live?channelId=259&uid=6917&deviceMac=00:1A:79:3C:CA:3F
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/adult-tv" group-title="SINH HỌC", ADULT 2 - ADULT 2
-http://163.172.105.230:9001/live?channelId=267&uid=6917&deviceMac=00:1A:79:3C:CA:3F
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/adult-tv" group-title="SINH HỌC", ADULT 3 - ADULT 3
-http://163.172.105.230:9001/live?channelId=268&uid=6917&deviceMac=00:1A:79:3C:CA:3F
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/adult-tv" group-title="SINH HỌC", ADULT 4 - ADULT 4
-http://163.172.105.230:9001/live?channelId=269&uid=6917&deviceMac=00:1A:79:3C:CA:3F
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/adult-tv" group-title="SINH HỌC", ADULT 5 - ADULT 5
-http://163.172.105.230:9001/live?channelId=270&uid=6917&deviceMac=00:1A:79:3C:CA:3F
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/adult-tv" group-title="SINH HỌC", ADULT 6 - ADULT 6
-http://163.172.105.230:9001/live?channelId=271&uid=6917&deviceMac=00:1A:79:3C:CA:3F
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/adult-tv" group-title="SINH HỌC", ADULT 7 - ADULT 7
-http://163.172.105.230:9001/live?channelId=272&uid=6917&deviceMac=00:1A:79:3C:CA:3F
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/adult-tv" group-title="SINH HỌC", ADULT 8 - ADULT 8
-http://163.172.105.230:9001/live?channelId=273&uid=6917&deviceMac=00:1A:79:3C:CA:3F
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/adult-tv" group-title="SINH HỌC", ADULT 9 - ADULT 9
-http://163.172.105.230:9001/live?channelId=274&uid=6917&deviceMac=00:1A:79:3C:CA:3F
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/adult-tv" group-title="SINH HỌC", ADULT 10 - ADULT 10
-http://163.172.105.230:9001/live?channelId=260&uid=6917&deviceMac=00:1A:79:3C:CA:3F
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/adult-tv" group-title="SINH HỌC", ADULT 11 - ADULT 11
-http://163.172.105.230:9001/live?channelId=261&uid=6917&deviceMac=00:1A:79:3C:CA:3F
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/adult-tv" group-title="SINH HỌC", ADULT 12 - ADULT 12
-http://163.172.105.230:9001/live?channelId=262&uid=6917&deviceMac=00:1A:79:3C:CA:3F
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/adult-tv" group-title="SINH HỌC", ADULT 13 - ADULT 13
-http://163.172.105.230:9001/live?channelId=263&uid=6917&deviceMac=00:1A:79:3C:CA:3F
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/adult-tv" group-title="SINH HỌC", ADULT 14 - ADULT 14
-http://163.172.105.230:9001/live?channelId=264&uid=6917&deviceMac=00:1A:79:3C:CA:3F
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/adult-tv" group-title="SINH HỌC", ADULT 15 - ADULT 15
-http://163.172.105.230:9001/live?channelId=265&uid=6917&deviceMac=00:1A:79:3C:CA:3F
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/adult-tv" group-title="SINH HỌC", ADULT 16 - ADULT 16
-http://163.172.105.230:9001/live?channelId=266&uid=6917&deviceMac=00:1A:79:3C:CA:3F
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/adult-tv" group-title="SINH HỌC", ADULT 17 - ADULT 17
-http://163.172.105.230:9001/live?channelId=275&uid=6917&deviceMac=00:1A:79:3C:CA:3F
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/adult-tv" group-title="SINH HỌC", ADULT 18 - ADULT 18
-http://163.172.105.230:9001/live?channelId=276&uid=6917&deviceMac=00:1A:79:3C:CA:3F
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/adult-tv" group-title="SINH HỌC", ADULT 19 - ADULT 19
-http://163.172.105.230:9001/live?channelId=277&uid=6917&deviceMac=00:1A:79:3C:CA:3F
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/adult-tv" group-title="SINH HỌC", ADULT 20 - ADULT 20
-http://163.172.105.230:9001/live?channelId=278&uid=6917&deviceMac=00:1A:79:3C:CA:3F
+
+
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/4gQ7IgF.png" group-title="SINH HỌC", Nuart TV Live
+http://212.47.244.173:8081/live/nuart/chunks.m3u8?nimblesessionid=14141814&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE4IDk6MjI6NTkgQU0maGFzaF92YWx1ZT1XU0VSQUNycVU3UnNZUXhwZEtWQnhRPT0mdmFsaWRtaW51dGVzPTMw==
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/Gxn7hIx.jpg" group-title="SINH HỌC", Visit X TV Live
+https://stream.visit-x.tv/vxtv/live/chunklist_w1665254410.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/iEbKzac.png" group-title="SINH HỌC", Jasmin TV Live
+http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w1580794077.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/Xv3fDEl.png" group-title="SINH HỌC", Brazzers TV Europe Live
+http://212.47.244.173:8081/live/penthouse21/chunks.m3u8?nimblesessionid=14133899&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE4IDk6MjI6NTkgQU0maGFzaF92YWx1ZT1XU0VSQUNycVU3UnNZUXhwZEtWQnhRPT0mdmFsaWRtaW51dGVzPTMw==
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/xVVcx64.png" group-title="SINH HỌC", Brazzers TV Live
+http://212.47.244.173:8081/live/brazzershd/chunks.m3u8?nimblesessionid=14102651&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE4IDk6MjI6NTkgQU0maGFzaF92YWx1ZT1XU0VSQUNycVU3UnNZUXhwZEtWQnhRPT0mdmFsaWRtaW51dGVzPTMw==
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/T6LVxbE.jpg" group-title="SINH HỌC", Private Spice Brazzers TV Live
+http://212.47.244.173:8081/live/brazzers1/chunks.m3u8?nimblesessionid=14134715&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE4IDk6MjI6NTkgQU0maGFzaF92YWx1ZT1XU0VSQUNycVU3UnNZUXhwZEtWQnhRPT0mdmFsaWRtaW51dGVzPTMw==
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/XhElVdG.jpg" group-title="SINH HỌC", Hustler HD
+http://212.47.244.173:8081/live/hustlerhd/chunks.m3u8?nimblesessionid=14135294&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE4IDk6MjI6NTkgQU0maGFzaF92YWx1ZT1XU0VSQUNycVU3UnNZUXhwZEtWQnhRPT0mdmFsaWRtaW51dGVzPTMw==
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/r0U75VV.jpg" group-title="SINH HỌC", Hustler TV Live
+http://212.47.244.173:8081/live/leo/chunks.m3u8?nimblesessionid=14135579&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE4IDk6MjI6NTkgQU0maGFzaF92YWx1ZT1XU0VSQUNycVU3UnNZUXhwZEtWQnhRPT0mdmFsaWRtaW51dGVzPTMw==
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/imwARSC.png" group-title="SINH HỌC", Blue Hustler TV Online
+http://212.47.244.173:8081/live/bluehustler/chunks.m3u8?nimblesessionid=14135665&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE4IDk6MjI6NTkgQU0maGFzaF92YWx1ZT1XU0VSQUNycVU3UnNZUXhwZEtWQnhRPT0mdmFsaWRtaW51dGVzPTMw==
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/CslNAu9.jpg" group-title="SINH HỌC", Redlight HD Live
+http://212.47.244.173:8081/live/redlighthd/chunks.m3u8?nimblesessionid=14136009&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE4IDk6MjI6NTkgQU0maGFzaF92YWx1ZT1XU0VSQUNycVU3UnNZUXhwZEtWQnhRPT0mdmFsaWRtaW51dGVzPTMw==
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/uhb2QGU.jpg" group-title="SINH HỌC", SCT TV Live
+http://212.47.244.173:8081/live/sct/chunks.m3u8?nimblesessionid=14136458&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE4IDk6MjI6NTkgQU0maGFzaF92YWx1ZT1XU0VSQUNycVU3UnNZUXhwZEtWQnhRPT0mdmFsaWRtaW51dGVzPTMw==
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/E0e3OD1.jpg" group-title="SINH HỌC", French Lover TV Live
+http://212.47.244.173:8081/live/passionxxx/chunks.m3u8?nimblesessionid=14136620&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE4IDk6MjI6NTkgQU0maGFzaF92YWx1ZT1XU0VSQUNycVU3UnNZUXhwZEtWQnhRPT0mdmFsaWRtaW51dGVzPTMw==
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/xNldemO.jpg" group-title="SINH HỌC", Pink O TV Live
+http://212.47.244.173:8081/live/pinko/chunks.m3u8?nimblesessionid=14136745&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE4IDk6MjI6NTkgQU0maGFzaF92YWx1ZT1XU0VSQUNycVU3UnNZUXhwZEtWQnhRPT0mdmFsaWRtaW51dGVzPTMw==
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/78vOY9r.jpg" group-title="SINH HỌC", Sextosenso TV Live
+http://212.47.244.173:8081/live/sextosenso/chunks.m3u8?nimblesessionid=14136873&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE4IDk6MjI6NTkgQU0maGFzaF92YWx1ZT1XU0VSQUNycVU3UnNZUXhwZEtWQnhRPT0mdmFsaWRtaW51dGVzPTMw==
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/EnpaLdc.jpg" group-title="SINH HỌC", Passie XXX TV Live
+http://212.47.244.173:8081/live/xmuvi/chunks.m3u8?nimblesessionid=14137052&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE4IDk6MjI6NTkgQU0maGFzaF92YWx1ZT1XU0VSQUNycVU3UnNZUXhwZEtWQnhRPT0mdmFsaWRtaW51dGVzPTMw==
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/A2GhFZC.jpg" group-title="SINH HỌC", Cento X Cento TV Live
+http://212.47.244.173:8081/live/centoxcento/chunks.m3u8?nimblesessionid=14137203&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE4IDk6MjI6NTkgQU0maGFzaF92YWx1ZT1XU0VSQUNycVU3UnNZUXhwZEtWQnhRPT0mdmFsaWRtaW51dGVzPTMw==
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/CjwTlFk.png" group-title="SINH HỌC", Russian Night TV Live
+http://212.47.244.173:8081/live/russiann1/chunks.m3u8?nimblesessionid=14137297&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE4IDk6MjI6NTkgQU0maGFzaF92YWx1ZT1XU0VSQUNycVU3UnNZUXhwZEtWQnhRPT0mdmFsaWRtaW51dGVzPTMw==
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/6mGGFpt.png" group-title="SINH HỌC", Zest TV Live
+http://212.47.244.173:8081/live/zest/chunks.m3u8?nimblesessionid=14137535&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE4IDk6MjI6NTkgQU0maGFzaF92YWx1ZT1XU0VSQUNycVU3UnNZUXhwZEtWQnhRPT0mdmFsaWRtaW51dGVzPTMw==
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/pvoB5GU.jpg" group-title="SINH HỌC", O-la-la 18+ TV Live
+http://212.47.244.173:8081/live/olala/chunks.m3u8?nimblesessionid=14137756&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE4IDk6MjI6NTkgQU0maGFzaF92YWx1ZT1XU0VSQUNycVU3UnNZUXhwZEtWQnhRPT0mdmFsaWRtaW51dGVzPTMw==
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/4RDfiSY.png" group-title="SINH HỌC", Varmint TV Live
+http://212.47.244.173:8081/live/varmint1/chunks.m3u8?nimblesessionid=14137930&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE4IDk6MjI6NTkgQU0maGFzaF92YWx1ZT1XU0VSQUNycVU3UnNZUXhwZEtWQnhRPT0mdmFsaWRtaW51dGVzPTMw==
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/tx17CKG.png" group-title="SINH HỌC", Eroxxx TV Live
+http://212.47.244.173:8081/live/eroxxx/chunks.m3u8?nimblesessionid=14138164&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE4IDk6MjI6NTkgQU0maGFzaF92YWx1ZT1XU0VSQUNycVU3UnNZUXhwZEtWQnhRPT0mdmFsaWRtaW51dGVzPTMw==
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/9S32PU9.jpg" group-title="SINH HỌC", Dorcel TV Live
+http://212.47.244.173:8081/live/test2/chunks.m3u8?nimblesessionid=14138293&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE4IDk6MjI6NTkgQU0maGFzaF92YWx1ZT1XU0VSQUNycVU3UnNZUXhwZEtWQnhRPT0mdmFsaWRtaW51dGVzPTMw==
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/lppt1CM.jpg" group-title="SINH HỌC", Pink Erotic TV Live
+http://212.47.244.173:8081/live/fap/chunks.m3u8?nimblesessionid=14138394&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE4IDk6MjI6NTkgQU0maGFzaF92YWx1ZT1XU0VSQUNycVU3UnNZUXhwZEtWQnhRPT0mdmFsaWRtaW51dGVzPTMw==
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/ORPlOHS.jpg" group-title="SINH HỌC", Pink Erotic 2 Live
+http://212.47.244.173:8081/live/fap2/chunks.m3u8?nimblesessionid=14138551&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE4IDk6MjI6NTkgQU0maGFzaF92YWx1ZT1XU0VSQUNycVU3UnNZUXhwZEtWQnhRPT0mdmFsaWRtaW51dGVzPTMw==
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/5YUoZZO.jpg" group-title="SINH HỌC", Pink Erotic 3 Live
+http://212.47.244.173:8081/live/fap3/chunks.m3u8?nimblesessionid=14138719&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE4IDk6MjI6NTkgQU0maGFzaF92YWx1ZT1XU0VSQUNycVU3UnNZUXhwZEtWQnhRPT0mdmFsaWRtaW51dGVzPTMw==
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/RrOTJwr.jpg" group-title="SINH HỌC", Pink Erotic 4 Live
+http://212.47.244.173:8081/live/fap4/chunks.m3u8?nimblesessionid=14138865&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE4IDk6MjI6NTkgQU0maGFzaF92YWx1ZT1XU0VSQUNycVU3UnNZUXhwZEtWQnhRPT0mdmFsaWRtaW51dGVzPTMw==
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/OJ1t0qR.png" group-title="SINH HỌC", Phoenix Marie TV Live
+http://212.47.244.173:8081/live/phoenixmarie/chunks.m3u8?nimblesessionid=14138959&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE4IDk6MjI6NTkgQU0maGFzaF92YWx1ZT1XU0VSQUNycVU3UnNZUXhwZEtWQnhRPT0mdmFsaWRtaW51dGVzPTMw==
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/UecfXsj.jpg" group-title="SINH HỌC", Legal Porno TV Live
+http://212.47.244.173:8081/live/legalporno/chunks.m3u8?nimblesessionid=14139200&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE4IDk6MjI6NTkgQU0maGFzaF92YWx1ZT1XU0VSQUNycVU3UnNZUXhwZEtWQnhRPT0mdmFsaWRtaW51dGVzPTMw==
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/lqgZHJc.png" group-title="SINH HỌC", FAP TV Parody Live
+http://212.47.244.173:8081/live/fapparody/chunks.m3u8?nimblesessionid=14139405&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE4IDk6MjI6NTkgQU0maGFzaF92YWx1ZT1XU0VSQUNycVU3UnNZUXhwZEtWQnhRPT0mdmFsaWRtaW51dGVzPTMw==
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/aUbCyBD.png" group-title="SINH HỌC", FAP TV Teens Live
+http://212.47.244.173:8081/live/fapteens/chunks.m3u8?nimblesessionid=14139575&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE4IDk6MjI6NTkgQU0maGFzaF92YWx1ZT1XU0VSQUNycVU3UnNZUXhwZEtWQnhRPT0mdmFsaWRtaW51dGVzPTMw==
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/9zJwh4p.png" group-title="SINH HỌC", FAP TV Anal Live
+http://212.47.244.173:8081/live/faptvanal/chunks.m3u8?nimblesessionid=14139802&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE4IDk6MjI6NTkgQU0maGFzaF92YWx1ZT1XU0VSQUNycVU3UnNZUXhwZEtWQnhRPT0mdmFsaWRtaW51dGVzPTMw==
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/3DzXyeD.png" group-title="SINH HỌC", FAP TV BBW Live
+http://212.47.244.173:8081/live/fap_bbw/chunks.m3u8?nimblesessionid=14139916&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE4IDk6MjI6NTkgQU0maGFzaF92YWx1ZT1XU0VSQUNycVU3UnNZUXhwZEtWQnhRPT0mdmFsaWRtaW51dGVzPTMw==
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/AbcoxRE.png" group-title="SINH HỌC", FAP TV Compilation Live
+http://212.47.244.173:8081/live/faptvcompilation/chunks.m3u8?nimblesessionid=14140953&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE4IDk6MjI6NTkgQU0maGFzaF92YWx1ZT1XU0VSQUNycVU3UnNZUXhwZEtWQnhRPT0mdmFsaWRtaW51dGVzPTMw==
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/TKjQYok.png" group-title="SINH HỌC", FAP TV Teaching Live
+http://212.47.244.173:8081/live/fappissing/chunks.m3u8?nimblesessionid=14141454&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE4IDk6MjI6NTkgQU0maGFzaF92YWx1ZT1XU0VSQUNycVU3UnNZUXhwZEtWQnhRPT0mdmFsaWRtaW51dGVzPTMw==
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/8i925xW.png" group-title="SINH HỌC", FAP TV Amateur Live
+http://212.47.244.173:8081/live/faptvamateur/chunks.m3u8?nimblesessionid=14141585&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE4IDk6MjI6NTkgQU0maGFzaF92YWx1ZT1XU0VSQUNycVU3UnNZUXhwZEtWQnhRPT0mdmFsaWRtaW51dGVzPTMw==
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/ojcpuVz.png" group-title="SINH HỌC", Playboy TV Live
+http://212.47.244.173:8081/live/penthouse1/chunks.m3u8?nimblesessionid=14141700&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE4IDk6MjI6NTkgQU0maGFzaF92YWx1ZT1XU0VSQUNycVU3UnNZUXhwZEtWQnhRPT0mdmFsaWRtaW51dGVzPTMw==
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/A2m8eDD.jpg" group-title="SINH HỌC", Night Club TV Live
+http://212.47.244.173:8081/live/nightclub/chunks.m3u8?nimblesessionid=14142174&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE4IDk6MjI6NTkgQU0maGFzaF92YWx1ZT1XU0VSQUNycVU3UnNZUXhwZEtWQnhRPT0mdmFsaWRtaW51dGVzPTMw==
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/UTx5Mzl.jpg" group-title="SINH HỌC", Studio 66 TV Live
+http://212.47.244.173:8081/live/studio66/chunks.m3u8?nimblesessionid=14142380&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE4IDk6MjI6NTkgQU0maGFzaF92YWx1ZT1XU0VSQUNycVU3UnNZUXhwZEtWQnhRPT0mdmFsaWRtaW51dGVzPTMw==
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/Fvtp8bD.jpg" group-title="SINH HỌC", Babestation Xtra Live
+http://212.47.244.173:8081/live/babestationxtra/chunks.m3u8?nimblesessionid=14142487&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE4IDk6MjI6NTkgQU0maGFzaF92YWx1ZT1XU0VSQUNycVU3UnNZUXhwZEtWQnhRPT0mdmFsaWRtaW51dGVzPTMw==
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/IVMTFds.jpg" group-title="SINH HỌC", Hot N Wet TV Live
+http://212.47.244.173:8081/live/hotnwet/chunks.m3u8?nimblesessionid=14142658&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE4IDk6MjI6NTkgQU0maGFzaF92YWx1ZT1XU0VSQUNycVU3UnNZUXhwZEtWQnhRPT0mdmFsaWRtaW51dGVzPTMw==
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/pY0MwuV.jpg" group-title="SINH HỌC", Foxxx Babes TV Live
+http://212.47.244.173:8081/live/foxxxbabes/chunks.m3u8?nimblesessionid=14142744&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE4IDk6MjI6NTkgQU0maGFzaF92YWx1ZT1XU0VSQUNycVU3UnNZUXhwZEtWQnhRPT0mdmFsaWRtaW51dGVzPTMw==
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/R2suYOK.jpg" group-title="SINH HỌC", Red Light Central 2 Live
+http://212.47.244.173:8081/live/redlightcentral2/chunks.m3u8?nimblesessionid=14142927&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE4IDk6MjI6NTkgQU0maGFzaF92YWx1ZT1XU0VSQUNycVU3UnNZUXhwZEtWQnhRPT0mdmFsaWRtaW51dGVzPTMw==
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/L4yE5Bd.jpg" group-title="SINH HỌC", РEH ТВ Live
+http://212.47.244.173:8081/live/xmuvi/chunks.m3u8?nimblesessionid=14143084&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDE4IDk6MjI6NTkgQU0maGFzaF92YWx1ZT1XU0VSQUNycVU3UnNZUXhwZEtWQnhRPT0mdmFsaWRtaW51dGVzPTMw==
+
+
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/fDWqHly.jpg" group-title="SINH HỌC", Babestation 1
 http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/V1e7Piy.jpg" group-title="SINH HỌC", Jasmin Channel 720P
-http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8?MWINFO
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/V1e7Piy.jpg" group-title="SINH HỌC", Jasmin TV 
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/GdCbov5.jpg" group-title="SINH HỌC", Miami TV (Mexico)
-http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/playlist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/GdCbov5.jpg" group-title="SINH HỌC", Miami TV (Spain)
-http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/GdCbov5.jpg" group-title="SINH HỌC", Miami TV (USA)
-http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/GdCbov5.jpg" group-title="SINH HỌC", Miami TV
-http://mexicoserver.miamitvchannel.com/miamitv/smil%3amiamitvmexico/master.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/ysWttE6.jpg" group-title="SINH HỌC", VISIT-X TV 720P
-http://stream.visit-x.tv/vxtv/live/playlist.m3u8?MWINFO
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/I9zOp3q.jpg" group-title="SINH HỌC", STUDIO 66 TV 1
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/I9zOp3q.jpg" group-title="SINH HỌC", STUDIO 66 TV S1
 http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel11/playlist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/I9zOp3q.jpg" group-title="SINH HỌC", STUDIO 66 TV 2
-http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel12/playlist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/I9zOp3q.jpg" group-title="SINH HỌC", STUDIO 66 TV 3
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/I9zOp3q.jpg" group-title="SINH HỌC", STUDIO 66 TV S2
 http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel31/playlist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/I9zOp3q.jpg" group-title="SINH HỌC", STUDIO 66 TV 4
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/I9zOp3q.jpg" group-title="SINH HỌC", STUDIO 66 TV S3
 http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel41/playlist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/DT00k1K.jpg" group-title="SINH HỌC", Trans
 https://www.ast.tv/stream/1/master.m3u8
-
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/adult-tv" group-title="SINH HỌC", Brazzers Europe TV
-http://81.200.50.4/hls/Brazzers_nejtv_portable_low.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/adult-tv" group-title="SINH HỌC", Eroxxx TV HD
-http://81.200.50.4/hls/Eroxx_nejtv_portable_low.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/adult-tv" group-title="SINH HỌC", Erox TV HD
-http://81.200.50.4/hls/Erox_nejtv_portable_low.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/adult-tv" group-title="SINH HỌC", Hustler TV +18
-http://81.200.50.4/hls/Hustler_nejtv_portable_low.m3u8
-
-~♥Update 15/7/2018♥~
-#EXTINF: -1 tvg-id="Ecmin" tvg-logo="https://gg.gg/adult-tv" group-title="SINH HỌC", JASMIN TV 18 | SD
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+~♥Update 15/7/2017♥~
 #EXTINF: -1 tvg-id="Ecmin" tvg-logo="https://gg.gg/adult-tv" group-title="SINH HỌC", Bunga Bunga
 http://5.135.92.130:58143/out/u/107_1.m3u8
-
-~♥Update 28/7/2018♥~
-#EXTINF: -1 tvg-id="Ecmin" tvg-logo="https://gg.gg/adult-tv" group-title="SINH HỌC",XXX: Hot Club1 HD
-http://izgemma.ddns.net:8000/live/shaun/shaun/199.ts
-#EXTINF: -1 tvg-id="Ecmin" tvg-logo="https://gg.gg/adult-tv" group-title="SINH HỌC",XXX: Hot Club 6 HD
-http://izgemma.ddns.net:8000/live/shaun/shaun/200.ts
-#EXTINF: -1 tvg-id="Ecmin" tvg-logo="https://gg.gg/adult-tv" group-title="SINH HỌC",XXX: SCT
-http://izgemma.ddns.net:8000/live/shaun/shaun/169.ts
-#EXTINF: -1 tvg-id="Ecmin" tvg-logo="https://gg.gg/adult-tv" group-title="SINH HỌC",XXX: HOT 1
-http://izgemma.ddns.net:8000/live/shaun/shaun/13448.ts
-#EXTINF: -1 tvg-id="Ecmin" tvg-logo="https://gg.gg/adult-tv" group-title="SINH HỌC",XXX: HOT 4
-http://izgemma.ddns.net:8000/live/shaun/shaun/13451.ts
-#EXTINF: -1 tvg-id="Ecmin" tvg-logo="https://gg.gg/adult-tv" group-title="SINH HỌC",XXX: HOT 6
-http://izgemma.ddns.net:8000/live/shaun/shaun/13453.ts
-#EXTINF: -1 tvg-id="Ecmin" tvg-logo="https://gg.gg/adult-tv" group-title="SINH HỌC",XXX: HOT 7
-http://izgemma.ddns.net:8000/live/shaun/shaun/13454.ts
-#EXTINF: -1 tvg-id="Ecmin" tvg-logo="https://gg.gg/adult-tv" group-title="SINH HỌC",xxx: HOT 8
-http://izgemma.ddns.net:8000/live/shaun/shaun/13455.ts
-#EXTINF: -1 tvg-id="Ecmin" tvg-logo="https://gg.gg/adult-tv" group-title="SINH HỌC",Brazzers Europe
-http://195.140.223.10:5557/Brazzers
-#EXTINF: -1 tvg-id="Ecmin" tvg-logo="https://gg.gg/adult-tv" group-title="SINH HỌC",Playboy TV
-http://195.140.223.10:5557/Playboy
-#EXTINF: -1 tvg-id="Ecmin" tvg-logo="https://gg.gg/adult-tv" group-title="SINH HỌC",Redlight HD
-http://195.140.223.10:5557/Redlight-HD
-
 ~♥Update 2/8/2018♥~
 #EXTINF: -1 tvg-id="Ecmin" tvg-logo="https://gg.gg/adult-tv" group-title="SINH HỌC", Pỏn 3
 http://sg.doohdbox.com:8081/adultstv/adultch3/chunks.m3u8
@@ -1079,24 +1076,10 @@ http://sg.doohdbox.com:8081/adultstv/adultch3/chunks.m3u8
 http://sg.doohdbox.com:8081/adultstv/adultch4/chunks.m3u8
 #EXTINF: -1 tvg-id="Ecmin" tvg-logo="https://gg.gg/adult-tv" group-title="SINH HỌC", Pỏn Brazzers
 http://sg.doohdbox.com:8081/adultstv/Brazzers/chunks.m3u8
-
-#EXTINF: -1 tvg-id="Ecmin" tvg-logo="https://gg.gg/adult-tv" group-title="SINH HỌC", Blue Hustler 
-http:/85.132.71.6/ru/blue/index.m3u8
-#EXTINF: -1 tvg-id="Ecmin" tvg-logo="https://gg.gg/adult-tv" group-title="SINH HỌC", Hustler HD
-http:/85.132.71.6/ru/hust/index.m3u8
-#EXTINF: -1 tvg-id="Ecmin" tvg-logo="https://gg.gg/adult-tv" group-title="SINH HỌC", Redlight HD
-http:/85.132.71.6/ru/red/index.m3u8
-#EXTINF: -1 tvg-id="Ecmin" tvg-logo="https://gg.gg/adult-tv" group-title="SINH HỌC", Brazzers TV 
-http:/85.132.71.6/ru/braz/index.m3u8
-#EXTINF: -1 tvg-id="Ecmin" tvg-logo="https://gg.gg/adult-tv" group-title="SINH HỌC", Pink TV
-http:/85.132.71.6/ru/pink/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BRAZZERSTVEUROPE.png" group-title="SINH HỌC",BRAZZERS TV EUROPE 
 http://81.200.50.4/hls/Brazzers_nejtv_portable_low.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BUNGABUNGA.png" group-title="SINH HỌC",BUNGA BUNGA 
 http://5.135.92.130:58143/out/u/109_1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DUSK.png" group-title="SINH HỌC",DUSK 
-http://usaiptv.ddns.net:9090/load/a6e4ca00bdc7/7622.mpegts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EROXX.png" group-title="SINH HỌC",EROXXX 
 http://81.200.50.4/hls/Eroxx_nejtv_portable_low.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EROXX.png" group-title="SINH HỌC",EROX 
