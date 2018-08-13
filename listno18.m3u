@@ -443,20 +443,20 @@ rtmp://103.48.83.44/oflaDemo/livestream
 http://vtsstr4.sctv.vn:1935/testlive/ninhbinh_SD.smil/chunklist_b2292000.m3u8
 
 ~♥Kênh Phim Quốc Tế♥~
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/fox-mv" group-title="PHIM QUỐC TẾ", Fox Movies FHD 
-http://106bec9d8.vws.vegacdn.vn/75e9dad8833a2ae3d485116e5b4e5b6298b360b6/1534135289/cliptv_live/amlst:foxmovieshd/chunklist_b3620000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/foxlife" group-title="PHIM QUỐC TẾ", Fox Life FHD 
-http://106bec9d8.vws.vegacdn.vn/dacdd30d4cb9dd8af7d5eb2cc798ba4f9170925e/1534135305/cliptv_live/amlst:foxlifehd/chunklist_b3620000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/fox-hd" group-title="PHIM QUỐC TẾ", FOX FHD 
-http://106a8e566.vws.vegacdn.vn/9dc3822ee12558becdc11feaee167d67a3197f55/1534135317/cliptv_live/amlst:foxhd/chunklist_b3620000.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/fox-mv" group-title="PHIM QUỐC TẾ", Fox Movies FHD
+http://106bec9d8.vws.vegacdn.vn/f091b0c04aff0be82648e5b268a9f2952c24632e/1534219944/cliptv_live/amlst:foxmovieshd/chunklist_b3620000.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/foxlife" group-title="PHIM QUỐC TẾ", Fox Life FHD
+http://106bec9d8.vws.vegacdn.vn/f20f9593e02d53a52d9a14ed233c415c6ceb3992/1534219956/cliptv_live/amlst:foxlifehd/chunklist_b3620000.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/fox-hd" group-title="PHIM QUỐC TẾ", FOX FHD
+http://106a8e566.vws.vegacdn.vn/df17215bdb74efa24f37dc6a6bbf5b16b8404fd3/1534220015/cliptv_live/amlst:foxhd/chunklist_b3620000.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/red-hbo" group-title="PHIM QUỐC TẾ", Red By HBO FHD
-http://106bec9d8.vws.vegacdn.vn/5a18a03d7752d8347ad7ba0d2039381add09f9ff/1534135715/cliptv_live/amlst:redbyhbohd/chunklist_b3620000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/warner" group-title="PHIM QUỐC TẾ", WarnerTV FHD 
-http://106bec9d8.vws.vegacdn.vn/012ef044b255408e3a6f55b1ee9de00313290669/1534135339/cliptv_live/amlst:warnertvhd/chunklist_b3620000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/cinemaworld" group-title="PHIM QUỐC TẾ", Cinema World FHD 
-http://106bec9d8.vws.vegacdn.vn/76b6ef6a1441af4df83f1f53058f57b9967c70e1/1534135369/cliptv_live/amlst:cinemaworldhd/chunklist_b3620000.m3u8
+http://106bec9d8.vws.vegacdn.vn/c62f8fa4bf130e3eb97cca6687a41847ae868e91/1534227695/cliptv_live/amlst:redbyhbohd/chunklist_b3620000.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/warner" group-title="PHIM QUỐC TẾ", WarnerTV FHD
+http://106bec9d8.vws.vegacdn.vn/a8d11aaff8b1c0fc4d89b7dc8162d9efcfbb96b4/1534220024/cliptv_live/amlst:warnertvhd/chunklist_b3620000.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/cinemaworld" group-title="PHIM QUỐC TẾ", Cinema World FHD
+http://106bec9d8.vws.vegacdn.vn/87deab30e6c1cf7bceecc4ee2a8d09dba5347031/1534220312/cliptv_live/amlst:cinemaworldhd/chunklist_b3620000.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/axn-hd" group-title="PHIM QUỐC TẾ", AXN T.Việt FHD
-http://106bec9d8.vws.vegacdn.vn/1b3a38ffead7c8f07ef464c34998c6637dd4d742/1534135356/cliptv_live/amlst:axnhd/chunklist_b3620000.m3u8
+http://106bec9d8.vws.vegacdn.vn/683af5d2b3ad867bb001c2a35d9c3674e8ea2a52/1534219996/cliptv_live/amlst:axnhd/chunklist_b3620000.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/foxfamily" group-title="PHIM QUỐC TẾ", Fox Family 
 http://baochinh.ga/iptv-hplus.php?kenh=foxfamilymovies
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/zee-tv" group-title="PHIM QUỐC TẾ", Zee TV T.Việt
