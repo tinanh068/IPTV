@@ -227,7 +227,7 @@ http://kenhitv.vn/ITV_Stream/itv_web_500k.stream.mp4/chunklist.m3u8
 https://bit.ly/sc-tv-th
 
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/btv-3" group-title="BTV", BTV3 HD
-http://vtsstr4.sctv.vn:1935/testlive/btv3_SD.smil/chunklist_b2292000.m3u8
+https://bit.ly/btv-3
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/btv-10" group-title="BTV", BTV10-NCM
 http://live.cdn.mobifonetv.vn/motv/ncm_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/btv-11" group-title="BTV", BTV11-SAM
@@ -496,7 +496,7 @@ http://persik.by/stream/3903/293564/10217.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/match-bd" group-title="SPORT", K+ Bóng Đá 3
 http://persik.by/stream/3903/293564/10218.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/btv-5" group-title="SPORT", BTV5-SSPORT3
-http://vtsstr4.sctv.vn:1935/testlive1/btv5_HD.smil/chunklist_b2692000.m3u8
+https://bit.ly/btv-5
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Fox Sports 1 HD 
 http://210.210.155.35/session/f438f266-7bf0-11e8-b712-b82a72d63267/uq2663/h/h19/index2.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Fox Sports 2 HD
