@@ -272,7 +272,7 @@ http://live-musicbox.cdnvideo.ru/musicbox2/musicbox.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vibee-tv" group-title="MUSIC", V2BEAT HD
 http://139.59.166.48:8081/live/live3/playlist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ms-bolero" group-title="MUSIC", Nhạc Bolero
-http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/vbolero/chunklist.m3u8
+http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/vbolero/playlist.m3u8
 
 ~♥Kênh Địa Phương♥~
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/hn-1" group-title="ĐỊA PHƯƠNG", HÀ NỘI 1 HD
