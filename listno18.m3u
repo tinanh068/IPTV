@@ -462,11 +462,11 @@ http://baochinh.ga/iptv-hplus.php?kenh=foxfamilymovies
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/zee-tv" group-title="PHIM QUỐC TẾ", Zee TV T.Việt
 http://baochinh.ga/iptv-hplus.php?kenh=zeetv
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/axn-hd" group-title="PHIM QUỐC TẾ", AXN HD
-http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226485/04.m3u8
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226485/04.m3u8|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
 
 ~♥Kênh Thiếu Nhi♥~
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/discovery-kid" group-title="KID", DISCOVERY KID
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225775/04.m3u8
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225775/04.m3u8|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/bb-first" group-title="KID", BABY FIRST
 http://baochinh.ga/iptv-hplus.php?kenh=baby-first
 
@@ -717,47 +717,46 @@ http://vapi.vaders.tv/play/79285.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFz
 http://vapi.vaders.tv/play/79288.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
 
 ~♥Kênh Du Lịch & Khám Phá♥~
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/discovery-tv" group-title="DU LỊCH & KHÁM PHÁ", Discovery HD
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/04.m3u8
+ #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/discovery-tv" group-title="DU LỊCH & KHÁM PHÁ", Discovery HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/04.m3u8|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/discovery-tb" group-title="DU LỊCH & KHÁM PHÁ", Discovery TURBO
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225782/04.m3u8
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225782/04.m3u8|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/discovery-sl" group-title="DU LỊCH & KHÁM PHÁ", Discovery Science
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225778/04.m3u8
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225778/04.m3u8|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/discovery-w" group-title="DU LỊCH & KHÁM PHÁ", Discovery WORLD HD
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/04.m3u8
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/04.m3u8|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/animal-p" group-title="DU LỊCH & KHÁM PHÁ", Animal Planet HD
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/04.m3u8
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/04.m3u8|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sonybbc-e" group-title="DU LỊCH & KHÁM PHÁ", SONY BBC EARTH HD
-http://mhms8.airtel.tv/wh7f454c46tw133991019_1870526460/PLTV/88888888/224/3221226280/04.m3u8
+http://mhms8.airtel.tv/wh7f454c46tw133991019_1870526460/PLTV/88888888/224/3221226280/04.m3u8|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/tlc-tv" group-title="DU LỊCH & KHÁM PHÁ", TLC HD
-http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/04.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/tlc-tv" group-title="DU LỊCH & KHÁM PHÁ", TLC 
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/04.m3u8|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
 
 ~♥Kênh TV SONY♥~
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ten1hd" group-title="TV SONY", SONY TEN1 FHD
-http://cshms4.airtel.tv/wh7f454c46tw1071703244_1357289440/PLTV/88888888/224/3221225875/05.m3u8
+http://cshms4.airtel.tv/wh7f454c46tw1071703244_1357289440/PLTV/88888888/224/3221225875/05.m3u8|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ten2hd" group-title="TV SONY", SONY TEN2 FHD
-http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/05.m3u8
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/05.m3u8|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ten3hd" group-title="TV SONY", SONY TEN3 HD
-http://mhms6.airtel.tv/wh7f454c46tw2828204960_1272463506/PLTV/88888888/224/3221226330/04.m3u8
+http://mhms6.airtel.tv/wh7f454c46tw2828204960_1272463506/PLTV/88888888/224/3221226330/04.m3u8|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sixhd" group-title="TV SONY", SONY SIX FHD
-http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/05.m3u8
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/05.m3u8|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sony-espn" group-title="TV SONY",  SONY ESPN FHD
-http://cshms4.airtel.tv/wh7f454c46tw3044125113_1979135345/PLTV/88888888/224/3221226076/05.m3u8
+http://cshms4.airtel.tv/wh7f454c46tw3044125113_1979135345/PLTV/88888888/224/3221226076/05.m3u8|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sonymax" group-title="TV SONY", SONY MAX FHD
-http://cshms4.airtel.tv/wh7f454c46tw288508750_687813938/PLTV/88888888/224/3221225776/05.m3u8
+http://cshms4.airtel.tv/wh7f454c46tw288508750_687813938/PLTV/88888888/224/3221225776/05.m3u8|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sonysab" group-title="TV SONY", SONY SAB FHD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226078/05.m3u8
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226078/05.m3u8|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sonyjeet" group-title="TV SONY", SONY JEET HD
-http://cshms1.airtel.tv/wh7f454c46tw1565302381_1163892044/PLTV/88888888/224/3221226479/04.m3u8
+http://cshms1.airtel.tv/wh7f454c46tw1565302381_1163892044/PLTV/88888888/224/3221226479/04.m3u8|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sonyplex" group-title="TV SONY", SONY LE PLEX HD
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226446/04.m3u8
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226446/04.m3u8|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sonypix" group-title="TV SONY", SONY PIX HD
-http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sonyrox" group-title="TV SONY", SONY ROX MUSIC HD
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226204/04.m3u8
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226204/04.m3u8|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sony-tv" group-title="TV SONY", SONY TV HD
-http://cshms2.airtel.tv/wh7f454c46tw2308406466_821284247/PLTV/88888888/224/3221225772/04.m3u8
+http://cshms2.airtel.tv/wh7f454c46tw2308406466_821284247/PLTV/88888888/224/3221225772/04.m3u8|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
 
 ~♥Kênh TV NHẬT-HÀN-TÀU♥~
 ~♥Kênh TV HÀN♥~
