@@ -476,15 +476,15 @@ http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_05.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/workpoint" group-title="SPORT", WorkPoint FHD
 https://stream-04.sg1.dailymotion.com/dm/3/x6g9qjj/live-4.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/livebd" group-title="SPORT", Trực Tiếp 1 (Chỉ phát khi có bóng đá) 
-http://cdn2.xoilac.tv/template_mitomtv/live1/chunklist.m3u8
+http://cdn2.xoilac.tv/1519a83d25fd6f504a8b7f01dd9ee1da86351512/1534641011/template_mitomtv/amlst:live1/chunklist_b3120000.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/livebd" group-title="SPORT", Trực Tiếp 2 (Chỉ phát khi có bóng đá) 
-http://cdn2.xoilac.tv/template_mitomtv/live2/chunklist.m3u8
+http://cdn2.xoilac.tv/38807a30b4fcf8dd1c453d40f01ba6f2e16d80f0/1534643635/template_mitomtv/live2/chunklist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/livebd" group-title="SPORT", Trực Tiếp 3 (Chỉ phát khi có bóng đá) 
-http://cdn2.xoilac.tv/template_mitomtv/live3/chunklist.m3u8
+http://cdn2.xoilac.tv/2afe4ec2facf3ff00eb2f77be30c556f705e6fed/1534643715/template_mitomtv/live1/chunklist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/livebd" group-title="SPORT", Trực Tiếp 4 (Chỉ phát khi có bóng đá) 
-http://cdn2.xoilac.tv/template_mitomtv/live4/chunklist.m3u8
+http://cdn2.xoilac.tv/706aa0f77bc896a75f7dcaa34f4aa654c31c7cf2/1534643840/template_mitomtv/live3/chunklist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/livebd" group-title="SPORT", Trực Tiếp 5 (Chỉ phát khi có bóng đá) 
-http://cdn2.xoilac.tv/template_mitomtv/live5/chunklist.m3u8
+http://cdn2.xoilac.tv/f2ebb9635d74ec208e7694296b627d3f7cacf1a2/1534643900/template_mitomtv/live4/chunklist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/livebd" group-title="SPORT", Trực Tiếp 6 (Chỉ phát khi có bóng đá) 
 http://cdn2.xoilac.tv/template_mitomtv/live6/chunklist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/livebd" group-title="SPORT", Trực Tiếp 7 (Chỉ phát khi có bóng đá) 
