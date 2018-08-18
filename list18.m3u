@@ -444,19 +444,19 @@ http://vtsstr4.sctv.vn:1935/testlive/ninhbinh_SD.smil/chunklist_b2292000.m3u8
 
 ~♥Kênh Phim Quốc Tế♥~
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/fox-mv" group-title="PHIM QUỐC TẾ", Fox Movies FHD
-http://106bec9d8.vws.vegacdn.vn/3b1bff423cf89df820639b2c0a0c84b3bf036ab2/1534484650/cliptv_live/amlst:foxmovieshd/chunklist_b3620000.m3u8 
+http://106bec9d8.vws.vegacdn.vn/2aa36899a8e1644664e4ae46b6015692d6f0a9d6/1534683207/cliptv_live/amlst:foxmovieshd/chunklist_b3620000.m3u8 
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/foxlife" group-title="PHIM QUỐC TẾ", Fox Life FHD
-http://106bec9d8.vws.vegacdn.vn/bf49fbc9855539dad91089e3caed0acd4516c2d3/1534484656/cliptv_live/amlst:foxlifehd/chunklist_b3620000.m3u8
+http://106bec9d8.vws.vegacdn.vn/11d002fdf508ad5eace102e972cb0eccbc309646/1534683168/cliptv_live/amlst:foxlifehd/chunklist_b3620000.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/fox-hd" group-title="PHIM QUỐC TẾ", FOX FHD
-http://106a8e566.vws.vegacdn.vn/e99e2b3d6d1d911f64d26dffe15847e326706a04/1534484671/cliptv_live/amlst:foxhd/chunklist_b3620000.m3u8
+http://106a8e566.vws.vegacdn.vn/81884979b4b799097d2477850901775a5fb2ec3d/1534683162/cliptv_live/amlst:foxhd/chunklist_b3620000.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/red-hbo" group-title="PHIM QUỐC TẾ", Red By HBO FHD
-http://106bec9d8.vws.vegacdn.vn/e1183babc2475123668dc03d68ac05321bfe2a98/1534484742/cliptv_live/amlst:redbyhbohd/chunklist_b3620000.m3u8
+http://106bec9d8.vws.vegacdn.vn/0da2522f41374eb276d089e81579a0da48b3641a/1534683251/cliptv_live/amlst:redbyhbohd/chunklist_b3620000.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/warner" group-title="PHIM QUỐC TẾ", WarnerTV FHD
-http://106bec9d8.vws.vegacdn.vn/98d89633b636c0aa1735e7ea29af9b7e3ae82281/1534484683/cliptv_live/amlst:warnertvhd/chunklist_b3620000.m3u8
+http://106bec9d8.vws.vegacdn.vn/0f1549f6f7c1dd17b5ac59e81dbdcaf609ee8482/1534683189/cliptv_live/amlst:warnertvhd/chunklist_b3620000.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/cinemaworld" group-title="PHIM QUỐC TẾ", Cinema World FHD
-http://106bec9d8.vws.vegacdn.vn/8e893b31f53de4d97449ca91a19b4e618e9f7d96/1534484714/cliptv_live/amlst:cinemaworldhd/chunklist_b3620000.m3u8
+http://106bec9d8.vws.vegacdn.vn/714f2f69e79edfae4bb1279305e9b900ec45b9e9/1534683262/cliptv_live/amlst:cinemaworldhd/chunklist_b3620000.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/axn-hd" group-title="PHIM QUỐC TẾ", AXN T.Việt FHD
-http://106bec9d8.vws.vegacdn.vn/d464968adf463e07c715ad3012d80eb486724075/1534484678/cliptv_live/amlst:axnhd/chunklist_b3620000.m3u8
+http://106bec9d8.vws.vegacdn.vn/29a47e685510cc6347e807e1e5e9fe18437807e5/1534683238/cliptv_live/amlst:axnhd/chunklist_b3620000.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/foxfamily" group-title="PHIM QUỐC TẾ", Fox Family 
 http://baochinh.ga/iptv-hplus.php?kenh=foxfamilymovies
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/zee-tv" group-title="PHIM QUỐC TẾ", Zee TV T.Việt
@@ -471,10 +471,10 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 http://baochinh.ga/iptv-hplus.php?kenh=baby-first
 
 ~♥Kênh Thể Thao♥~
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/tt-tv" group-title="SPORT", Thể Thao TV HD
-http://tranvinh.xyz/hplus.php?id=thethaotvhd
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/bd-tv" group-title="SPORT", Bóng Đá TV HD
-http://tranvinh.xyz/hplus.php?id=bongdatvhd
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/astroarena" group-title="SPORT", Astro Arena HD
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_05.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/workpoint" group-title="SPORT", WorkPoint FHD
+https://stream-04.sg1.dailymotion.com/dm/3/x6g9qjj/live-4.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/livebd" group-title="SPORT", Trực Tiếp 1 (Chỉ phát khi có bóng đá) 
 http://cdn2.xoilac.tv/template_mitomtv/live1/chunklist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/livebd" group-title="SPORT", Trực Tiếp 2 (Chỉ phát khi có bóng đá) 
