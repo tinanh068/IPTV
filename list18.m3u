@@ -840,8 +840,6 @@ http://live.vnanet.vn/VnewsLive_Layer1.m3u8
 http://antvlive.ab5c6921.cdnviet.com/antvmobile/chunklist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/antv-hd" group-title="TIN TỨC", An Ninh TV HD S2
 http://live.cdn.mobifonetv.vn/motv3/antv_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/newsasia" group-title="TIN TỨC", Channel News Asia
-https://d2ko4czujk9652.cloudfront.net/hls/cnaspcweb/prog_index.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/qh-vn" group-title="TIN TỨC", Quốc Hội HD 
 http://vtsstr4.sctv.vn:1935/testlive/THQH_SD.smil/chunklist_b2292000.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/qpvn-tv" group-title="TIN TỨC", QPVN
