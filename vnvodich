@@ -1,3 +1,5 @@
+
+
 #EXTM3U
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ecmin", ♥♥♥ List By Admin Tín Update 19/8/2018 ♥♥♥
 https://gg.gg/ecmin
@@ -11,12 +13,7 @@ http://bit.ly/2MD4j4A
 http://bit.ly/2vSuUkS
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/livebd" group-title="",  Trực tiếp 5| Việt Nam - Nhật Bản | 16h
 http://bit.ly/2MwpBRD
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/astroarena" group-title="SPORT", Astro Arena HD
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/astroarena" group-title="", Astro Arena HD
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_05.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/workpoint" group-title="SPORT", WorkPoint FHD
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/workpoint" group-title="", WorkPoint FHD
 https://stream-04.sg1.dailymotion.com/dm/3/x6g9qjj/live-4.m3u8
-
-
-
-
-
