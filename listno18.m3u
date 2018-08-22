@@ -1,14 +1,10 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ecmin", ♥♥♥ List By Admin Tín Update 21/8/2018 ♥♥♥
 https://gg.gg/ecmin
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/thvl-1" group-title="THVL", Vĩnh Long 1 HD 
-http://xemtivi24.000webhostapp.com/iptv-thvli.php?id=vinhlong1hd
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/thvl-1" group-title="THVL", Vĩnh Long 1 S1
 http://ott.realplaytv.net:12388/?header=hplus&name=Vinh_Long_1&cdn=1
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/thvl-1" group-title="THVL", Vĩnh Long 1 S2
 http://live.cdn.mobifonetv.vn/motv/mythvl1_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/thvl-2" group-title="THVL", Vĩnh Long 2 HD 
-http://xemtivi24.000webhostapp.com/iptv-thvli.php?id=vinhlong2hd
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/thvl-2" group-title="THVL", Vĩnh Long 2 S1
 http://ott.realplaytv.net:12388/?header=hplus&name=Vinh_Long_2&cdn=1
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/thvl-2" group-title="THVL", Vĩnh Long 2 S2
@@ -466,7 +462,7 @@ http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_05.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/workpoint" group-title="SPORT", WorkPoint FHD
 https://stream-04.sg1.dailymotion.com/dm/3/x6g9qjj/live-4.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/livebd" group-title="SPORT", Trực Tiếp 1 (Chỉ phát khi có bóng đá) 
-http://cdn2.xoilac.tv/813bc64664feaba8b9af2bb591d0bd7d1520d798/1534875856/template_mitomtv/live1/chunklist.m3u8
+http://cdn2.xoilac.tv/583a6cacb0890e0496f55b367cf985d278446ad1/1534980300/template_mitomtv/amlst:live1/chunklist_b3120000.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/livebd" group-title="SPORT", Trực Tiếp 2 (Chỉ phát khi có bóng đá) 
 https://talk2.vcdn.vn/hls/17a6662ee8b170697d5881dec82fc5fb/1655b6fb348/bbsport.com/index.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/livebd" group-title="SPORT", Trực Tiếp 3 (Chỉ phát khi có bóng đá) 
@@ -864,5 +860,3 @@ https://5a6872aace0ce.streamlock.net/vovgt+hn/vovgt+hn.stream_aac/chunklist_w150
 https://5a6872aace0ce.streamlock.net/vovgt+hcm/vovgt+hcm.stream_aac/chunklist_w1977423641.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/binhduong-fm" group-title="RADIO", BÌNH DƯƠNG FM
 http://ott.realplaytv.net:12388/?header=hplus&name=Binh_Duong_FM&cdn=1
-
-
