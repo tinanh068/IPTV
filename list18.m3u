@@ -464,15 +464,15 @@ https://stream-04.sg1.dailymotion.com/dm/3/x6g9qjj/live-4.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/livebd" group-title="SPORT", Trực Tiếp 1 (Chỉ phát khi có bóng đá) 
 http://cdn2.xoilac.tv/3e86f64e74f6112975edfbe1713cccddcc449911/1535047479/template_mitomtv/amlst:live1/chunklist_b3120000.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/livebd" group-title="SPORT", Trực Tiếp 2 (Chỉ phát khi có bóng đá) 
-https://talk2.vcdn.vn/hls/17a6662ee8b170697d5881dec82fc5fb/1655b6fb348/bbsport.com/index.m3u8
+http://cdn2.xoilac.tv/72567483973dfac0ca6096c07362a6a5e5422c7b/1535058535/template_mitomtv/live3/chunklist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/livebd" group-title="SPORT", Trực Tiếp 3 (Chỉ phát khi có bóng đá) 
-https://talk2.vcdn.vn/hls/c2298c40282693a107a1df86de591c3b/1655b73e50f/gfhgfjgh/index.m3u8
+https://talk2.vcdn.vn/hls/311807f20fd1438b217da67fb098aeb8/165660be5fe/bbsport.org/index.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/livebd" group-title="SPORT", Trực Tiếp 4 (Chỉ phát khi có bóng đá) 
-https://talk2.vcdn.vn/hls/ad2764026100eca2520feeff44fbaebe/1655b7212d7/gfhgfjghjghj/index.m3u8
+https://talk2.vcdn.vn/hls/343c833ac5d69d4ad2a73f8e26a10db0/165660a101c/livetvup.commotmot/index.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/livebd" group-title="SPORT", Trực Tiếp 5 (Chỉ phát khi có bóng đá) 
-http://cdn2.xoilac.tv/f2ebb9635d74ec208e7694296b627d3f7cacf1a2/1534643900/template_mitomtv/live4/chunklist.m3u8
+https://talk2.vcdn.vn/hls/2b8d1d5ba31aa947c3f99503a72fbe40/165660a79e0/gfhgfjgh/index.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/livebd" group-title="SPORT", Trực Tiếp 6 (Chỉ phát khi có bóng đá) 
-http://cdn2.xoilac.tv/template_mitomtv/live6/chunklist.m3u8
+https://talk2.vcdn.vn/hls/4e1b09688ed359e4a36d39cd28cfa642/165660d6a89/tienvan.live/index.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/livebd" group-title="SPORT", Trực Tiếp 7 (Chỉ phát khi có bóng đá) 
 http://tranvinh.xyz/play.php?link=http://gg.gg/livedabanh
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/match-bd" group-title="SPORT", K+ Bóng Đá 1
