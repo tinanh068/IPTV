@@ -462,7 +462,7 @@ http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_05.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/workpoint" group-title="SPORT", WorkPoint FHD
 https://stream-04.sg1.dailymotion.com/dm/3/x6g9qjj/live-4.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/livebd" group-title="SPORT", Trực Tiếp 1 (Chỉ phát khi có bóng đá) 
-http://cdn2.xoilac.tv/3e86f64e74f6112975edfbe1713cccddcc449911/1535047479/template_mitomtv/amlst:live1/chunklist_b3120000.m3u8
+https://talk2.vcdn.vn/hls/8e9ebb613ced3f94a89732fc116087f5/16566bdc6fa/livetvup.commotmot/index.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/livebd" group-title="SPORT", Trực Tiếp 2 (Chỉ phát khi có bóng đá) 
 http://cdn2.xoilac.tv/72567483973dfac0ca6096c07362a6a5e5422c7b/1535058535/template_mitomtv/live3/chunklist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/livebd" group-title="SPORT", Trực Tiếp 3 (Chỉ phát khi có bóng đá) 
