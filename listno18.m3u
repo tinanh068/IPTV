@@ -820,7 +820,7 @@ http://alhls.cdn.zhanqi.tv/zqlive/7032_0s2qn.m3u8
 http://alhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 4
 http://alhls.cdn.zhanqi.tv/zqlive/44509_4oiYY.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 5
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 5 (Kinh dị, KH-VT, Hài kịch)
 http://alhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 6
 http://alhls.cdn.zhanqi.tv/zqlive/88945_Kligp.m3u8
@@ -852,9 +852,9 @@ http://alhls.cdn.zhanqi.tv/zqlive/213167_Dw1GU.m3u8
 http://alhls.cdn.zhanqi.tv/zqlive/118948_F0Rim.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 20
 http://alhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 21
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 21 (Conan)
 http://alhls.cdn.zhanqi.tv/zqlive/174685_XWnGj.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 22
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 22 (One piece)
 http://alhls.cdn.zhanqi.tv/zqlive/37119_4ibXM.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 23
 http://alhls.cdn.zhanqi.tv/zqlive/154733_xcVyM.m3u8
@@ -1058,6 +1058,12 @@ http://liveal.quanmin.tv/live/2031799856_quanmin720.flv
 http://liveal.quanmin.tv/live/2019468332_quanmin720.flv
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 94 (Moto GP)
 http://liveal.quanmin.tv/live/2132332338.flv
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 95
+http://alhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8 
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 96 (Conan)
+http://alhls.cdn.zhanqi.tv/zqlive/46455_xR2MZ.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 97
+http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9_1024/index.m3u8
 
 ~♥Kênh VIDEO MUSIC♥~
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/video-ms" group-title="VIDEO MUSIC", VIDEO 1
