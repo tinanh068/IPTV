@@ -1038,7 +1038,7 @@ http://liveal.quanmin.tv/live/2031920686_quanmin720.flv
 http://liveal.quanmin.tv/live/2044699692_quanmin720.flv
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 84
 http://liveal.quanmin.tv/live/2065688930_quanmin720.flv
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 85
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://0gg.gg/china-tv" group-title="TV TÀU", Phim TQ 85
 http://liveal.quanmin.tv/live/2038085940_quanmin720.flv
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 86
 http://liveal.quanmin.tv/live/2134428978_quanmin720.flv
@@ -1064,6 +1064,46 @@ http://alhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
 http://alhls.cdn.zhanqi.tv/zqlive/46455_xR2MZ.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 97
 http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9_1024/index.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 98
+http://liveal.quanmin.tv/live/2117651770.flv
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 99
+http://liveal.quanmin.tv/live/2059397482.flv 
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 100 (HT  Lý Tiểu Long)
+http://liveal.quanmin.tv/live/1534700896.flv 
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 101
+http://liveal.quanmin.tv/live/1524215162.flv 
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 102
+http://liveal.quanmin.tv/live/2142817570.flv 
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 103
+http://liveal.quanmin.tv/live/1543089528.flv 
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 104
+http://liveal.quanmin.tv/live/2057235314.flv 
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 105 (Phong Vân)
+http://liveal.quanmin.tv/live/1543090016.flv  
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 106 (Siêu nhân)
+http://liveal.quanmin.tv/live/1532538232.flv 
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 107 (Những nụ hôn ngọt ngào)
+http://liveal.quanmin.tv/live/2134506790.flv  
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 108 (Hot Shot)
+http://liveal.quanmin.tv/live/2124348716.flv  
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 109
+http://liveal.quanmin.tv/live/2019468332.flv 
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 110
+http://liveal.quanmin.tv/live/2134495018.flv 
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 111 (Phim hài)
+http://liveal.quanmin.tv/live/1579085168.flv 
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Music 1
+http://liveal.quanmin.tv/live/1524215674.flv
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU",  Music 2
+http://liveal.quanmin.tv/live/130742.flv
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Music 3
+http://liveal.quanmin.tv/live/2040262444_quanmin720.flv
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Music 4
+http://liveal.quanmin.tv/live/2021587312_quanmin720.flv
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Music 5
+http://liveal.quanmin.tv/live/1526312810.flv
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", WWE
+http://liveal.quanmin.tv/live/2115620138.flv 
 
 ~♥Kênh VIDEO MUSIC♥~
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/video-ms" group-title="VIDEO MUSIC", VIDEO 1
