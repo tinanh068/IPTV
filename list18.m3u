@@ -429,20 +429,20 @@ rtmp://210.245.89.40:1935/live/livestream
 rtmp://103.48.83.44/oflaDemo/livestream
 
 ~♥Kênh Phim Quốc Tế♥~
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/fox-mv" group-title="PHIM QUỐC TẾ", Fox Movies FHD
-http://106bec9d8.vws.vegacdn.vn/624e82b3ffa9794c4d7a11dc943641ca6b548355/1535127483/cliptv_live/amlst:foxmovieshd/chunklist_b3620000.m3u8 
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/foxlife" group-title="PHIM QUỐC TẾ", Fox Life FHD
-http://106bec9d8.vws.vegacdn.vn/b1296f56b54032e9cb0a6c135d12ba2cb588152f/1535127487/cliptv_live/amlst:foxlifehd/chunklist_b3620000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/fox-hd" group-title="PHIM QUỐC TẾ", FOX FHD
-http://106a8e566.vws.vegacdn.vn/8599750a47ddb3e9433bd3134bdf84eb839ba8b3/1535127543/cliptv_live/amlst:foxhd/chunklist_b3620000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/red-hbo" group-title="PHIM QUỐC TẾ", Red By HBO FHD
-http://106bec9d8.vws.vegacdn.vn/3d492741f5d63d495dbb69e608e732d0270c6aef/1535127829/cliptv_live/amlst:redbyhbohd/chunklist_b3620000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/warner" group-title="PHIM QUỐC TẾ", WarnerTV FHD
-http://106bec9d8.vws.vegacdn.vn/da355794380980e1f319500c382b9f3cf305db00/1535127497/cliptv_live/amlst:warnertvhd/chunklist_b3620000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/cinemaworld" group-title="PHIM QUỐC TẾ", Cinema World FHD
-http://106bec9d8.vws.vegacdn.vn/a95304bd853b57d125850c4859d428528eceef5e/1535127507/cliptv_live/amlst:cinemaworldhd/chunklist_b3620000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/axn-hd" group-title="PHIM QUỐC TẾ", AXN T.Việt FHD
-http://106bec9d8.vws.vegacdn.vn/d218a55263103557beb94be550eb5b2c606989f8/1535127546/cliptv_live/amlst:axnhd/chunklist_b3620000.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/hbo-ad" group-title="PHIM QUỐC TẾ", HBO 
+http://m.huuvinh.ooo/mytv.php?id=redhbo
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/fox-mv" group-title="PHIM QUỐC TẾ", Fox Movies HD
+http://m.huuvinh.ooo/hplus.php?id=foxmovies-hd
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/foxlife" group-title="PHIM QUỐC TẾ", Fox Life HD
+http://m.huuvinh.ooo/hplus.php?id=foxlife-hd
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/red-hbo" group-title="PHIM QUỐC TẾ", Red By HBO HD
+http://m.huuvinh.ooo/hplus.php?id=redhbo
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/warner" group-title="PHIM QUỐC TẾ", WarnerTV HD
+http://m.huuvinh.ooo/hplus.php?id=warner-tv
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/cinemaworld" group-title="PHIM QUỐC TẾ", Cinema World 
+http://m.huuvinh.ooo/hplus.php?id=cinemaworld
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/axn-hd" group-title="PHIM QUỐC TẾ", AXN T.Việt 
+http://m.huuvinh.ooo/hplus.php?id=axn
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/foxfamily" group-title="PHIM QUỐC TẾ", Fox Family 
 http://baochinh.ga/iptv-hplus.php?kenh=foxfamilymovies
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/zee-tv" group-title="PHIM QUỐC TẾ", Zee TV T.Việt
@@ -451,6 +451,14 @@ http://baochinh.ga/iptv-hplus.php?kenh=zeetv
 http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226485/04.m3u8|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
 
 ~♥Kênh Thiếu Nhi♥~
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/cartoon-nw" group-title="KID", Cartoon Network T.Việt 
+http://m.huuvinh.ooo/hplus.php?id=cartoon
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/boomerang-tv" group-title="KID", Boomerang T.Việt
+http://m.huuvinh.ooo/hplus.php?id=boomerang
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/disney-cn" group-title="KID", Disney Channel T.Việt
+http://m.huuvinh.ooo/mytv.php?id=disney
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/davici" group-title="KID", Da Vinci Learning 
+http://m.huuvinh.ooo/mytv.php?id=davinci
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/discovery-kid" group-title="KID", DISCOVERY KID
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225775/04.m3u8|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/bb-first" group-title="KID", BABY FIRST
@@ -1673,67 +1681,66 @@ http://5.135.92.130:58143/out/u/109_1.m3u8
 
 ~♥Update 22/8/2018♥~
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/4RDfiSY.png" group-title="SINH HỌC", Varmint TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/CD0D48850B3848ADB1EF5B7A1D38E6AE/530.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/530.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/UTx5Mzl.jpg" group-title="SINH HỌC", Studio 66 TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/CD0D48850B3848ADB1EF5B7A1D38E6AE/550.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/550.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/78vOY9r.jpg" group-title="SINH HỌC", Sextosenso TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/CD0D48850B3848ADB1EF5B7A1D38E6AE/525.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/525.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/uhb2QGU.jpg" group-title="SINH HỌC", SCT TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/CD0D48850B3848ADB1EF5B7A1D38E6AE/521.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/521.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/CjwTlFk.png" group-title="SINH HỌC", Russian Night TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/CD0D48850B3848ADB1EF5B7A1D38E6AE/527.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/527.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/CslNAu9.jpg" group-title="SINH HỌC", Redlight HD Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/CD0D48850B3848ADB1EF5B7A1D38E6AE/520.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/520.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/ojcpuVz.png" group-title="SINH HỌC", Playboy TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/CD0D48850B3848ADB1EF5B7A1D38E6AE/546.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/546.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/cw2f4vz.jpg" group-title="SINH HỌC", Penthouse 1 TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/CD0D48850B3848ADB1EF5B7A1D38E6AE/528.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/528.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/cw2f4vz.jpg" group-title="SINH HỌC", Penthouse 2 TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/CD0D48850B3848ADB1EF5B7A1D38E6AE/532.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/532.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/EnpaLdc.jpg" group-title="SINH HỌC", Passie XXX TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/CD0D48850B3848ADB1EF5B7A1D38E6AE/522.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/522.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/pvoB5GU.jpg" group-title="SINH HỌC", O-la-la 18+ TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/CD0D48850B3848ADB1EF5B7A1D38E6AE/515.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/515.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/F4keFDj.png" group-title="SINH HỌC", LEO TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/CD0D48850B3848ADB1EF5B7A1D38E6AE/518.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/518.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/UecfXsj.jpg" group-title="SINH HỌC", Legal Porno TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/CD0D48850B3848ADB1EF5B7A1D38E6AE/537.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/537.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/XhElVdG.jpg" group-title="SINH HỌC", Hustler HD
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/CD0D48850B3848ADB1EF5B7A1D38E6AE/517.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/517.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/fnInDYm.png" group-title="SINH HỌC", FAP TV 2 Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/CD0D48850B3848ADB1EF5B7A1D38E6AE/533.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/533.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/fnInDYm.png" group-title="SINH HỌC", FAP TV 2 HD Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/CD0D48850B3848ADB1EF5B7A1D38E6AE/534.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/534.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/fnInDYm.png" group-title="SINH HỌC", FAP TV 3 Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/CD0D48850B3848ADB1EF5B7A1D38E6AE/535.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/535.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/fnInDYm.png" group-title="SINH HỌC", FAP TV 4 Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/CD0D48850B3848ADB1EF5B7A1D38E6AE/536.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/536.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/aUbCyBD.png" group-title="SINH HỌC", FAP TV Teens Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/CD0D48850B3848ADB1EF5B7A1D38E6AE/540.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/540.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/OrGUIly.png" group-title="SINH HỌC", FAP TV Pissing Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/CD0D48850B3848ADB1EF5B7A1D38E6AE/544.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/544.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/lqgZHJc.png" group-title="SINH HỌC", FAP TV Parody Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/CD0D48850B3848ADB1EF5B7A1D38E6AE/538.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/538.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/0vKpdKe.png" group-title="SINH HỌC", FAP TV Lesbian Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/CD0D48850B3848ADB1EF5B7A1D38E6AE/539.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/539.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/AbcoxRE.png" group-title="SINH HỌC", FAP TV Compilation Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/CD0D48850B3848ADB1EF5B7A1D38E6AE/543.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/543.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/3DzXyeD.png" group-title="SINH HỌC", FAP TV BBW Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/CD0D48850B3848ADB1EF5B7A1D38E6AE/542.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/542.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/9zJwh4p.png" group-title="SINH HỌC", FAP TV Anal Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/CD0D48850B3848ADB1EF5B7A1D38E6AE/541.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/541.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/8i925xW.png" group-title="SINH HỌC", FAP TV Amateur Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/CD0D48850B3848ADB1EF5B7A1D38E6AE/545.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/545.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/tx17CKG.png" group-title="SINH HỌC", Eroxxx TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/CD0D48850B3848ADB1EF5B7A1D38E6AE/531.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/531.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/wcHNDtK.png" group-title="SINH HỌC", Dusk TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/CD0D48850B3848ADB1EF5B7A1D38E6AE/523.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/523.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/9S32PU9.jpg" group-title="SINH HỌC", Dorcel TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/CD0D48850B3848ADB1EF5B7A1D38E6AE/529.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/529.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/A2GhFZC.jpg" group-title="SINH HỌC", Cento X Cento TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/CD0D48850B3848ADB1EF5B7A1D38E6AE/526.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/526.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/xVVcx64.png" group-title="SINH HỌC", Brazzers HD TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/CD0D48850B3848ADB1EF5B7A1D38E6AE/516.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/516.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/imwARSC.png" group-title="SINH HỌC", Blue Hustler TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/CD0D48850B3848ADB1EF5B7A1D38E6AE/519.ts
-
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/519.ts
