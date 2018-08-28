@@ -529,6 +529,12 @@ http://premium.darkiptv.com/darkiptv/espnplus.php?index.m3u8
 http://premium.darkiptv.com/darkiptv/winsports.php?index.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", MLB NETWORK
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", NBA TV HD
+http://191.96.38.213:443/free54/0x777_2nba_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Golf HD
+http://191.96.38.213:443/free54/0x777_golfchannel_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", True Tennis HD
+http://191.96.38.213:443/free/0x777_truetennis_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", AD SPORT EXTRA
 http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", All SPORTS
@@ -541,6 +547,32 @@ http://46.40.5.99:8000/arena_2_high
 http://46.40.5.99:8000/arena_3_high
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Arena Sport 4
 http://46.40.5.99:8000/arena_4_high
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", SPORT TV1
+http://191.96.38.213:443/free41/0x444_sporttv1_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", SPORT TV2
+http://191.96.38.213:443/free41/0x444_sporttv2_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", SPORT TV3
+http://191.96.38.213:443/free41/0x444_sporttv3_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", SPORT TV4
+http://191.96.38.213:443/free41/0x444_sporttv4_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", SPORT TV5
+http://191.96.38.213:443/free41/0x444_sporttv5_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", SKYNET SPORTS HD
+http://191.96.38.213:443/free41/0x777_skynetsporthd_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", SKYNET SPORTS NEWS
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", SKYNET SPORTS 1
+http://191.96.38.213:443/free41/00_skynetsport1_480p/playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", SKYNET SPORTS 2
+http://191.96.38.213:443/free41/00_skynetsport2_480p/playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", SKYNET SPORTS 3
+http://191.96.38.213:443/free41/00_skynetsport3_480p/playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", SKYNET SPORTS 4
+http://191.96.38.213:443/free41/00_skynetsport4_480p/playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", SKYNET SPORTS 5
+http://191.96.38.213:443/free41/00_skynetsport5_480p/playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", SKYNET SPORTS 6
+http://191.96.38.213:443/free41/00_skynetsport6_480p/playlist.m3u8
 
 ~♥Kênh Du Lịch & Khám Phá♥~
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/discovery-tv" group-title="DU LỊCH & KHÁM PHÁ", Discovery HD
@@ -1578,5 +1610,4 @@ http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/FF89EF0E485047
 http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/FF89EF0E48504726B8733996AEB6A5B6/516.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/imwARSC.png" group-title="SINH HỌC", Blue Hustler TV Live
 http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/FF89EF0E48504726B8733996AEB6A5B6/519.ts
-
 
