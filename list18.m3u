@@ -458,9 +458,9 @@ http://huuvinh.ooo/get/hplus.php?id=cartoon
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/boomerang-tv" group-title="KID", Boomerang T.Việt
 http://huuvinh.ooo/get/hplus.php?id=boomerang
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/disney-cn" group-title="KID", Disney Channel T.Việt
-http://m.huuvinh.ooo/mytv.php?id=disney
+http://huuvinh.ooo/get/mytv.php?id=disney
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/davici" group-title="KID", Da Vinci Learning 
-http://m.huuvinh.ooo/mytv.php?id=davinci
+http://huuvinh.ooo/get/mytv.php?id=davinci
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/discovery-kid" group-title="KID", DISCOVERY KID
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225775/04.m3u8|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/bb-first" group-title="KID", BABY FIRST
