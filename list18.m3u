@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ecmin", ♥♥♥ List By Admin Tín Update 21/8/2018 ♥♥♥
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ecmin", ♥♥♥ List By Admin Tín Update 28/8/2018 ♥♥♥
 https://gg.gg/ecmin
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/thvl-1" group-title="THVL", Vĩnh Long 1 S1
 http://ott.realplaytv.net:12388/?header=hplus&name=Vinh_Long_1&cdn=1
@@ -501,212 +501,82 @@ http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/04.m3u8|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/real-tv" group-title="SPORT", Realmadrid TV 
 https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/mu-tv" group-title="SPORT", MU TV HD
-http://vapi.vaders.tv/play/2589.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/chelsea-tv" group-title="SPORT", Chelsea TV HD
-http://vapi.vaders.tv/play/40881.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", UFC TV HD
-http://vapi.vaders.tv/play/42469.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", FOX SPORTS  MX
+http://premium.darkiptv.com/darkiptv/foxsports_mx.php?index.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", FOX SPORTS 2 MX
+http://premium.darkiptv.com/darkiptv/foxsports2_mx.php?index.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", FOX SPORTS 3 MX
+http://premium.darkiptv.com/darkiptv/foxsports3_mx.php?index.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", FOX SPORTS
+http://premium.darkiptv.com/darkiptv/foxsports.php?index.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", FOX SPORTS 2
+http://premium.darkiptv.com/darkiptv/foxsports2.php?index.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", FOX SPORTS 3
+http://premium.darkiptv.com/darkiptv/foxsports3.php?index.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", GOLF CHANNEL
+http://premium.darkiptv.com/darkiptv/golfchannel.php?index.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", CLARO SPORTS
+http://premium.darkiptv.com/darkiptv/clarosport1.php?index.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", CLARO SPORTS 2
+http://premium.darkiptv.com/darkiptv/clarosport2.php?index.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", ESPN
+http://premium.darkiptv.com/darkiptv/espn.php?index.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", ESPN+
+http://premium.darkiptv.com/darkiptv/espnplus.php?index.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", WIN SPORTS
+http://premium.darkiptv.com/darkiptv/winsports.php?index.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", MLB NETWORK
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", FOX SPORTS 1 HD
+http://191.96.38.213:443/free54/0x777_foxsport1_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", FOX SPORTS 2 
+http://191.96.38.213:443/free54/0x555_foxsport2_480p/playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", FOX SPORTS 3 
+http://191.96.38.213:443/free54/0x555_foxsport3_480p/playlist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", NBA TV HD
-http://vapi.vaders.tv/play/2788.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Gol TV HD
-http://vapi.vaders.tv/play/46466.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", WWE Network HD
-http://vapi.vaders.tv/play/3047.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Motors TV UK
-http://vapi.vaders.tv/play/40683.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Boxnation 
-http://vapi.vaders.tv/play/39646.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sky Sports F1 HD 
-http://vapi.vaders.tv/play/2483.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sky Sports Cricket HD 
-http://vapi.vaders.tv/play/2479.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sky Sports Action HD 
-http://vapi.vaders.tv/play/2480.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sky Sports Golf HD 
-http://vapi.vaders.tv/play/2481.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sky Sports Premier League HD 
-http://vapi.vaders.tv/play/2482.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", BT Sport 1 HD
-http://vapi.vaders.tv/play/2487.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", BT Sport 2 HD
-http://vapi.vaders.tv/play/2488.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", BT Sport 3 HD
-http://vapi.vaders.tv/play/2489.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sports Golf Channel
-http://vapi.vaders.tv/play/2561.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", NBC Sports Network HD
-http://vapi.vaders.tv/play/2562.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", BeIN Sports USA HD
-http://vapi.vaders.tv/play/2563.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", ESPNews HD
-http://vapi.vaders.tv/play/2564.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", ESPN HD
-http://vapi.vaders.tv/play/2565.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", ESPN 2 HD
-http://vapi.vaders.tv/play/2566.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", ESPN U HD
-http://vapi.vaders.tv/play/2567.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Fox Sports 1 HD
-http://vapi.vaders.tv/play/2568.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Fox Sports 2 HD
-http://vapi.vaders.tv/play/2569.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sky Sports News HD
-http://vapi.vaders.tv/play/2570.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Eir Sports 1 HD
-http://vapi.vaders.tv/play/2593.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sportsnet 360 HD
-http://vapi.vaders.tv/play/2669.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sportsnet West HD
-http://vapi.vaders.tv/play/2671.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sportsnet One HD
-http://vapi.vaders.tv/play/2672.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sportsnet Ontario HD
-http://vapi.vaders.tv/play/2673.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sportsnet Pacific HD
-http://vapi.vaders.tv/play/2674.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sportsnet East HD
-http://vapi.vaders.tv/play/2694.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", NFL Network HD
-http://vapi.vaders.tv/play/2744.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", NHL Network HD
-http://vapi.vaders.tv/play/2786.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", MLB Network HD
-http://vapi.vaders.tv/play/2787.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", CBS Sports Network HD
-http://vapi.vaders.tv/play/2789.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", BT Sports ESPN HD
-http://vapi.vaders.tv/play/2790.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", TSN 1 HD
-http://vapi.vaders.tv/play/2845.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", TSN 2 HD
-http://vapi.vaders.tv/play/2846.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", TSN 3 HD
-http://vapi.vaders.tv/play/2847.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", TSN 4 HD
-http://vapi.vaders.tv/play/2848.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", TSN 5 HD
-http://vapi.vaders.tv/play/2849.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sky Sports Main Event HD
-http://vapi.vaders.tv/play/2889.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", LFC TV HD
-http://vapi.vaders.tv/play/3009.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Willow HD
-http://vapi.vaders.tv/play/3077.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", ESPN Deportes HD
-http://vapi.vaders.tv/play/3136.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sony Six HD
-http://vapi.vaders.tv/play/8259.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", EuroSport 1 HD
-http://vapi.vaders.tv/play/19293.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", EuroSport 2 HD
-http://vapi.vaders.tv/play/19294.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Racing UK HD
-http://vapi.vaders.tv/play/19295.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Premier Sports HD
-http://vapi.vaders.tv/play/19296.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", At The Races
-http://vapi.vaders.tv/play/19297.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", YES Network HD
-http://vapi.vaders.tv/play/33511.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Star Sports 1 HD
-http://vapi.vaders.tv/play/37198.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Star Sports 2 HD
-http://vapi.vaders.tv/play/37199.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Star Sports 1 Select HD
-http://vapi.vaders.tv/play/37200.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Star Sports 2 Select HD
-http://vapi.vaders.tv/play/37201.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sky Sports Mix HD
-http://vapi.vaders.tv/play/37235.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Univision Deportes HD
-http://vapi.vaders.tv/play/38911.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", SEC Network HD
-http://vapi.vaders.tv/play/39621.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sky Sports Golf
-http://vapi.vaders.tv/play/39823.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sky Sports Premier League
-http://vapi.vaders.tv/play/39824.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sky Sports News
-http://vapi.vaders.tv/play/39826.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sky Sports Mix
-http://vapi.vaders.tv/play/39827.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", BT Sports 1
-http://vapi.vaders.tv/play/39828.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", BT Sports ESPN
-http://vapi.vaders.tv/play/39831.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", PAC 12 Network HD
-http://vapi.vaders.tv/play/39848.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", PAC 12 Mountain HD
-http://vapi.vaders.tv/play/39852.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", PAC 12 Bay Area HD
-http://vapi.vaders.tv/play/39854.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Big Ten Network HD
-http://vapi.vaders.tv/play/39861.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", BeIN Sports 11 HD
-http://vapi.vaders.tv/play/40879.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", BeIN Sports 12 HD
-http://vapi.vaders.tv/play/40880.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", CSN California HD
-http://vapi.vaders.tv/play/41143.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sky Sports Football HD
-http://vapi.vaders.tv/play/42360.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sky Sports Arena HD
-http://vapi.vaders.tv/play/42361.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sky Sports Arena 
-http://vapi.vaders.tv/play/47385.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sky Sports Football
-http://vapi.vaders.tv/play/47386.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Fox Soccer Plus HD
-http://vapi.vaders.tv/play/52188.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Fox Deportes HD
-http://vapi.vaders.tv/play/52189.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Fox Sports South HD
-http://vapi.vaders.tv/play/52200.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Fox Sports South East HD
-http://vapi.vaders.tv/play/52201.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", CSN New England HD
-http://vapi.vaders.tv/play/52206.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", CSN Mid Atlantic HD
-http://vapi.vaders.tv/play/52207.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", NESN HD
-http://vapi.vaders.tv/play/52208.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", NESN Plus HD
-http://vapi.vaders.tv/play/52209.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Longhorn Network HD
-http://vapi.vaders.tv/play/52210.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", RDS HD
-http://vapi.vaders.tv/play/57579.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", TVA Sports HD
-http://vapi.vaders.tv/play/73296.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", CBS Sports HD
-http://vapi.vaders.tv/play/77169.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", RDS 2 HD
-http://vapi.vaders.tv/play/77718.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Spectrum SportsNet LA HD
-http://vapi.vaders.tv/play/77882.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Spectrum SportsNet HD
-http://vapi.vaders.tv/play/77883.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", CSN Philly HD
-http://vapi.vaders.tv/play/78564.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", MAVTV HD
-http://vapi.vaders.tv/play/79263.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Fox Footy HD
-http://vapi.vaders.tv/play/79278.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sportsnet New York HD
-http://vapi.vaders.tv/play/79279.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Fox League HD
-http://vapi.vaders.tv/play/79281.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Ten 1 HD
-http://vapi.vaders.tv/play/79282.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Ten 2 HD
-http://vapi.vaders.tv/play/79283.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Ten 3 HD
-http://vapi.vaders.tv/play/79284.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Ten Cricket HD
-http://vapi.vaders.tv/play/79285.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", PTV Sports
-http://vapi.vaders.tv/play/79288.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
+http://191.96.38.213:443/free54/0x777_2nba_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Golf HD
+http://191.96.38.213:443/free54/0x777_golfchannel_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", True Tennis HD
+http://191.96.38.213:443/free/0x777_truetennis_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", AD SPORT EXTRA
+http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", All SPORTS
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Arena Sport 1
+http://46.40.5.99:8000/arena_1_high
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Arena Sport 2
+http://46.40.5.99:8000/arena_2_high
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Arena Sport 3
+http://46.40.5.99:8000/arena_3_high
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Arena Sport 4
+http://46.40.5.99:8000/arena_4_high
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", SPORT TV1
+http://191.96.38.213:443/free41/0x444_sporttv1_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", SPORT TV2
+http://191.96.38.213:443/free41/0x444_sporttv2_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", SPORT TV3
+http://191.96.38.213:443/free41/0x444_sporttv3_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", SPORT TV4
+http://191.96.38.213:443/free41/0x444_sporttv4_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", SPORT TV5
+http://191.96.38.213:443/free41/0x444_sporttv5_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", SKYNET SPORTS HD
+http://191.96.38.213:443/free41/0x777_skynetsporthd_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", SKYNET SPORTS NEWS
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", SKYNET SPORTS 1
+http://191.96.38.213:443/free41/00_skynetsport1_480p/playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", SKYNET SPORTS 2
+http://191.96.38.213:443/free41/00_skynetsport2_480p/playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", SKYNET SPORTS 3
+http://191.96.38.213:443/free41/00_skynetsport3_480p/playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", SKYNET SPORTS 4
+http://191.96.38.213:443/free41/00_skynetsport4_480p/playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", SKYNET SPORTS 5
+http://191.96.38.213:443/free41/00_skynetsport5_480p/playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", SKYNET SPORTS 6
+http://191.96.38.213:443/free41/00_skynetsport6_480p/playlist.m3u8
 
 ~♥Kênh Du Lịch & Khám Phá♥~
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/discovery-tv" group-title="DU LỊCH & KHÁM PHÁ", Discovery HD
@@ -1681,66 +1551,66 @@ http://5.135.92.130:58143/out/u/109_1.m3u8
 
 ~♥Update 22/8/2018♥~
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/4RDfiSY.png" group-title="SINH HỌC", Varmint TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/530.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/FF89EF0E48504726B8733996AEB6A5B6/530.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/UTx5Mzl.jpg" group-title="SINH HỌC", Studio 66 TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/550.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/FF89EF0E48504726B8733996AEB6A5B6/550.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/78vOY9r.jpg" group-title="SINH HỌC", Sextosenso TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/525.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/FF89EF0E48504726B8733996AEB6A5B6/525.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/uhb2QGU.jpg" group-title="SINH HỌC", SCT TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/521.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/FF89EF0E48504726B8733996AEB6A5B6/521.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/CjwTlFk.png" group-title="SINH HỌC", Russian Night TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/527.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/FF89EF0E48504726B8733996AEB6A5B6/527.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/CslNAu9.jpg" group-title="SINH HỌC", Redlight HD Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/520.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/FF89EF0E48504726B8733996AEB6A5B6/520.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/ojcpuVz.png" group-title="SINH HỌC", Playboy TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/546.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/FF89EF0E48504726B8733996AEB6A5B6/546.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/cw2f4vz.jpg" group-title="SINH HỌC", Penthouse 1 TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/528.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/FF89EF0E48504726B8733996AEB6A5B6/528.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/cw2f4vz.jpg" group-title="SINH HỌC", Penthouse 2 TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/532.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/FF89EF0E48504726B8733996AEB6A5B6/532.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/EnpaLdc.jpg" group-title="SINH HỌC", Passie XXX TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/522.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/FF89EF0E48504726B8733996AEB6A5B6/522.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/pvoB5GU.jpg" group-title="SINH HỌC", O-la-la 18+ TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/515.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/FF89EF0E48504726B8733996AEB6A5B6/515.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/F4keFDj.png" group-title="SINH HỌC", LEO TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/518.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/FF89EF0E48504726B8733996AEB6A5B6/518.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/UecfXsj.jpg" group-title="SINH HỌC", Legal Porno TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/537.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/FF89EF0E48504726B8733996AEB6A5B6/537.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/XhElVdG.jpg" group-title="SINH HỌC", Hustler HD
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/517.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/FF89EF0E48504726B8733996AEB6A5B6/517.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/fnInDYm.png" group-title="SINH HỌC", FAP TV 2 Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/533.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/FF89EF0E48504726B8733996AEB6A5B6/533.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/fnInDYm.png" group-title="SINH HỌC", FAP TV 2 HD Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/534.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/FF89EF0E48504726B8733996AEB6A5B6/534.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/fnInDYm.png" group-title="SINH HỌC", FAP TV 3 Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/535.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/FF89EF0E48504726B8733996AEB6A5B6/535.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/fnInDYm.png" group-title="SINH HỌC", FAP TV 4 Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/536.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/FF89EF0E48504726B8733996AEB6A5B6/536.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/aUbCyBD.png" group-title="SINH HỌC", FAP TV Teens Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/540.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/FF89EF0E48504726B8733996AEB6A5B6/540.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/OrGUIly.png" group-title="SINH HỌC", FAP TV Pissing Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/544.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/FF89EF0E48504726B8733996AEB6A5B6/544.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/lqgZHJc.png" group-title="SINH HỌC", FAP TV Parody Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/538.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/FF89EF0E48504726B8733996AEB6A5B6/538.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/0vKpdKe.png" group-title="SINH HỌC", FAP TV Lesbian Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/539.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/FF89EF0E48504726B8733996AEB6A5B6/539.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/AbcoxRE.png" group-title="SINH HỌC", FAP TV Compilation Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/543.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/FF89EF0E48504726B8733996AEB6A5B6/543.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/3DzXyeD.png" group-title="SINH HỌC", FAP TV BBW Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/542.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/FF89EF0E48504726B8733996AEB6A5B6/542.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/9zJwh4p.png" group-title="SINH HỌC", FAP TV Anal Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/541.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/FF89EF0E48504726B8733996AEB6A5B6/541.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/8i925xW.png" group-title="SINH HỌC", FAP TV Amateur Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/545.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/FF89EF0E48504726B8733996AEB6A5B6/545.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/tx17CKG.png" group-title="SINH HỌC", Eroxxx TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/531.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/FF89EF0E48504726B8733996AEB6A5B6/531.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/wcHNDtK.png" group-title="SINH HỌC", Dusk TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/523.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/FF89EF0E48504726B8733996AEB6A5B6/523.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/9S32PU9.jpg" group-title="SINH HỌC", Dorcel TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/529.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/FF89EF0E48504726B8733996AEB6A5B6/529.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/A2GhFZC.jpg" group-title="SINH HỌC", Cento X Cento TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/526.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/FF89EF0E48504726B8733996AEB6A5B6/526.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/xVVcx64.png" group-title="SINH HỌC", Brazzers HD TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/516.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/FF89EF0E48504726B8733996AEB6A5B6/516.ts
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/imwARSC.png" group-title="SINH HỌC", Blue Hustler TV Live
-http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/448A8E20BF91470DA5510ABA1F172FE4/519.ts
+http://158.69.116.209:8888/live/DescargaNuestraAppTvPato2PuntoCom/FF89EF0E48504726B8733996AEB6A5B6/519.ts
