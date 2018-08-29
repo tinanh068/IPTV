@@ -150,7 +150,7 @@ http://live.cdn.mobifonetv.vn/motv/myhtvcgiadinh_hls.smil/chunklist_b1200000.m3u
 http://ott.realplaytv.net:12388/?header=hplus&name=htvc_gia_dinh&cdn=1
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htvc-gd" group-title="HTVC", HTVC Gia Đình S3
 http://baochinh.ga/iptv-hplus.php?kenh=htvc-giadinhhd
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htvc-pn" group-title="PHIM TỔNG HỢP", HTVC Phụ Nữ
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htvc-pn" group-title="PHIM TỔNG HỢP", HTVC Phụ Nữ 
 http://live.cdn.mobifonetv.vn/motv/myhtvcphunu_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htvc-tv" group-title="PHIM TỔNG HỢP", HTVC Thuần Việt S1
 http://live.cdn.mobifonetv.vn/motv/myhtvcthuanviet_hls.smil/chunklist_b1200000.m3u8
@@ -489,10 +489,6 @@ http://persik.by/stream/3903/293564/346.m3u8
 http://persik.by/stream/3903/293564/10217.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/match-bd" group-title="SPORT", K+ Bóng Đá 3
 http://persik.by/stream/3903/293564/10218.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Fox Sports 1 HD 
-http://210.210.155.35/session/f438f266-7bf0-11e8-b712-b82a72d63267/uq2663/h/h19/index2.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Fox Sports 2 HD
-http://210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index2.m3u8 
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", AD Sport 1 HD 
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", AD Sport 2 HD 
@@ -501,7 +497,7 @@ http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/04.m3u8|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/real-tv" group-title="SPORT", Realmadrid TV 
 https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", FOX SPORTS  MX
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", FOX SPORTS MX
 http://premium.darkiptv.com/darkiptv/foxsports_mx.php?index.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", FOX SPORTS 2 MX
 http://premium.darkiptv.com/darkiptv/foxsports2_mx.php?index.m3u8
@@ -940,7 +936,7 @@ http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9_1024/index.m3u8
 http://liveal.quanmin.tv/live/2117651770.flv
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 99
 http://liveal.quanmin.tv/live/2059397482.flv 
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 100 (HT  Lý Tiểu Long)
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 100 (HT Lý Tiểu Long)
 http://liveal.quanmin.tv/live/1534700896.flv 
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Phim TQ 101
 http://liveal.quanmin.tv/live/1524215162.flv 
@@ -966,7 +962,7 @@ http://liveal.quanmin.tv/live/2134495018.flv
 http://liveal.quanmin.tv/live/1579085168.flv 
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Music 1
 http://liveal.quanmin.tv/live/1524215674.flv
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU",  Music 2
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Music 2
 http://liveal.quanmin.tv/live/130742.flv
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Music 3
 http://liveal.quanmin.tv/live/2040262444_quanmin720.flv
@@ -1513,7 +1509,8 @@ https://5a6872aace0ce.streamlock.net/vovgt+hcm/vovgt+hcm.stream_aac/chunklist_w1
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/binhduong-fm" group-title="RADIO", BÌNH DƯƠNG FM
 http://ott.realplaytv.net:12388/?header=hplus&name=Binh_Duong_FM&cdn=1
 
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ftv-ad" group-title="THỜI TRANG", Fashion TV HD
+~♥Kênh Thời Trang♥~
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ftv-ad" group-title="FASHION", Fashion TV HD
 http://stream-01.nyc.dailymotion.com/52/dm/3/x3m6nld/live-3.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ftv-lt" group-title="THỜI TRANG", HD Fashion & Lifestyle
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ftv-lt" group-title="FASHION", HD Fashion & Lifestyle
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
