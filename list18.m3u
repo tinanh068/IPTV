@@ -150,9 +150,7 @@ http://live.cdn.mobifonetv.vn/motv/myhtvcgiadinh_hls.smil/chunklist_b1200000.m3u
 http://ott.realplaytv.net:12388/?header=hplus&name=htvc_gia_dinh&cdn=1
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htvc-gd" group-title="HTVC", HTVC Gia Đình S3
 http://baochinh.ga/iptv-hplus.php?kenh=htvc-giadinhhd
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htvc-pn" group-title="HTVC", HTVC Phụ Nữ S1
-
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htvc-pn" group-title="PHIM TỔNG HỢP", HTVC Phụ Nữ S2
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htvc-pn" group-title="PHIM TỔNG HỢP", HTVC Phụ Nữ 
 http://live.cdn.mobifonetv.vn/motv/myhtvcphunu_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htvc-tv" group-title="PHIM TỔNG HỢP", HTVC Thuần Việt S1
 http://live.cdn.mobifonetv.vn/motv/myhtvcthuanviet_hls.smil/chunklist_b1200000.m3u8
