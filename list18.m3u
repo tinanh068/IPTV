@@ -497,38 +497,8 @@ http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/04.m3u8|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/real-tv" group-title="SPORT", Realmadrid TV 
 https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", FOX SPORTS MX
-http://premium.darkiptv.com/darkiptv/foxsports_mx.php?index.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", FOX SPORTS 2 MX
-http://premium.darkiptv.com/darkiptv/foxsports2_mx.php?index.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", FOX SPORTS 3 MX
-http://premium.darkiptv.com/darkiptv/foxsports3_mx.php?index.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", FOX SPORTS
-http://premium.darkiptv.com/darkiptv/foxsports.php?index.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", FOX SPORTS 2
-http://premium.darkiptv.com/darkiptv/foxsports2.php?index.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", FOX SPORTS 3
-http://premium.darkiptv.com/darkiptv/foxsports3.php?index.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", GOLF CHANNEL
-http://premium.darkiptv.com/darkiptv/golfchannel.php?index.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", CLARO SPORTS
-http://premium.darkiptv.com/darkiptv/clarosport1.php?index.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", CLARO SPORTS 2
-http://premium.darkiptv.com/darkiptv/clarosport2.php?index.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", ESPN
-http://premium.darkiptv.com/darkiptv/espn.php?index.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", ESPN+
-http://premium.darkiptv.com/darkiptv/espnplus.php?index.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", WIN SPORTS
-http://premium.darkiptv.com/darkiptv/winsports.php?index.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", MLB NETWORK
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", NBA TV HD
-http://191.96.38.213:443/free54/0x777_2nba_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Golf HD
-http://191.96.38.213:443/free54/0x777_golfchannel_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", True Tennis HD
-http://191.96.38.213:443/free/0x777_truetennis_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", AD SPORT EXTRA
 http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", All SPORTS
@@ -541,32 +511,8 @@ http://46.40.5.99:8000/arena_2_high
 http://46.40.5.99:8000/arena_3_high
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Arena Sport 4
 http://46.40.5.99:8000/arena_4_high
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", SPORT TV1
-http://191.96.38.213:443/free41/0x444_sporttv1_360p/playlist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", SPORT TV2
-http://191.96.38.213:443/free41/0x444_sporttv2_360p/playlist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", SPORT TV3
-http://191.96.38.213:443/free41/0x444_sporttv3_360p/playlist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", SPORT TV4
-http://191.96.38.213:443/free41/0x444_sporttv4_360p/playlist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", SPORT TV5
-http://191.96.38.213:443/free41/0x444_sporttv5_360p/playlist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", SKYNET SPORTS HD
-http://191.96.38.213:443/free41/0x777_skynetsporthd_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", SKYNET SPORTS NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", SKYNET SPORTS 1
-http://191.96.38.213:443/free41/00_skynetsport1_480p/playlist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", SKYNET SPORTS 2
-http://191.96.38.213:443/free41/00_skynetsport2_480p/playlist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", SKYNET SPORTS 3
-http://191.96.38.213:443/free41/00_skynetsport3_480p/playlist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", SKYNET SPORTS 4
-http://191.96.38.213:443/free41/00_skynetsport4_480p/playlist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", SKYNET SPORTS 5
-http://191.96.38.213:443/free41/00_skynetsport5_480p/playlist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", SKYNET SPORTS 6
-http://191.96.38.213:443/free41/00_skynetsport6_480p/playlist.m3u8
 
 ~♥Kênh Du Lịch & Khám Phá♥~
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/discovery-tv" group-title="DU LỊCH & KHÁM PHÁ", Discovery HD
