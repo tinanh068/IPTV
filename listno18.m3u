@@ -1,5 +1,5 @@
-#EXTM3U 
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ecmin", ♥♥♥ List By Admin Tín Update 28/8/2018 ♥♥♥
+30#EXTM3U 
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ecmin", ♥♥♥ List By Admin Tín Update 30/8/2018 ♥♥♥
 https://gg.gg/ecmin
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/thvl-1" group-title="THVL", Vĩnh Long 1 S1
 http://ott.realplaytv.net:12388/?header=hplus&name=Vinh_Long_1&cdn=1
@@ -497,6 +497,30 @@ http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/04.m3u8|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/real-tv" group-title="SPORT", Realmadrid TV 
 https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", FOX SPORTS MX
+http://premium.darkiptv.com/ahivaelporno/foxsports_mx.php?index.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", FOX SPORTS 2 MX
+http://premium.darkiptv.com/ahivaelporno/foxsports2_mx.php?index.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", FOX SPORTS 3 MX
+http://premium.darkiptv.com/ahivaelporno/foxsports3_mx.php?index.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", FOX SPORTS
+http://premium.darkiptv.com/ahivaelporno/foxsports.php?index.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", FOX SPORTS 2
+http://premium.darkiptv.com/ahivaelporno/foxsports2.php?index.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", FOX SPORTS 3
+http://premium.darkiptv.com/ahivaelporno/foxsports3.php?index.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", GOLF CHANNEL
+http://premium.darkiptv.com/ahivaelporno/golfchannel.php?index.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", CLARO SPORTS
+http://premium.darkiptv.com/ahivaelporno/clarosport1.php?index.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", CLARO SPORTS 2
+http://premium.darkiptv.com/ahivaelporno/clarosport2.php?index.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", ESPN
+http://premium.darkiptv.com/ahivaelporno/espn.php?index.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", ESPN+
+http://premium.darkiptv.com/ahivaelporno/espnplus.php?index.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", WIN SPORTS
+http://premium.darkiptv.com/ahivaelporno/winsports.php?index.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", MLB NETWORK
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", AD SPORT EXTRA
@@ -1459,4 +1483,4 @@ http://ott.realplaytv.net:12388/?header=hplus&name=Binh_Duong_FM&cdn=1
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ftv-ad" group-title="FASHION", Fashion TV HD
 http://stream-01.nyc.dailymotion.com/52/dm/3/x3m6nld/live-3.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ftv-lt" group-title="FASHION", HD Fashion & Lifestyle
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8s
