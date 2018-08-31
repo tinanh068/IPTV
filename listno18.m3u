@@ -1483,4 +1483,6 @@ http://ott.realplaytv.net:12388/?header=hplus&name=Binh_Duong_FM&cdn=1
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ftv-ad" group-title="FASHION", Fashion TV HD
 http://stream-01.nyc.dailymotion.com/52/dm/3/x3m6nld/live-3.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ftv-lt" group-title="FASHION", HD Fashion & Lifestyle
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8s
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+
+
