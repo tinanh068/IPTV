@@ -1,52 +1,5 @@
 #EXTM3U 
-
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-1" group-title="VTC", VTC1 
-http://live.cdn.mobifonetv.vn/motv2/myvtc1_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-3" group-title="VTC", VTC3
-http://live.cdn.mobifonetv.vn/motv2/myvtc3_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-4" group-title="VTC", VTC4 
-http://ott.realplaytv.net:12388/?header=hplus&name=vtc4&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://bit.ly/vtc-5" group-title="VTC", VTC5 
-http://vtsstr4.sctv.vn:1935/testlive1/vtc5_SD.smil/chunklist_b2292000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-7" group-title="VTC", VTC7 HD-Today 
-http://live.cdn.mobifonetv.vn/motv2/mytodaytv_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-8" group-title="VTC", VTC8 
-http://ott.realplaytv.net:12388/?header=hplus&name=vtc8&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-9" group-title="VTC", VTC9 
-http://live.cdn.mobifonetv.vn/motv2/myletsviet_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-10" group-title="VTC", VTC10-Nét Việt S1
-http://ott.realplaytv.net:12388/?header=hplus&name=vtc10&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-10" group-title="VTC", VTC10-Nét Việt S2
-http://live.cdn.mobifonetv.vn/motv2/myvtc10_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-11" group-title="VTC", VTC11-Kids S1
-http://ott.realplaytv.net:12388/?header=hplus&name=vtc11&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-11" group-title="VTC", VTC11-Kids S2
-http://live.cdn.mobifonetv.vn/motv2/myvtc11_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-11" group-title="VTC", VTC11-Kids S3
-http://baochinh.ga/iptv-hplus.php?kenh=vtc16
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-14" group-title="VTC", VTC14 HD S1
-http://ott.realplaytv.net:12388/?header=hplus&name=vtc14&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-14" group-title="VTC", VTC14 HD S2
-http://baochinh.ga/iptv-hplus.php?kenh=vtc14hd
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-16" group-title="VTC", VTC16 
-http://ott.realplaytv.net:12388/?header=hplus&name=vtc16&cdn=1
-
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htvc-f" group-title="PHIM TỔNG HỢP", HTVC Phim HD S1
-http://live.cdn.mobifonetv.vn//motv/myhtvcphim_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htvc-f" group-title="HTVC", HTVC Phim HD S2
-http://ott.realplaytv.net:12388/?header=hplus&name=htvc_phim&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htvc-f" group-title="HTVC", HTVC Phim HD S3
-http://baochinh.ga/iptv-hplus.php?kenh=htvc-phimhd
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/fimhay" group-title="PHIM TỔNG HỢP", Phim Hay HD
-http://live.cdn.mobifonetv.vn/motv3/phimhay_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htvc-dl" group-title="DU LỊCH & KHÁM PHÁ", HTVC Du Lịch S1
-http://live.cdn.mobifonetv.vn/motv/myhtvcdulich_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htvc-dl" group-title="HTVC", HTVC Du Lịch S2
-http://ott.realplaytv.net:12388/?header=hplus&name=htvc_du_lich&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htvc-dl" group-title="HTVC", HTVC Du Lịch S3
-http://baochinh.ga/iptv-hplus.php?kenh=htvc-dulichhd
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htvc-ms" group-title="MUSIC", HTVC Ca Nhạc S1
-http://live.cdn.mobifonetv.vn/motv/myhtvccanhac_hls.smil/chunklist_b1200000.m3u8
+c_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htvc-ms" group-title="HTVC", HTVC Ca Nhạc S2
 http://ott.realplaytv.net:12388/?header=hplus&name=htvc_ca_nhac&cdn=1
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htvc-ms" group-title="HTVC", HTVC Ca Nhạc S3
