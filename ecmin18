@@ -92,10 +92,8 @@ http://baochinh.ga/iptv-hplus.php?kenh=htvc-coop
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-ms" group-title="MUSIC", VTC Ca Nhạc
 http://118.107.68.10:1935/live/_definst_/VTC_CANHAC2017/chunklist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-1" group-title="VTC", VTC1 HD S1
-http://118.107.68.10:1935/live/smil:VTC1HD_ad86cb2e3c70f5e1.smil/chunklist_b1296000_slVI.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-1" group-title="VTC", VTC1 HD S2
 http://ott.realplaytv.net:12388/?header=hplus&name=vtc1&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-1" group-title="VTC", VTC1 HD S3
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-1" group-title="VTC", VTC1 HD S2
 http://baochinh.ga/iptv-hplus.php?kenh=vtc1hd
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-1" group-title="VTC", VTC1 
 http://live.cdn.mobifonetv.vn/motv2/myvtc1_hls.smil/chunklist.m3u8
@@ -432,21 +430,21 @@ rtmp://103.48.83.44/oflaDemo/livestream
 
 ~♥Kênh Phim Quốc Tế♥~
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/hbo-ad" group-title="PHIM QUỐC TẾ", HBO S1
-http://huuvinh.ooo/motv/mytv/?id=redhbo
+http://huuvinh.ooo/motv2/mytv/?id=redhbo
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/hbo-ad" group-title="PHIM QUỐC TẾ", HBO S2
-http://huuvinh.ooo/motv/mytv/?id=hbosd
+http://huuvinh.ooo/motv2/mytv/?id=hbosd
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/fox-mv" group-title="PHIM QUỐC TẾ", Fox Movies HD
-http://huuvinh.ooo/motv/hplus/?id=foxmovies-hd
+http://huuvinh.ooo/motv2/hplus/?id=foxmovies-hd
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/foxlife" group-title="PHIM QUỐC TẾ", Fox Life HD
-http://huuvinh.ooo/motv/hplus/?id=foxlife-hd
+http://huuvinh.ooo/motv2/hplus/?id=foxlife-hd
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/red-hbo" group-title="PHIM QUỐC TẾ", Red By HBO HD
-http://huuvinh.ooo/motv/hplus/?id=redhbo
+http://huuvinh.ooo/motv2/hplus/?id=redhbo
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/warner" group-title="PHIM QUỐC TẾ", WarnerTV HD
-http://huuvinh.ooo/motv/hplus/?id=warner-tv
+http://huuvinh.ooo/motv2/hplus/?id=warner-tv
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/cinemaworld" group-title="PHIM QUỐC TẾ", Cinema World 
-http://huuvinh.ooo/motv/hplus/?id=cinemaworld
+http://huuvinh.ooo/motv2/hplus/?id=cinemaworld
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/axn-hd" group-title="PHIM QUỐC TẾ", AXN T.Việt 
-http://huuvinh.ooo/motv/hplus/?id=axn
+http://huuvinh.ooo/motv2/hplus/?id=axn
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/foxfamily" group-title="PHIM QUỐC TẾ", Fox Family 
 http://baochinh.ga/iptv-hplus.php?kenh=foxfamilymovies
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/zee-tv" group-title="PHIM QUỐC TẾ", Zee TV T.Việt
@@ -456,13 +454,13 @@ http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/32212
 
 ~♥Kênh Thiếu Nhi♥~
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/cartoon-nw" group-title="KID", Cartoon Network T.Việt 
-http://huuvinh.ooo/motv/hplus/?id=cartoon
+http://huuvinh.ooo/motv2/hplus/?id=cartoon
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/boomerang-tv" group-title="KID", Boomerang T.Việt
-http://huuvinh.ooo/motv/hplus/?id=boomerang
+http://huuvinh.ooo/motv2/hplus/?id=boomerang
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/disney-cn" group-title="KID", Disney Channel T.Việt
-http://huuvinh.ooo/motv/mytv/?id=disney
+http://huuvinh.ooo/motv2/mytv/?id=disney
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/davici" group-title="KID", Da Vinci Learning 
-http://huuvinh.ooo/motv/mytv/?id=davinci
+http://huuvinh.ooo/motv2/mytv/?id=davinci
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/discovery-kid" group-title="KID", DISCOVERY KID
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225775/04.m3u8|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/bb-first" group-title="KID", BABY FIRST
@@ -541,6 +539,64 @@ http://46.40.5.99:8000/arena_3_high
 http://46.40.5.99:8000/arena_4_high
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", SKYNET SPORTS NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/bein-sp" group-title="SPORT", beIN SPORTS 1 HD
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=971
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/bein-sp" group-title="SPORT", beIN SPORTS 2 HD
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=972
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/bein-sp" group-title="SPORT", beIN SPORTS 3 HD
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=973
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/bein-sp" group-title="SPORT", beIN SPORTS 4 HD
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=974
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/bein-sp" group-title="SPORT", beIN SPORTS 5 HD
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=975
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/bein-sp" group-title="SPORT", beIN SPORTS 6 HD
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=976
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/bein-sp" group-title="SPORT", beIN SPORTS 7 HD
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=977
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/bein-sp" group-title="SPORT", beIN SPORTS 8 HD
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=978
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/bein-sp" group-title="SPORT", beIN SPORTS 9 HD
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=979
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/bein-sp" group-title="SPORT", beIN SPORTS 10 HD
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=980
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/bein-sp" group-title="SPORT", beIN SPORTS 1 HD^^
+http://zonalive.stream/Global.m3u8?id=1494|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/bein-sp" group-title="SPORT", beIN SPORTS 2 HD^^
+http://zonalive.stream/Global.m3u8?id=1493|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/bein-sp" group-title="SPORT", beIN SPORTS 3 HD^^
+http://zonalive.stream/Global.m3u8?id=1492|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/bein-sp" group-title="SPORT", beIN SPORTS 4 HD^^
+http://zonalive.stream/Global.m3u8?id=1491|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/bein-sp" group-title="SPORT", beIN SPORTS 5 HD^^
+http://zonalive.stream/Global.m3u8?id=1490|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/bein-sp" group-title="SPORT", beIN SPORTS 6 HD^^
+http://zonalive.stream/Global.m3u8?id=1489|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/bein-sp" group-title="SPORT", beIN SPORTS 7 HD^^
+http://zonalive.stream/Global.m3u8?id=1488|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/bein-sp" group-title="SPORT", beIN SPORTS 8 HD^^
+http://zonalive.stream/Global.m3u8?id=1487|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/bein-sp" group-title="SPORT", beIN SPORTS 9 HD^^
+http://zonalive.stream/Global.m3u8?id=1486|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/bein-sp" group-title="SPORT", beIN SPORTS 10 HD^^
+http://zonalive.stream/Global.m3u8?id=1485|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/bein-sp" group-title="SPORT", beIN Sports New
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1961
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/bein-sp" group-title="SPORT", Canal+ Sport HD
+http://zonalive.stream/Global.m3u8?id=1419|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Dubai Racing TV
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", Sports TV
+http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", TJK TV
+http://tjktv.ercdn.net/tjktv_576p.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", TRT Sports HD
+http://trt-live.ercdn.net/trtspor/trtspor.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", WWE HD
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=5668
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", BT Sports 1 HD
+http://zonalive.stream/beoutN.m3u8?id=BT%20Sports%201|User-Agent=Jai%20Bajrangbali&.ts
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", BT Sports 2 HD
+http://zonalive.stream/beoutN.m3u8?id=BT%20Sports%202|User-Agent=Jai%20Bajrangbali&.ts
 
 ~♥Kênh Du Lịch & Khám Phá♥~
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/discovery-tv" group-title="DU LỊCH & KHÁM PHÁ", Discovery HD
@@ -1432,6 +1488,8 @@ http://z9.syasn.com/f/f240
 http://z9.syasn.com/f/f241
 
 ~♥Kênh Tin Tức♥~
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/netviet" group-title="TIN TỨC", NETVIET
+http://62.76.100.178:8081/viet/netviet/chunks.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/antg-hd" group-title="TIN TỨC", ANTG HD
 http://live.cdn.mobifonetv.vn/motv/antg_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/nhandan" group-title="TIN TỨC", Nhân Dân HD S1
