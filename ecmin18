@@ -1445,5 +1445,3 @@ http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel31/pl
 http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel41/playlist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://i.imgur.com/DT00k1K.jpg" group-title="SINH HỌC", Trans
 https://www.ast.tv/stream/1/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BUNGABUNGA.png" group-title="SINH HỌC",BUNGA BUNGA 
-http://5.135.92.130:58143/out/u/109_1.m3u8
