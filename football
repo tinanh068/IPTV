@@ -1,43 +1,173 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ecmin", ❤❤❤ List By Admin Tín Update 20/9/2018 ❤❤❤ 
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ecmin", ❤❤❤ List By Admin Tín Update 22/9/2018 ❤❤❤ 
 https://gg.gg/ecmin
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ecmin" group-title="⚽BÓNG ĐÁ ACESTREAM⚽", 👉~P/S: Kênh chỉ play khi Acestream được bật~👈
 https://gg.gg/ecmin
-#EXTINF: -1 tvg-id = "Ecmin" tvg-logo ="https://gg.gg/fifa-ad" group-title = "⚽BÓNG ĐÁ ACESTREAM⚽", Match TV FHD
-acestream://79b427522fc1b8686a70a9ce865a31bbd5670648
-#EXTINF: -1 tvg-id = "Ecmin" tvg-logo ="https://gg.gg/fifa-ad" group-title = "⚽BÓNG ĐÁ ACESTREAM⚽", Match TV HD
-acestream://781f1e0f92475b086b3988bf45da9fbf88de3e63
-#EXTINF: -1 tvg-id = "Ecmin" tvg-logo ="https://gg.gg/fifa-ad" group-title = "⚽BÓNG ĐÁ ACESTREAM⚽", Futbol 1 FHD (Ukraine)
-acestream://c0816fe5813eea844c7252af7a1f18ed61b59066
-#EXTINF: -1 tvg-id = "Ecmin" tvg-logo ="https://gg.gg/fifa-ad" group-title = "⚽BÓNG ĐÁ ACESTREAM⚽", Futbol 2 FHD (Ukraine)
-acestream://6494d630fa3e45e0ac56169bfd9a7ddfbbbda4f2
-#EXTINF: -1 tvg-id = "Ecmin" tvg-logo ="https://gg.gg/fifa-ad" group-title = "⚽BÓNG ĐÁ ACESTREAM⚽", Match! Football 1 FHD S1
-acestream://43db06f666bf3fd4182674b7dc87e2c9a8fe7730
-#EXTINF: -1 tvg-id = "Ecmin" tvg-logo ="https://gg.gg/fifa-ad" group-title = "⚽BÓNG ĐÁ ACESTREAM⚽", Match! Football 1 FHD S2
-acestream://7d30e1cbf42fbf442d80fd8f993263d7365ebcde
-#EXTINF: -1 tvg-id = "Ecmin" tvg-logo ="https://gg.gg/fifa-ad" group-title = "⚽BÓNG ĐÁ ACESTREAM⚽", Match! Football 1 FHD S3
-acestream://ae72017f8a95455f9f27f88583b2335065c89686
-#EXTINF: -1 tvg-id = "Ecmin" tvg-logo ="https://gg.gg/fifa-ad" group-title = "⚽BÓNG ĐÁ ACESTREAM⚽", Match! Football 1 FHD S4
-acestream://8d67d71ca47dffc4509910d088f19622e2415fe1
-#EXTINF: -1 tvg-id = "Ecmin" tvg-logo ="https://gg.gg/fifa-ad" group-title = "⚽BÓNG ĐÁ ACESTREAM⚽", Match! Football 2 FHD 
-acestream://ffe865d28f3f495c11c7395c20d14d2bd26e5a1a
-#EXTINF: -1 tvg-id = "Ecmin" tvg-logo ="https://gg.gg/fifa-ad" group-title = "⚽BÓNG ĐÁ ACESTREAM⚽", Match! Football 3 FHD
-acestream://e71acc95bf6fa7939c0d5a0b1c27cae65bfea8ef
-#EXTINF: -1 tvg-id = "Ecmin" tvg-logo ="https://gg.gg/fifa-ad" group-title = "⚽BÓNG ĐÁ ACESTREAM⚽", Match! Football 1 HD
-acestream://92550ac34357a69bf6c734145fa359197d62fec0
-#EXTINF: -1 tvg-id = "Ecmin" tvg-logo ="https://gg.gg/fifa-ad" group-title = "⚽BÓNG ĐÁ ACESTREAM⚽", Match! Football 2 HD
-acestream://153e4a4098ada1e6150a5e62cdd58db806fddada
-#EXTINF: -1 tvg-id = "Ecmin" tvg-logo ="https://gg.gg/fifa-ad" group-title = "⚽BÓNG ĐÁ ACESTREAM⚽", Match! Football 3 HD
-acestream://70b20efc8b27aa84025b7fe5752dea186429b08c
-#EXTINF: -1 tvg-id = "Ecmin" tvg-logo ="https://gg.gg/fifa-ad" group-title = "⚽BÓNG ĐÁ ACESTREAM⚽",  Max Sport 1 SD (Bulgaria)
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", AD Sport 1 HD
+acestream://1749eee19b1f238736c5eda470d19b2b01115efd
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", AD Sport 2 HD
+acestream://f9fefee84e12f354adc677ac05c42a6096cc446b
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Al Kass Sports 5
+acestream://32f6554c008557605e806353e1ce828b8b3173d3
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", AlKass Sports 2
+acestream://1b834adedc98e613412af2020d4ce235036d421e
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", AlKass Sports One
+acestream://f5dfa3f37ed9b4febd3d1bc93ebbb8a4e9febd9e
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", AlKass Sports Online
+acestream://fe2abf7a3fe22beacc8bb7a0be64a18414d945ee
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Bursaspor TV !
+acestream://41496d35636851550c8d7ae57686b06e53e88587
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", C More Hockey
+acestream://f5a7feaeef15566ab6448f0919a9f70511d95641
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", CBC Sport HD
+acestream://b3df5cad4ae15e233c4104a5e578ef0784f5a7a9
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", CDO
+acestream://fe2540b120b8705f12607ed6882788a562059e78
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", DSports HD
+acestream://98b9ff746feb545da65a88e3ad648189c229f575
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Dota2 Film TV
+acestream://15dc008ea5e42d9a44060c90cd10afd047d8abee
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Dubai Sport TV
+acestream://868dcb241ec995bfba2a2dead2602223119c8b5b
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Dubai Sports 2
+acestream://7e9db62da245c85fce9b7c05ae982b54a90a90ba
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Eurosport 1
+acestream://98cdc1e2a6b56b30120140f836be2716caf62538
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Eurosport 1 Deutschland
+acestream://9e7d32e0dcf454a2d9dcbf070e79aaa2ddb8deb6
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Eurosport 1 HD
+acestream://bc16ce6ae0caa718e5d3c90c15195b2fefa04f37
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Eurosport 2
+acestream://2de856b1a866abac8ee11f49136ddcd60a312227
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Eurosport 2 HD
+acestream://930e3c5f1c33979753389ea78b3df5a5d5011a7c
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Extreme Sports
+acestream://7304ec2ae75ab0858c9fb161e1ad646c160ec416
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Fast and FunBox
+acestream://21e3a19d04a585b077751032f4581b9563745e12
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Fight Time HD
+acestream://ba3e9b3402d6039a83be0bccf2b57144153e0450
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", FightBox HD
+acestream://b6a806f75c63513046c8902413a7acfb6b125762
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Golf Channel Polska HD
+acestream://2182bace665e021431046649be72900e8a532ee2
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Idman TV
+acestream://c3945ee85f321343018f7cda0b2c005ae9d1e8c6
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Max Sport 1
 acestream://90376e75d76523fd38d21ddadee2bc6b66180246
-#EXTINF: -1 tvg-id = "Ecmin" tvg-logo ="https://gg.gg/fifa-ad" group-title = "⚽BÓNG ĐÁ ACESTREAM⚽",  Max Sport 2 SD (Bulgaria)
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Max Sport 2
 acestream://92ab35a95684a08e27088fd78e659459493752aa
-#EXTINF: -1 tvg-id = "Ecmin" tvg-logo ="https://gg.gg/fifa-ad" group-title = "⚽BÓNG ĐÁ ACESTREAM⚽", Eurosport 1 FHD
-acestream://0875bcaf99c5a8cb7c6d001e8e9f57e04a7f0cce
-#EXTINF: -1 tvg-id = "Ecmin" tvg-logo ="https://gg.gg/fifa-ad" group-title = "⚽BÓNG ĐÁ ACESTREAM⚽", Eurosport 2 FHD 
-acestream://db1019b9f8d4de18918d007644d918cdd21d912a
-#EXTINF: -1 tvg-id = "Ecmin" tvg-logo ="https://gg.gg/fifa-ad" group-title = "⚽BÓNG ĐÁ ACESTREAM⚽", Eurosport 1 HD
-acestream://5e9f075c9f6703b4dd355f649c424d715570e51b
-#EXTINF: -1 tvg-id = "Ecmin" tvg-logo ="https://gg.gg/fifa-ad" group-title = "⚽BÓNG ĐÁ ACESTREAM⚽", Eurosport 2 HD
-acestream://30a49eef2476820106c8292374838d03a72f2307
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", MostVideo.TV HD
+acestream://5f84584bbb14c6b2742e2a7371cec7fb8d8815f3
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Nautical Channel HD
+acestream://6a9eca9586eb73e1117bad35e093cc25044d5303
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Olympic Channel HD
+acestream://e6678da57bcbe46f50fecfdfa5373336e07782c9
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Polsat Sport
+acestream://16445acb431af29265e5c078a0526b75ae21b47e
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Polsat Sport Extra
+acestream://686d36de05220730c252438dd6947cf1c59379e9
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Rai Sport
+acestream://0b72a95e09df4332460b33b8758dfe15a2c38def
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Real Madrid TV (English)
+acestream://6a87385c4b7f9f786d2697c7c68740fab8258791
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Real Madrid TV (Spanish)
+acestream://c5e4a5e918f0d228d3fa22706579ebe10350894c
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", SEVILLA FC TV
+acestream://76523b2956afe6d969217a0b68ee187a4438d905
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Sharjah Sports TV
+acestream://a26b4930b93d638341d93476eb3b6ee3e1edd029
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Sky Sport F1 HD (Italy)
+acestream://3d02f3def5d9f75550e2132e96bb84a1f9467b6d
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Sky Sport News HD Deutschland
+acestream://42350416d87522b02b18c15c3907ae5f3440c7af
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Sport Klub Polska HD
+acestream://d735af39763c204dc8b4013b6529915937f7e7f0
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Sportacentrs.com TV (Latvia)
+acestream://7f0bb21d7fe6cfdfbc02abee7080f491c5a9c0fd
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Super Tennis HD
+acestream://93dea5e0ac7daf83106fe9b802a0071cc6583ac4
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", TVP Sport HD
+acestream://a1edd0e196c9d18236d93d3146c8d4a96eda9580
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", UEFA Channel
+acestream://25cdb6a77a6784d69f672786f52b15767b8ed605
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Viasat Golf
+acestream://b1dc9aafff9a1cccc42c93b5ae181cc460ed351b
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Viasat Sport
+acestream://242ffdf6faf91ef746524277316ae7986fa581d1
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Viasat Sport Baltic
+acestream://56836c83673ebae9cf7c43d8565ce8c0ca3142d6
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Viasat Sport HD
+acestream://1ced4aa8490df69a613cd95fb6c47a2f78ebb7ca
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Belarus 5
+acestream://43d1b1c8a59060d2e10105c814b2e8ca1ba40938
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Eurosport Gold
+acestream://3d35e17457728630f412908e029cfdd4fd307e9c
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", KHL HD
+acestream://c3fbfb3435510d7f5f6eb062a8e7fa2355a91dde
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", KHL TV
+acestream://1116a3b3cd30218d8523f34ccb5f369d73e0d019
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Horse World
+acestream://fee6136528dd97c265457d709b9bbfbef1020f4e
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Horse World HD
+acestream://2a091787cb1b527515331d05cd3775fd63d8357a
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Match TV
+acestream://d80975b931f4b79742cf7c8c433e0e26b104ba9d
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Match TV HD
+acestream://8fed656e0648392049e2a45af074f300bfab75a4
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Match! Arena
+acestream://dd0ed43a2638163e292ba9c7d316df5e672ea9e9
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Match! Arena HD
+acestream://bc10896df4bcf76c5ba7ef3a1bd854cd7961d07d
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Match! Game
+acestream://3c0f67138065b8a3947e426c1b85aa1ced0f3f80
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Match! Game HD
+acestream://9d07f99142cd772066a9106a371ffd49db8ac0f1
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Match! Our Sport
+acestream://024e5ff796fd2a51dff9434ef34ae50bb5c35723
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Match! Planet
+acestream://87cde69ad97ce6ff9abe359d7298f675ba40aa4a
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Match! Football 1
+acestream://ea2a605275110b1bb8aaec646983092186b3091c
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Match! Football 1 HD
+acestream://b9f805f5a8246d79ecec8c61bba52860ed9c84fe
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Match! Football 1 HD Reserve 1
+acestream://d7ed8e9433b31021d7e7fe5ff6168bc222c9e05a
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Match! Football 1 HD Reserve 2
+acestream://e3c65625e6d5004b17bbf18779f2d633800c0dcf
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Match! Football 1 HD Reserve 3
+acestream://6c0ef40b47c6dfafe61b598917ed215ca35a6892
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Match! Football 1 Reserve 1
+acestream://b16eb3e4c926643cdda2a399be52200724b58fe6
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Match! Football 1 Reserve 2
+acestream://82c735ffd908899650b7fb8e9295314b022c8b4d
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Match! Football 1 Reserve 3
+acestream://21f04a62eae591212c97666447ad9597c011a15c
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Match! Football 2
+acestream://817c0e8c76badfa374efb79b7697ff9d33a50554
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Match! Football 2 HD
+acestream://908ed06b40b73e57ff07abf5971aae296242e652
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Match! Football 3
+acestream://214b77c8867dddccb36a199f6edde7c0f51cd690
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Match! Football 3 HD
+acestream://acdbd369d8186d918e3e296d10f85c69e98b2de4
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Motorsport TV HD
+acestream://3eddc35904816099608a62ce85e9fde374042d7c
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", POWER HD TV
+acestream://114ecce897f5131d5dc7fee0910600d73011f4b3
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Setanta Sports
+acestream://e02c9f657d0e3cd295d2811b8abe026ebb0b181d
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Setanta Sport plus
+acestream://c49d21445f91d0bc46f20cbad8e27b4a69a5a531
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Breakpoint
+acestream://57c6e20beda01bdf19e7d1ec8c3b4ef8bb72a706
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Football HD
+acestream://4f31257f680ff6dfef95616a27be1c5ee527f9a4
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Football
+acestream://748c0236debebabd81cd324638a2c84902e0c962
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Football 1 HD
+acestream://c556b1afd838cf16871a56a7401fd71ce2b2c3e1
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Football 2 (Ukraine)
+acestream://03be47bd6f266ceedf88778494ab0fad2afd8049
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="⚽SPORT ACESTREAM⚽", Football 2 HD
+acestream://48282b4268a93950bda20bae95a42f49f82cf9c4
