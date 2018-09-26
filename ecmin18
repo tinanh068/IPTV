@@ -143,6 +143,8 @@ http://ott.realplaytv.net:12388/?header=hplus&name=htvc_shopping&cdn=1
 
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-5" group-title="SCTV", SCTV5 HD-SCJ  
 https://bit.ly/sc-tv-5
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-8" group-title="SCTV", SCTV8
+http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-10" group-title="SCTV", SCTV10 HD-SaoNamShopping
 https://bit.ly/sc-tv-10
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-20" group-title="MUSIC", SCTV20 HD-iTV MUSIC 
