@@ -395,6 +395,12 @@ http://tranvinh.tk/load/mytv/?id=disney
 http://tranvinh.tk/load/mytv/?id=davinci
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/discovery-kid" group-title="KID", DISCOVERY KID
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225775/04.m3u8|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/kid-ad" group-title="KID", Kid 1
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226696/index.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/kid-ad" group-title="KID", Kid 2
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226743/index.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/kid-ad" group-title="KID", Kid 3
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226732/index.m3u8
 
 ~❤Kênh Thể Thao❤~
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/astroarena" group-title="SPORT", Astro Arena HD
@@ -421,6 +427,10 @@ http://persik.by/stream/3903/293564/346.m3u8
 http://persik.by/stream/3903/293564/10217.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/match-bd" group-title="SPORT", K+ Bóng Đá 3
 http://persik.by/stream/3903/293564/10218.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", BesTV Sport 1 FHD
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226642/index.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", BesTV Sport 2 FHD
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226646/index.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", AD Sport 1 HD 
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", AD Sport 2 HD 
