@@ -2,13 +2,13 @@
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ecmin", ❤❤❤ List By Admin Tín Update 27/9/2018 ❤❤❤
 https://gg.gg/ecmin
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/thvl-1" group-title="THVL", Vĩnh Long 1 HD
-http://tranvinh.xyz/play/thvli.php?id=vinhlong1hd
+http://tranvinh.tk/thvli/?id=vinhlong1hd
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/thvl-1" group-title="THVL", Vĩnh Long 1 S1
 http://ott.realplaytv.net:12388/?header=hplus&name=Vinh_Long_1&cdn=1
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/thvl-1" group-title="THVL", Vĩnh Long 1 S2
 http://live.cdn.mobifonetv.vn/motv/mythvl1_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/thvl-1" group-title="THVL", Vĩnh Long 2 HD
-http://tranvinh.xyz/play/thvli.php?id=vinhlong2hd
+http://tranvinh.tk/thvli/?id=vinhlong2hd
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/thvl-2" group-title="THVL", Vĩnh Long 2 S1
 http://ott.realplaytv.net:12388/?header=hplus&name=Vinh_Long_2&cdn=1
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/thvl-2" group-title="THVL", Vĩnh Long 2 S2
@@ -362,37 +362,37 @@ rtmp://103.48.83.44/oflaDemo/livestream
 
 ~❤Kênh Phim Quốc Tế❤~
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/hbo-ad" group-title="PHIM QUỐC TẾ", HBO S1
-http://tranvinh.tk/load/mytv/?id=redhbo
+http://mytv.tranvinh.tk/?id=redhbo&type=playlist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/hbo-ad" group-title="PHIM QUỐC TẾ", HBO S2
-http://tranvinh.tk/load/mytv/?id=hbosd
+http://mytv.tranvinh.tk/?id=hbosd&type=playlist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/fox-mv" group-title="PHIM QUỐC TẾ", Fox Movies HD
-http://tranvinh.tk/load/hplus/?id=foxmovies-hd
+http://hplus.tranvinh.tk/?id=foxmovies-hd&type=playlist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/foxlife" group-title="PHIM QUỐC TẾ", Fox Life HD
-http://tranvinh.tk/load/hplus/?id=foxlife-hd
+http://hplus.tranvinh.tk/?id=foxlife-hd&type=playlist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/red-hbo" group-title="PHIM QUỐC TẾ", Red By HBO HD
-http://tranvinh.tk/load/hplus/?id=redhbo
+http://hplus.tranvinh.tk/?id=redhbo&type=playlist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/warner" group-title="PHIM QUỐC TẾ", WarnerTV HD
-http://tranvinh.tk/load/hplus/?id=warner-tv
+http://hplus.tranvinh.tk/?id=warner-tv&type=playlist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/cinemaworld" group-title="PHIM QUỐC TẾ", Cinema World 
-http://tranvinh.tk/load/hplus/?id=cinemaworld
+http://hplus.tranvinh.tk/?id=cinemaworld&type=playlist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/axn-hd" group-title="PHIM QUỐC TẾ", AXN T.Việt 
-http://tranvinh.tk/load/hplus/?id=axn
+http://hplus.tranvinh.tk/?id=axn&type=playlist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/foxfamily" group-title="PHIM QUỐC TẾ", Fox Family 
-http://tranvinh.xyz/play/hplus.php?id=foxfamilymovies
+http://tranvinh.xyz/play/hplus.php?id=foxfamilymovies&type=playlist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/zee-tv" group-title="PHIM QUỐC TẾ", Zee TV T.Việt
-http://tranvinh.xyz/play/hplus.php?id=zeetv
+http://tranvinh.xyz/play/hplus.php?id=zeetv&type=playlist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/axn-hd" group-title="PHIM QUỐC TẾ", AXN HD
 http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226485/04.m3u8|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
 
 ~❤Kênh Thiếu Nhi❤~
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/cartoon-nw" group-title="KID", Cartoon Network T.Việt 
-http://tranvinh.tk/load/hplus/?id=cartoon
+http://hplus.tranvinh.tk/?id=cartoon&type=playlist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/boomerang-tv" group-title="KID", Boomerang T.Việt
-http://tranvinh.tk/load/hplus/?id=boomerang
+http://hplus.tranvinh.tk/?id=boomerang&type=playlist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/disney-cn" group-title="KID", Disney Channel T.Việt
-http://tranvinh.tk/load/mytv/?id=disney
+http://mytv.tranvinh.tk/?id=disney&type=playlist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/davici" group-title="KID", Da Vinci Learning 
-http://tranvinh.tk/load/mytv/?id=davinci
+http://mytv.tranvinh.tk/?id=davinci&type=playlist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/discovery-kid" group-title="KID", DISCOVERY KID
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225775/04.m3u8|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/kid-ad" group-title="KID", Kid 1
