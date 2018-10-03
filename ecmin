@@ -327,8 +327,6 @@ rtmp://222.255.123.4:1939/thbttv/bttv
 http://118.107.68.10:1935/live/smil:Dongnai1.smil/chunklist_b1264000_slVIE.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/dongnai2" group-title="ĐỊA PHƯƠNG", ĐỒNG NAI 2
 http://118.107.68.10:1935/live/smil:DNAI2WEB.smil/chunklist_b1264000_slVIE.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/dongnai3" group-title="ĐỊA PHƯƠNG", ĐỒNG NAI 3
-http://tranvinh.xyz/hplus.php?id=dongnai3
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/gialai" group-title="ĐỊA PHƯƠNG", GIA LAI
 rtmp://113.161.25.3/livepkgr/gltv?adbe-live-event=liveevent
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/hagiang" group-title="ĐỊA PHƯƠNG", HÀ GIANG
