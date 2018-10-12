@@ -1,28 +1,28 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ecmin", ❤❤❤ List By Admin Tín Update 7/10/2018 ❤❤❤ 
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ecmin", ❤❤❤ List By Admin Tín Update 12/10/2018 ❤❤❤ 
 https://gg.gg/ecmin
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ecmin" group-title="⚽BÓNG ĐÁ ACESTREAM⚽", 👉~P/S: Kênh chỉ play khi Acestream được bật~👈
 https://gg.gg/ecmin
 #EXTINF: -1 tvg-id = "Ecmin" tvg-logo ="https://gg.gg/fifa-ad" group-title = "⚽BÓNG ĐÁ ACESTREAM⚽", Match TV FHD
-acestream://21dffeecc35a3f1940833e162c8958e5ebf2f90a
+acestream://50b9bc042ef67848385f4d8f87629e8cb2875116
 #EXTINF: -1 tvg-id = "Ecmin" tvg-logo ="https://gg.gg/fifa-ad" group-title = "⚽BÓNG ĐÁ ACESTREAM⚽", Match TV HD
 acestream://781f1e0f92475b086b3988bf45da9fbf88de3e63
 #EXTINF: -1 tvg-id = "Ecmin" tvg-logo ="https://gg.gg/fifa-ad" group-title = "⚽BÓNG ĐÁ ACESTREAM⚽", Futbol 1 FHD (Ukraine)
-acestream://5788f6fac92960bb746866b372598d1bbafd089b
+acestream://a00dee8452208ce094465a82909206ec3f424ea0
 #EXTINF: -1 tvg-id = "Ecmin" tvg-logo ="https://gg.gg/fifa-ad" group-title = "⚽BÓNG ĐÁ ACESTREAM⚽", Futbol 2 FHD (Ukraine)
-acestream://ea56db29e9acf45f64039e602524e41f84cda799
+acestream://d17359a71c0cb370ca1fcb6c8e91be7e0bf006af
 #EXTINF: -1 tvg-id = "Ecmin" tvg-logo ="https://gg.gg/fifa-ad" group-title = "⚽BÓNG ĐÁ ACESTREAM⚽", Match! Football 1 FHD S1
-acestream://e1311292adc71a8c58c2ef0e189e5707cb768e6b
+acestream://3d2caaf53b6b0f70fb3599bb34e45350b6018f79
 #EXTINF: -1 tvg-id = "Ecmin" tvg-logo ="https://gg.gg/fifa-ad" group-title = "⚽BÓNG ĐÁ ACESTREAM⚽", Match! Football 1 FHD S2
-acestream://1eefff0d1f8b1d296959b7538799a4f3493ca4e7
+acestream://05116e1c97de36cda00ed4bf902e87f553aeb744
 #EXTINF: -1 tvg-id = "Ecmin" tvg-logo ="https://gg.gg/fifa-ad" group-title = "⚽BÓNG ĐÁ ACESTREAM⚽", Match! Football 1 FHD S3
 acestream://0ec0c06c6059fb5d13bbe1a1506de1a4b7f5a162
 #EXTINF: -1 tvg-id = "Ecmin" tvg-logo ="https://gg.gg/fifa-ad" group-title = "⚽BÓNG ĐÁ ACESTREAM⚽", Match! Football 1 FHD S4
-acestream://63722ab69b1188c6cf166976441bd515ca21b8ad
+acestream://49f00b04bd2a88dbc8c148c56cdadc6fde1c584a
 #EXTINF: -1 tvg-id = "Ecmin" tvg-logo ="https://gg.gg/fifa-ad" group-title = "⚽BÓNG ĐÁ ACESTREAM⚽", Match! Football 2 FHD
-acestream://7a87405a6eedae75cfe99dbcb720fc8a0401033c
+acestream://41db6e52fa2677d21d1be732ca0084688c6bb61e
 #EXTINF: -1 tvg-id = "Ecmin" tvg-logo ="https://gg.gg/fifa-ad" group-title = "⚽BÓNG ĐÁ ACESTREAM⚽", Match! Football 3 FHD
-acestream://cd8b760407661a066bd631f74d7b2e5bb1fbcea1a
+acestream://cb9d1e90bad330854bfb979a63f68d42918e3f68
 #EXTINF: -1 tvg-id = "Ecmin" tvg-logo ="https://gg.gg/fifa-ad" group-title = "⚽BÓNG ĐÁ ACESTREAM⚽", Match! Football 1 HD
 acestream://92550ac34357a69bf6c734145fa359197d62fec0
 #EXTINF: -1 tvg-id = "Ecmin" tvg-logo ="https://gg.gg/fifa-ad" group-title = "⚽BÓNG ĐÁ ACESTREAM⚽", Match! Football 2 HD
@@ -34,9 +34,9 @@ acestream://90376e75d76523fd38d21ddadee2bc6b66180246
 #EXTINF: -1 tvg-id = "Ecmin" tvg-logo ="https://gg.gg/fifa-ad" group-title = "⚽BÓNG ĐÁ ACESTREAM⚽",  Max Sport 2 SD (Bulgaria)
 acestream://92ab35a95684a08e27088fd78e659459493752aa
 #EXTINF: -1 tvg-id = "Ecmin" tvg-logo ="https://gg.gg/fifa-ad" group-title = "⚽BÓNG ĐÁ ACESTREAM⚽", Eurosport 1 FHD
-acestream://dfe9d92d76cf88cacde34247f9738143528a89f4
+acestream://ef028c92385d80507c13e4a8866e15cf0afdba38
 #EXTINF: -1 tvg-id = "Ecmin" tvg-logo ="https://gg.gg/fifa-ad" group-title = "⚽BÓNG ĐÁ ACESTREAM⚽", Eurosport 2 FHD
-acestream://e2b4580dc77b92a24f1e8ce17a17614abce78d33
+acestream://fac73ce867521cd565e723d46593d32333c45f25
 #EXTINF: -1 tvg-id = "Ecmin" tvg-logo ="https://gg.gg/fifa-ad" group-title = "⚽BÓNG ĐÁ ACESTREAM⚽", Eurosport 1 HD
 acestream://5e9f075c9f6703b4dd355f649c424d715570e51b
 #EXTINF: -1 tvg-id = "Ecmin" tvg-logo ="https://gg.gg/fifa-ad" group-title = "⚽BÓNG ĐÁ ACESTREAM⚽", Eurosport 2 HD
