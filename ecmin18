@@ -884,13 +884,13 @@ http://ott.realplaytv.net:12388/?header=hplus&name=Binh_Duong_FM&cdn=1
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ecmin" group-title="SINH HỌC", ♥~LH: fb.com/ecmin.tin Mở Lại 4 Kênh S+ Nếu Die~♥
 https://gg.gg/ecmin
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ecmin" group-title="SINH HỌC", S+1
-http://172.104.114.178/vod/live/1/live.m3u8?key=oddgikphde4jitaj33n7u4fkj3
+http://172.104.114.178/vod/live/1/live.m3u8?key=d7q7lis3gfim1hbfcmkanmrfu6
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ecmin" group-title="SINH HỌC", S+2
-http://172.104.114.178/vod/live/2/live.m3u8?key=oddgikphde4jitaj33n7u4fkj3
+http://172.104.114.178/vod/live/2/live.m3u8?key=d7q7lis3gfim1hbfcmkanmrfu6
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ecmin" group-title="SINH HỌC", S+3
-http://172.104.114.178/vod/live/3/live.m3u8?key=oddgikphde4jitaj33n7u4fkj3
+http://172.104.114.178/vod/live/3/live.m3u8?key=d7q7lis3gfim1hbfcmkanmrfu6
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ecmin" group-title="SINH HỌC", S+4
-http://172.104.114.178/vod/live/4/live.m3u8?key=oddgikphde4jitaj33n7u4fkj3
+http://172.104.114.178/vod/live/4/live.m3u8?key=d7q7lis3gfim1hbfcmkanmrfu6
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ecmin" group-title="SINH HỌC", PlayBoy VIP TH (Kor)
 http://14.63.194.48:1935/playboy/playboy.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ecmin" group-title="SINH HỌC", NONAME
