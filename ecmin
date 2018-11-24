@@ -89,8 +89,6 @@ http://live.cdn.mobifonetv.vn/motv2/myvtc1_hls.smil/chunklist.m3u8
 http://live.cdn.mobifonetv.vn/motv2/myvtc3_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-4" group-title="VTC", VTC4 
 http://ott.realplaytv.net:12388/?header=hplus&name=vtc4&cdn=1
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://bit.ly/vtc-5" group-title="VTC", VTC5 
-http://vtsstr4.sctv.vn:1935/testlive1/vtc5_SD.smil/chunklist_b2292000.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-7" group-title="VTC", VTC7 HD-Today 
 http://live.cdn.mobifonetv.vn/motv2/mytodaytv_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vtc-8" group-title="VTC", VTC8 
@@ -141,12 +139,9 @@ http://ott.realplaytv.net:12388/?header=hplus&name=htvc_fbnc&cdn=1
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/htvc-vgs" group-title="SHOP", HTVC Shopping-VGS Shop 
 http://ott.realplaytv.net:12388/?header=hplus&name=htvc_shopping&cdn=1
 
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-5" group-title="SCTV", SCTV5 HD-SCJ  
-https://bit.ly/sc-tv-5
+
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-8" group-title="SCTV", SCTV8
 http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-10" group-title="SCTV", SCTV10 HD-SaoNamShopping
-https://bit.ly/sc-tv-10
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sctv-20" group-title="MUSIC", SCTV20 HD-iTV MUSIC 
 http://kenhitv.vn/ITV_Stream/itv_web_500k.stream.mp4/chunklist.m3u8
 
